@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import codecs
 import enum
 import itertools
 import csv
@@ -13,9 +12,6 @@ import reddit_secret
 import praw
 from praw.models import Submission
 
-
-def rot13(s):
-    return codecs.encode(s, 'rot_13')
 
 class LevelTypes(enum.IntEnum):
     NORMAL = 0
