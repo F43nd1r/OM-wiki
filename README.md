@@ -1,11 +1,11 @@
 ### How to run this thing
 
-#####You need:
+#### You need:
 
 * A python3 interpreter
 * [PRAW](https://github.com/praw-dev/praw)
 
-#####You have to:
+#### You have to:
 
 * Replace all the mentions to `reddit_secret` with your token/password
 * Compile a suitable "post to reddit" section, at the end of the file
@@ -17,7 +17,7 @@ Running `./wiki_builder.py` will then:
 * create/update `scores.csv`, the wiki storage
 * create/update `timestamp.utc`, to avoid double-parsing
 
-#####Maintainance:
+#### Maintainance:
 
 Editing the `prefix`/`suffix` will change the other parts of the page.
 
