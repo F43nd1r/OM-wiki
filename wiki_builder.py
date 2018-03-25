@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 
 import argparse
+import csv
+import datetime
 import enum
 import itertools
-import csv
+import logging
 import re
-import datetime
 import time
 
 from collections import OrderedDict
@@ -257,6 +258,9 @@ def init(args):
     with open('trusted_users.txt', 'r') as usersfile:
         for user in filter(None, usersfile.read().split('\n')):
             trusted_users.add(user)
+    
+    logging_level = getattr(logging, args.loglevel)
+    logging.basicConfig(level=logging_level)
 
 def load_timestamp():
     try:
@@ -293,6 +297,7 @@ def parse_reddit(reddit, last_timestamp, args):
         for line in filter(None, comment.body.splitlines()):
             m = good_line_patt.search(line)
             if m: # this is a good line, with one level and some scores, now let's start parsing
+                logging.info("Y: %s", line)
                 level = None
                 cleaned_name = m[1].lower().replace('-', ' ').replace('’', "'")
                 for name in levels: # ignore case
@@ -310,6 +315,8 @@ def parse_reddit(reddit, last_timestamp, args):
                         link = linkmatch[1]
                     score = Score.fromFourStr(*m1.groups(), lev_scores.level_type, link)
                     lev_scores.add(score)
+            else:
+                logging.info("N: %s", line)
 
 if __name__ == '__main__':
     
@@ -320,6 +327,7 @@ if __name__ == '__main__':
     argparser.add_argument("--no-parse-reddit", action="store_false", dest='parse_reddit')
     argparser.add_argument("--no-post", action="store_false", dest='post')
     argparser.add_argument("--no-print", action="store_false", dest='print')
+    argparser.add_argument("--loglevel", choices=['WARNING', 'INFO', 'DEBUG'], default='WARNING')
     args = argparser.parse_args()
 
     init(args)
