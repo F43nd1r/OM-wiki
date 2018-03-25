@@ -7,8 +7,19 @@
 
 #### You have to:
 
-* Replace all the mentions to `reddit_secret` with your token/password
 * Compile a suitable "post to reddit" section, at the end of the file
+* Replace all the mentions to `reddit_secret` with your token/password
+
+The relevant part of `reddit_secret.py` is:
+
+```python
+client_id     = <client_id>
+client_secret = <client_secret>
+username      = <username>
+password      = <password>
+```
+
+Consult the PRAW documentation for help filling these variables.
 
 Running `./wiki_builder.py` will then:
 
