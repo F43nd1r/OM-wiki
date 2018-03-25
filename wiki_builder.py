@@ -231,7 +231,7 @@ def pairwise(iterable):
     return itertools.zip_longest(a, b)
 
 
-trusted_authors = set()
+trusted_users = set()
 levels = OrderedDict()
 
 scores_delim = ' - '
@@ -254,8 +254,8 @@ def init():
             levels[row['name']] = scores
     
     with open('trusted_users.txt', 'r') as usersfile:
-        for user in usersfile.read().split('\n'):
-            trusted_authors.add(user)
+        for user in fileter(None, usersfile.read().split('\n')):
+            trusted_users.add(user)
 
 if __name__ == '__main__':
 
@@ -291,7 +291,7 @@ if __name__ == '__main__':
     
     # iterate comments
     for comment in submission.comments.list():
-        if comment.author.name not in trusted_authors:
+        if comment.author.name not in trusted_users:
             continue
         
         comment_ts = comment.created_utc
