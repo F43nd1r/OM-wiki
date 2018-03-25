@@ -4,6 +4,8 @@ import enum
 import itertools
 import csv
 import re
+import datetime
+import time
 
 from collections import OrderedDict
 from pathlib import Path
@@ -33,7 +35,7 @@ class Score:
         else:
             return f'[{block}]({self.link})'
     
-    _pattern = re.compile(r'(\d+)/(\d+)/(\d+) (.+\..+)')
+    _pattern = re.compile(r'(\d+)/(\d+)/(\d+)(?: (.+\..+))?')
     @classmethod
     def parse(cls, string):
         match = cls._pattern.match(string)
@@ -266,7 +268,7 @@ if __name__ == '__main__':
             last_timestamp = float(tfile.read())
     except FileNotFoundError:
         pass
-    current_timestamp = last_timestamp
+    current_timestamp = time.time()
     
     # hi reddit
     reddit = praw.Reddit(client_id=reddit_secret.client_id,
@@ -295,10 +297,8 @@ if __name__ == '__main__':
         comment_ts = comment.created_utc
         if comment.edited:
             comment_ts = comment.edited
-        if comment_ts < last_timestamp:
+        if comment_ts <= last_timestamp:
             continue
-        if comment_ts > current_timestamp:
-            current_timestamp = comment_ts
         
         for line in filter(None, comment.body.splitlines()):
             m = good_line_patt.search(line)
@@ -351,6 +351,7 @@ if __name__ == '__main__':
     with open('prefix.md') as prefixfile:
         body += prefixfile.read()
     body += table
+    body += f'\nTable built on {datetime.datetime.fromtimestamp(current_timestamp)} UTC\n'
     with open('suffix.md') as suffixfile:
         body += suffixfile.read()
     
