@@ -283,7 +283,7 @@ def parse_reddit(reddit, last_timestamp, args):
     sep = r'[\s\*]*/[\s\*]*'
     score_reg = fr'\d+{sep}\d+{sep}\d+(?:{sep}\d+)?'
     pipe_sep_norm_levels = '|'.join(map(normalize, levels))
-    good_line_patt = re.compile(fr'({pipe_sep_norm_levels})\W+?{score_reg}(?!.*?{pipe_sep_norm_levels})')
+    good_normalized_line_patt = re.compile(fr'(?P<levelname>{pipe_sep_norm_levels})\W+?{score_reg}(?!.*?{pipe_sep_norm_levels})')
 
     score_pieces_patt = re.compile(fr'(\d+){sep}(\d+){sep}(\d+)(?:{sep}(\d+))?')
     link_patt = re.compile(r'\]\((.+\..+)\)')
@@ -300,13 +300,12 @@ def parse_reddit(reddit, last_timestamp, args):
             continue
         
         for line in filter(None, comment.body.splitlines()):
-            line = normalize(line)
-            m = good_line_patt.search(line)
+            m = good_normalized_line_patt.search(normalize(line))
             if m: # this is a good line, with one level and some scores, now let's start parsing
                 logging.info("Y: %s", line)
                 level = None
                 for name in levels: # ignore case
-                    if normalize(name) == m[1]:
+                    if normalize(name) == m['levelname']:
                         level = name
                         break
                 lev_scores = levels[level]
