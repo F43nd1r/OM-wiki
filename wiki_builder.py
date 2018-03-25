@@ -20,7 +20,15 @@ from praw.models import Submission
 class LevelTypes(enum.IntEnum):
     NORMAL = 0
     PRODUCTION = 1
-    TITLE = 2
+    TITLE_NORMAL = 10
+    TITLE_PRODUCTION = 11
+    TITLE_MIXED = 12
+    
+    def is_level(self):
+        return self in {LevelTypes.NORMAL, LevelTypes.PRODUCTION}
+        
+    def is_title(self):
+        return self in {LevelTypes.TITLE_NORMAL, LevelTypes.TITLE_PRODUCTION, LevelTypes.TITLE_MIXED}
 
 class Score:
     def __init__(self, a, b, c, link):
@@ -201,11 +209,17 @@ def stringlevels(outputLevels):
     """
     blob = ''
     
+    third_string_dict = {
+        LevelTypes.TITLE_NORMAL: 'Area',
+        LevelTypes.TITLE_PRODUCTION: 'Instructions',
+        LevelTypes.TITLE_MIXED: 'Area/Instructions'
+    }
+    
     for level, scores in outputLevels.items():
-        if scores.level_type == LevelTypes.TITLE:
+        if scores.level_type.is_title():
             blob +='\n'
             blob += f'##{level}\n\n'
-            blob += f'Name|Cost|Cycles|Area|Sum\n:-|:-|:-|:-|:-\n'
+            blob += f'Name|Cost|Cycles|{third_string_dict[scores.level_type]}|Sum\n:-|:-|:-|:-|:-\n'
         
         else: # regular level
             blob += f'[**{level}**](##Frontier: {scores.frontierStr}##)'
@@ -250,7 +264,7 @@ def init(args):
         for row in reader:
             level_type = LevelTypes(int(row['type']))
             scores = LevelScores(level_type)
-            if (level_type != LevelTypes.TITLE):
+            if (level_type.is_level()):
                 for score in filter(None, (Score.parse(s) for s in row['scores'].split(scores_delim))):
                     scores.add(score)
             levels[row['name']] = scores
