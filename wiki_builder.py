@@ -314,7 +314,7 @@ def parse_reddit(reddit, last_timestamp, args):
 if __name__ == '__main__':
     
     argparser = argparse.ArgumentParser()
-    argparser.add_argument("--trust_everybody", action="store_true")
+    argparser.add_argument("--trust-everybody", action="store_true")
     argparser.add_argument("--no-load-timestamp", action="store_false", dest='load_timestamp')
     argparser.add_argument("--no-load-scores", action="store_false", dest='load_scores')
     argparser.add_argument("--no-parse-reddit", action="store_false", dest='parse_reddit')
