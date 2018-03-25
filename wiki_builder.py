@@ -270,15 +270,20 @@ def load_timestamp():
         return 0
 
 def parse_reddit(reddit, last_timestamp, args):
+    
     submission = reddit.submission(id='7scj7i')
     submission.comment_sort = 'new'
     submission.comments.replace_more(limit=None)
     
+    # I hate user input
+    def normalize(string):
+        return string.lower().replace('-', ' ').replace('’', "'")
+    
     # REGEX!
     sep = r'[\s\*]*/[\s\*]*'
     score_reg = fr'\d+{sep}\d+{sep}\d+(?:{sep}\d+)?'
-    pipe_sep_levels = '|'.join(levels)
-    good_line_patt = re.compile(fr'({pipe_sep_levels})\W+?{score_reg}(?!.*?{pipe_sep_levels})', re.IGNORECASE)
+    pipe_sep_norm_levels = '|'.join(map(normalize, levels))
+    good_line_patt = re.compile(fr'({pipe_sep_norm_levels})\W+?{score_reg}(?!.*?{pipe_sep_norm_levels})')
 
     score_pieces_patt = re.compile(fr'(\d+){sep}(\d+){sep}(\d+)(?:{sep}(\d+))?')
     link_patt = re.compile(r'\]\((.+\..+)\)')
@@ -295,14 +300,15 @@ def parse_reddit(reddit, last_timestamp, args):
             continue
         
         for line in filter(None, comment.body.splitlines()):
+            line = normalize(line)
             m = good_line_patt.search(line)
             if m: # this is a good line, with one level and some scores, now let's start parsing
                 logging.info("Y: %s", line)
                 level = None
-                cleaned_name = m[1].lower().replace('-', ' ').replace('’', "'")
                 for name in levels: # ignore case
-                    if name.lower().replace('-', ' ') == cleaned_name:
+                    if normalize(name) == m[1]:
                         level = name
+                        break
                 lev_scores = levels[level]
                 
                 # we'll define a `score` and link` matches and pair each link with the score that just precedes it
