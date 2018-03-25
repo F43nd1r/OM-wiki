@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 import enum
 import itertools
 import csv
@@ -236,11 +237,11 @@ levels = OrderedDict()
 
 scores_delim = ' - '
 
-def init():
+def init(args):
     
     infile = 'levels.csv'
     
-    if Path('scores.csv').is_file():
+    if args.load_scores and Path('scores.csv').is_file():
         infile = 'scores.csv'
     
     with open(infile, 'r') as levelscsv:
@@ -254,28 +255,17 @@ def init():
             levels[row['name']] = scores
     
     with open('trusted_users.txt', 'r') as usersfile:
-        for user in fileter(None, usersfile.read().split('\n')):
+        for user in filter(None, usersfile.read().split('\n')):
             trusted_users.add(user)
 
-if __name__ == '__main__':
-
-    init()
-    
-    # load timestamp
-    last_timestamp = 0
+def load_timestamp():
     try:
-        with open('timestamp.utc', 'r') as tfile:
-            last_timestamp = float(tfile.read())
+        tfile = open('timestamp.utc', 'r')
+        return float(tfile.read())
     except FileNotFoundError:
-        pass
-    current_timestamp = time.time()
-    
-    # hi reddit
-    reddit = praw.Reddit(client_id=reddit_secret.client_id,
-                         client_secret=reddit_secret.client_secret,
-                         user_agent='OM_Wiki_Crawler',
-                         username=reddit_secret.username,
-                         password=reddit_secret.password)
+        return 0
+
+def parse_reddit(reddit, last_timestamp, args):
     submission = reddit.submission(id='7scj7i')
     submission.comment_sort = 'new'
     submission.comments.replace_more(limit=None)
@@ -291,7 +281,7 @@ if __name__ == '__main__':
     
     # iterate comments
     for comment in submission.comments.list():
-        if comment.author.name not in trusted_users:
+        if not args.trust_everybody and comment.author.name not in trusted_users:
             continue
         
         comment_ts = comment.created_utc
@@ -320,12 +310,41 @@ if __name__ == '__main__':
                         link = linkmatch[1]
                     score = Score.fromFourStr(*m1.groups(), lev_scores.level_type, link)
                     lev_scores.add(score)
+
+if __name__ == '__main__':
+    
+    argparser = argparse.ArgumentParser()
+    argparser.add_argument("--trust_everybody", action="store_true")
+    argparser.add_argument("--no-load-timestamp", action="store_false", dest='load_timestamp')
+    argparser.add_argument("--no-load-scores", action="store_false", dest='load_scores')
+    argparser.add_argument("--no-parse-reddit", action="store_false", dest='parse_reddit')
+    argparser.add_argument("--no-post", action="store_false", dest='post')
+    argparser.add_argument("--no-print", action="store_false", dest='print')
+    args = argparser.parse_args()
+
+    init(args)
+    
+    # load timestamps
+    last_timestamp = 0
+    if args.load_timestamp:
+        last_timestamp = load_timestamp()
+    current_timestamp = time.time()
+    
+    # hi reddit
+    reddit = praw.Reddit(client_id=reddit_secret.client_id,
+                         client_secret=reddit_secret.client_secret,
+                         user_agent='OM_Wiki_Crawler',
+                         username=reddit_secret.username,
+                         password=reddit_secret.password)
+    
+    if args.parse_reddit:
+        parse_reddit(reddit, last_timestamp, args)
     
     # write timestamp
     with open('timestamp.utc', 'w') as tfile:
         tfile.write(str(current_timestamp))
     
-    # write result
+    # write result on disk
     with open('scores.csv', 'w') as levelscsv:
         writer = csv.writer(levelscsv)
         writer.writerow(['name', 'type', 'scores'])
@@ -344,18 +363,20 @@ if __name__ == '__main__':
         outputLevels[name] = out_sc
     
     table = stringlevels(outputLevels)
-    print(table)
+    if args.print:
+        print(table)
     
-    # build body
-    body = ''
-    with open('prefix.md') as prefixfile:
-        body += prefixfile.read()
-    body += table
-    body += f'\nTable built on {datetime.datetime.fromtimestamp(current_timestamp)} UTC\n'
-    with open('suffix.md') as suffixfile:
-        body += suffixfile.read()
-    
-    # Post to reddit
-    post = Submission(reddit, id='86takc')
-    post.edit(body)
+    if args.post:
+        # build body
+        body = ''
+        with open('prefix.md') as prefixfile:
+            body += prefixfile.read()
+        body += table
+        body += f'\nTable built on {datetime.datetime.fromtimestamp(current_timestamp)} UTC\n'
+        with open('suffix.md') as suffixfile:
+            body += suffixfile.read()
+        
+        # Post to reddit
+        post = Submission(reddit, id='86takc')
+        post.edit(body)
         
