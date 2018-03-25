@@ -385,7 +385,7 @@ if __name__ == '__main__':
         with open('prefix.md') as prefixfile:
             body += prefixfile.read()
         body += table
-        body += f'\nTable built on {datetime.datetime.fromtimestamp(current_timestamp)} UTC\n'
+        body += f'\nTable built on {datetime.datetime.utcfromtimestamp(current_timestamp)} UTC\n'
         with open('suffix.md') as suffixfile:
             body += suffixfile.read()
         
