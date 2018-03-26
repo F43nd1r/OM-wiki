@@ -28,8 +28,10 @@ Running `./wiki_builder.py` will then:
 * create/update `scores.csv`, the wiki storage
 * create/update `timestamp.utc`, to avoid double-parsing
 
-#### Maintainance:
+#### Maintenance:
 
 Editing the `prefix`/`suffix` will change the other parts of the page.
 
-It's possible to add scores directly to `scores.csv`, the frontier will be rebuilt next run.
+Adding sections to `levels.csv` will add new levels/headers with no scores
+
+Editing `scores.csv` allows adding new scores manually, the frontier will be rebuilt next run.
