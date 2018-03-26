@@ -6,6 +6,7 @@ import datetime
 import enum
 import itertools
 import logging
+import operator
 import re
 import time
 
@@ -71,12 +72,12 @@ class Score:
     def simpleStr(self):
         return '/'.join(map(str, self.stats))
     
-    def dominates(self, other):
+    def dominates(self, other, link_op=operator.gt):
         for s1, s2 in zip(self.stats, other.stats):
             if s1 > s2:
                 return False
         if self.stats == other.stats:
-            return bool(self.link) >= bool(other.link)
+            return link_op(bool(self.link), bool(other.link))
         else:
             return True
 
@@ -186,9 +187,11 @@ class LevelScores:
     def add(self, newscore):
         new_scores = []
         for oldscore in self.scores:
-            if oldscore.dominates(newscore):
+            if oldscore.dominates(newscore, operator.gt):
                 return
-            if not newscore.dominates(oldscore):
+            if newscore.dominates(oldscore, operator.ge):
+                pass
+            else:
                 new_scores.append(oldscore)
         
         new_scores.append(newscore)
@@ -285,10 +288,6 @@ def load_timestamp():
 
 def parse_reddit(reddit, last_timestamp, args):
     
-    submission = reddit.submission(id='7scj7i')
-    submission.comment_sort = 'new'
-    submission.comments.replace_more(limit=None)
-    
     # I hate user input
     def normalize(string):
         return string.lower().replace('-', ' ').replace('’', "'")
@@ -301,6 +300,10 @@ def parse_reddit(reddit, last_timestamp, args):
 
     score_pieces_patt = re.compile(fr'(\d+){sep}(\d+){sep}(\d+)(?:{sep}(\d+))?')
     link_patt = re.compile(r'\]\((.+\..+)\)')
+    
+    submission = reddit.submission(id='7scj7i')
+    submission.comment_sort = 'old'
+    submission.comments.replace_more(limit=None)
     
     # iterate comments
     for comment in submission.comments.list():
