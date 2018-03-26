@@ -18,7 +18,7 @@ import praw
 from praw.models import Submission
 
 
-class LevelTypes(enum.IntEnum):
+class LevelTypes(enum.Enum):
     NORMAL = 0
     PRODUCTION = 1
     TITLE_NORMAL = 10
@@ -204,7 +204,7 @@ class LevelScores:
         return '' if not self.scores else ' '.join(score.simpleStr() for score in self.scores)
 
 
-def stringlevels(outputLevels):
+def levelstable(outputLevels):
     """
     **Golden Thread**|30/445/351*|150/49/199|100/266/48*|205/49/81*
     |||220/49/77||
@@ -255,24 +255,28 @@ levels = OrderedDict()
 
 scores_delim = ' - '
 
+levels_file = 'levels.csv'
+scores_file = 'scores.csv'
+trusted_users_file = 'trusted_users.txt'
+timestamp_file = 'timestamp.utc'
+
 def init(args):
     
-    infile = 'levels.csv'
-    
-    if args.load_scores and Path('scores.csv').is_file():
-        infile = 'scores.csv'
-    
-    with open(infile, 'r') as levelscsv:
+    with open(levels_file, 'r') as levelscsv:
         reader = csv.DictReader(levelscsv, skipinitialspace=True)
         for row in reader:
-            level_type = LevelTypes(int(row['type']))
-            scores = LevelScores(level_type)
-            if (level_type.is_level()):
+            level_type = LevelTypes[row['type']]
+            levels[row['name']] = LevelScores(level_type)
+    
+    if args.load_scores and Path(scores_file).is_file():
+        with open(scores_file, 'r') as scorescsv:
+            reader = csv.DictReader(scorescsv, skipinitialspace=True)
+            for row in reader:
+                scores = levels[row['name']]
                 for score in filter(None, (Score.parse(s) for s in row['scores'].split(scores_delim))):
                     scores.add(score)
-            levels[row['name']] = scores
     
-    with open('trusted_users.txt', 'r') as usersfile:
+    with open(trusted_users_file, 'r') as usersfile:
         for user in filter(None, usersfile.read().split('\n')):
             trusted_users.add(user)
     
@@ -281,7 +285,7 @@ def init(args):
 
 def load_timestamp():
     try:
-        tfile = open('timestamp.utc', 'r')
+        tfile = open(timestamp_file, 'r')
         return float(tfile.read())
     except FileNotFoundError:
         return 0
@@ -371,16 +375,17 @@ if __name__ == '__main__':
         parse_reddit(reddit, last_timestamp, args)
     
     # write timestamp
-    with open('timestamp.utc', 'w') as tfile:
+    with open(timestamp_file, 'w') as tfile:
         tfile.write(str(current_timestamp))
     
     # write result on disk
-    with open('scores.csv', 'w') as levelscsv:
+    with open(scores_file, 'w') as levelscsv:
         writer = csv.writer(levelscsv)
-        writer.writerow(['name', 'type', 'scores'])
+        writer.writerow(['name', 'scores'])
         for name, level in levels.items():
-            output = [name, str(int(level.level_type)), level.scores_compactStr()]
-            writer.writerow(output)
+            if level.level_type.is_level():
+                output = [name, level.scores_compactStr()]
+                writer.writerow(output)
     
     # prepare output
     outputLevels = OrderedDict()
@@ -392,7 +397,7 @@ if __name__ == '__main__':
             out_sc.frontierStr = level.scores_simpleStr()
         outputLevels[name] = out_sc
     
-    table = stringlevels(outputLevels)
+    table = levelstable(outputLevels)
     if args.print:
         print(table)
     

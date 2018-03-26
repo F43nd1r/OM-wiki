@@ -1,114 +1,114 @@
-name, type, scores
-"Chapter 1", 10,
-"Stabilized Water", 0,
-"Refined Gold", 0,
-"Face Powder", 0,
-"Waterproof Sealant", 0,
-"Hangover Cure", 0,
-"Airship Fuel", 0,
-"Precision Machine Oil", 0,
-"Health Tonic", 0,
-"Stamina Potion", 0,
+name, type
+"Chapter 1", TITLE_NORMAL
+"Stabilized Water", NORMAL
+"Refined Gold", NORMAL
+"Face Powder", NORMAL
+"Waterproof Sealant", NORMAL
+"Hangover Cure", NORMAL
+"Airship Fuel", NORMAL
+"Precision Machine Oil", NORMAL
+"Health Tonic", NORMAL
+"Stamina Potion", NORMAL
 
-"Chapter 2", 10,
-"Hair Product", 0,
-"Rocket Propellant", 0,
-"Mist of Incapacitation", 0,
-"Explosive Phial", 0,
-"Armor Filament", 0,
-"Courage Potion", 0,
-"Surrender Flare", 0,
+"Chapter 2", TITLE_NORMAL
+"Hair Product", NORMAL
+"Rocket Propellant", NORMAL
+"Mist of Incapacitation", NORMAL
+"Explosive Phial", NORMAL
+"Armor Filament", NORMAL
+"Courage Potion", NORMAL
+"Surrender Flare", NORMAL
 
-"Chapter 3", 10,
-"Alcohol Separation", 0,
-"Water Purifier", 0,
-"Seal Solvent", 0,
-"Climbing Rope Fiber", 0,
-"Warming Tonic", 0,
-"Life-Sensing Potion", 0,
-"Very Dark Thread", 0,
+"Chapter 3", TITLE_NORMAL
+"Alcohol Separation", NORMAL
+"Water Purifier", NORMAL
+"Seal Solvent", NORMAL
+"Climbing Rope Fiber", NORMAL
+"Warming Tonic", NORMAL
+"Life-Sensing Potion", NORMAL
+"Very Dark Thread", NORMAL
 
-"Chapter 4", 10,
-"Litharge Separation", 0,
-"Stain Remover", 0,
-"Sword Alloy", 0,
-"Invisible Ink", 0,
-"Purified Gold", 0,
-"Alchemical Jewel", 0,
-"Golden Thread", 0,
+"Chapter 4", TITLE_NORMAL
+"Litharge Separation", NORMAL
+"Stain Remover", NORMAL
+"Sword Alloy", NORMAL
+"Invisible Ink", NORMAL
+"Purified Gold", NORMAL
+"Alchemical Jewel", NORMAL
+"Golden Thread", NORMAL
 
-"Chapter 5", 10,
-"Mist of Hallucination", 0,
-"Timing Crystal", 0,
-"Voltaic Coil", 0,
-"Unstable Compound", 0,
-"Curious Lipstick", 0,
-"Universal Solvent", 0,
+"Chapter 5", TITLE_NORMAL
+"Mist of Hallucination", NORMAL
+"Timing Crystal", NORMAL
+"Voltaic Coil", NORMAL
+"Unstable Compound", NORMAL
+"Curious Lipstick", NORMAL
+"Universal Solvent", NORMAL
 
-"Production Alchemy", 11,
-"Silver Paint", 1,
-"Viscous Sludge", 1,
-"Fragrant Powders", 1,
-"Rat Poison", 1,
-"Special Amaro", 1,
-"Vapor of Levity", 1,
-"Abrasive Particles", 1,
-"Eyedrops of Revelation", 1,
-"Parade-Rocket Fuel", 1,
-"Aether Detector", 1,
-"Reconstructed Solvent", 1,
+"Production Alchemy", TITLE_PRODUCTION
+"Silver Paint", PRODUCTION
+"Viscous Sludge", PRODUCTION
+"Fragrant Powders", PRODUCTION
+"Rat Poison", PRODUCTION
+"Special Amaro", PRODUCTION
+"Vapor of Levity", PRODUCTION
+"Abrasive Particles", PRODUCTION
+"Eyedrops of Revelation", PRODUCTION
+"Parade-Rocket Fuel", PRODUCTION
+"Aether Detector", PRODUCTION
+"Reconstructed Solvent", PRODUCTION
 
-"Journal I", 10,
-"Van Berlo's Wheel", 0,
-"Van Berlo's Chain", 0,
-"Reactive Cinnabar", 0,
-"Silver Caustic", 0,
-"Lambent II/IX", 0,
+"Journal I", TITLE_NORMAL
+"Van Berlo's Wheel", NORMAL
+"Van Berlo's Chain", NORMAL
+"Reactive Cinnabar", NORMAL
+"Silver Caustic", NORMAL
+"Lambent II/IX", NORMAL
 
-"Journal II", 10,
-"Explorer's Salve", 0,
-"Preservative Salt", 0,
-"Sailcloth Thread", 0,
-"Buoyant Cable", 0,
-"Spyglass Crystal", 0,
+"Journal II", TITLE_NORMAL
+"Explorer's Salve", NORMAL
+"Preservative Salt", NORMAL
+"Sailcloth Thread", NORMAL
+"Buoyant Cable", NORMAL
+"Spyglass Crystal", NORMAL
 
-"Journal III", 10,
-"Ravari's Wheel", 0,
-"Lubricating Filament", 0,
-"Resonant Crystal", 0,
-"Refined Bronze", 0,
-"Ablative Crystal", 0,
+"Journal III", TITLE_NORMAL
+"Ravari's Wheel", NORMAL
+"Lubricating Filament", NORMAL
+"Resonant Crystal", NORMAL
+"Refined Bronze", NORMAL
+"Ablative Crystal", NORMAL
 
-"Journal IV", 10,
-"Proof of Completeness", 0,
-"Wheel Representation", 0,
-"Synthesis via Alcohol", 0,
-"Universal Compound", 0,
+"Journal IV", TITLE_NORMAL
+"Proof of Completeness", NORMAL
+"Wheel Representation", NORMAL
+"Synthesis via Alcohol", NORMAL
+"Universal Compound", NORMAL
 
-"Journal V", 10,
-"General Anaesthetic", 0,
-"Wakefulness Potion", 0,
-"Suture Thread", 0,
-"Blood-Stanching Powder", 0,
-"Tonic of Hydration", 0,
+"Journal V", TITLE_NORMAL
+"General Anaesthetic", NORMAL
+"Wakefulness Potion", NORMAL
+"Suture Thread", NORMAL
+"Blood-Stanching Powder", NORMAL
+"Tonic of Hydration", NORMAL
 
-"Journal VI", 11,
-"Hexstabilized Salt", 1,
-"Lustre", 1,
-"Lamplight Gas", 1,
-"Conductive Enamel", 1,
-"Welding Thermite", 1,
+"Journal VI", TITLE_PRODUCTION
+"Hexstabilized Salt", PRODUCTION
+"Lustre", PRODUCTION
+"Lamplight Gas", PRODUCTION
+"Conductive Enamel", PRODUCTION
+"Welding Thermite", PRODUCTION
 
-"Journal VII", 10,
-"Van Berlo's Pivots", 0,
-"Reactive Gold", 0,
-"Assassin's Filament", 0,
-"Vaporous Solvent", 0,
-"Alchemical Slag", 0,
+"Journal VII", TITLE_NORMAL
+"Van Berlo's Pivots", NORMAL
+"Reactive Gold", NORMAL
+"Assassin's Filament", NORMAL
+"Vaporous Solvent", NORMAL
+"Alchemical Slag", NORMAL
 
-"Journal VIII", 10,
-"Explosive Victrite", 0,
-"Celestial Thread", 0,
-"Visillary Anaesthetic", 0,
-"Animismus Buffer", 0,
-"Electrum Separation", 0,
+"Journal VIII", TITLE_NORMAL
+"Explosive Victrite", NORMAL
+"Celestial Thread", NORMAL
+"Visillary Anaesthetic", NORMAL
+"Animismus Buffer", NORMAL
+"Electrum Separation", NORMAL
