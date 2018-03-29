@@ -90,7 +90,7 @@ class OutputScores:
         # A -> B*C
         self.prodScores = [None]*3
         # A+B+C
-        self.sumScore = None
+        self.sumScores = [None]*3
     
     @staticmethod
     def lessTriple(s1, s2, idx1, idx2):
@@ -125,11 +125,15 @@ class OutputScores:
                )
     
     @staticmethod
-    def lessSum(s1, s2):
+    def lessSum(s1, s2, idx):
         return s2 is None or \
                (sum(s1) < sum(s2) or
                 (sum(s1) == sum(s2) and
-                 bool(s1.link) > bool(s2.link)
+                 (s1[idx] < s2[idx] or
+                  (s1[idx] == s2[idx] and
+                   bool(s1.link) > bool(s2.link)
+                  )
+                 )
                 )
                )
     
@@ -142,8 +146,9 @@ class OutputScores:
         for i in range(3):
             if (OutputScores.lessProd(s, self.prodScores[i], i)):
                 self.prodScores[i] = s
-        if (OutputScores.lessSum(s, self.sumScore)):
-            self.sumScore = s
+        for i in range(3):
+            if (OutputScores.lessSum(s, self.sumScores[i], i)):
+                self.sumScores[i] = s
     
     def __str__(self):
         
@@ -156,7 +161,7 @@ class OutputScores:
             unique_and_clean(self.tripleScores[0]),
             unique_and_clean(self.tripleScores[1]),
             unique_and_clean(self.tripleScores[2]),
-            [self.sumScore] if self.sumScore else []
+            unique_and_clean(self.sumScores)
         ]
         
         printed_prodScore = [False]*3
