@@ -243,13 +243,6 @@ Scores should be of any of the following formats
 <Cost>/<Cycles>/<Area>/<Instructions>
 """
 
-def pairwise(iterable):
-    "s -> (s0,s1), (s1,s2), (s2, s3), ..."
-    a, b = itertools.tee(iterable)
-    next(b, None)
-    return itertools.zip_longest(a, b)
-
-
 trusted_users = set()
 levels = OrderedDict()
 
@@ -265,8 +258,11 @@ def init(args):
     with open(levels_file, 'r') as levelscsv:
         reader = csv.DictReader(levelscsv, skipinitialspace=True)
         for row in reader:
+            name = row['name']
+            if not name:
+                logging.warn('Empty level name found, skipping')
             level_type = LevelTypes[row['type']]
-            levels[row['name']] = LevelScores(level_type)
+            levels[name] = LevelScores(level_type)
     
     if args.load_scores and Path(scores_file).is_file():
         with open(scores_file, 'r') as scorescsv:
@@ -295,6 +291,12 @@ def parse_reddit(reddit, last_timestamp, args):
     # I hate user input
     def normalize(string):
         return string.lower().replace('-', ' ').replace('’', "'")
+    
+    def pairwise(iterable):
+        "s -> (s0,s1), (s1,s2), (s2, s3), ..."
+        a, b = itertools.tee(iterable)
+        next(b, None)
+        return itertools.zip_longest(a, b)
     
     # REGEX!
     sep = r'[\s\*]*/[\s\*]*'
@@ -412,6 +414,6 @@ if __name__ == '__main__':
             body += suffixfile.read()
         
         # Post to reddit
-        post = Submission(reddit, id='86takc')
+        post = Submission(reddit, id='884gmc')
         post.edit(body)
         
