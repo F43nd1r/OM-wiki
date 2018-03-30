@@ -158,15 +158,15 @@ class OutputScores:
     
         blob = ''
         scorescols = [
-            unique_and_clean(self.tripleScores[0]),
-            unique_and_clean(self.tripleScores[1]),
-            unique_and_clean(self.tripleScores[2]),
+            unique_and_clean(self.tripleScores[0] + [self.prodScores[0]]),
+            unique_and_clean(self.tripleScores[1] + [self.prodScores[1]]),
+            unique_and_clean(self.tripleScores[2] + [self.prodScores[2]]),
             unique_and_clean(self.sumScores)
         ]
         
-        printed_prodScore = [False]*3
+        row_range = max(max(len(l) for l in scorescols), 1)
         
-        for row in range(3): # A->B, A->C, A->B*C
+        for row in range(row_range): # A->B, A->C, A->B*C
             if row > 0:
                 blob += '|'
             for col in range(4): # C, C, T, S
@@ -175,10 +175,6 @@ class OutputScores:
                     blob += str(scorescols[col][row])
                     if col <= 2 and scorescols[col][row] == self.prodScores[col]:
                         blob += '*'
-                        printed_prodScore[col] = True
-                elif col <= 2 and printed_prodScore[col] is False:
-                    blob += str(self.prodScores[col]) + '*'
-                    printed_prodScore[col] = True
                 
             blob += '\n'
         
@@ -232,6 +228,7 @@ def levelstable(outputLevels):
         else: # regular level
             blob += f'[**{level}**](##Frontier: {scores.frontierStr}##)'
             blob += str(scores)
+            blob += '|\n'
         
     return blob
         
