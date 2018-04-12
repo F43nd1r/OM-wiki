@@ -315,6 +315,8 @@ def parse_reddit(reddit, last_timestamp, args):
     
     # iterate comments
     for comment in submission.comments.list():
+        if comment.author is None: # comment deleted
+            continue
         if not args.trust_everybody and comment.author.name not in trusted_users:
             continue
         
