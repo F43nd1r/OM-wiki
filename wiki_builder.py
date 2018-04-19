@@ -307,7 +307,7 @@ def parse_reddit(reddit, last_timestamp, args):
     good_normalized_line_patt = re.compile(fr'(?P<levelname>{pipe_sep_norm_levels})\W+?{score_reg}(?!.*?{pipe_sep_norm_levels})')
 
     score_pieces_patt = re.compile(fr'(\d+){sep}(\d+){sep}(\d+)(?:{sep}(\d+))?')
-    link_patt = re.compile(r'\]\((.+\..+)\)')
+    link_patt = re.compile(r'\]\((.+?\..+?)\)')
     
     submission = reddit.submission(id='7scj7i')
     submission.comment_sort = 'old'
