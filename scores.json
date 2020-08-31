@@ -12774,17 +12774,6 @@
                 "link": "https://od.lk/s/MV8yMTY1MDIyOTFf/725_Spyglass%20Crystal_B_CX_2T_625G_80C_100A_276I_33P.mp4"
             },
             {
-                "category": "CA",
-                "score": {
-                    "parts": {
-                        "CYCLES": 80.0,
-                        "AREA": 94.0,
-                        "COST": 740.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8yMTY2MzIxOTdf/725_Spyglass%20Crystal_B_CA_2T_740G_80C_94A_324I_42P.mp4"
-            },
-            {
                 "category": "SG",
                 "score": {
                     "parts": {
@@ -12816,6 +12805,17 @@
                     }
                 },
                 "link": "https://od.lk/s/MV8yMjA5NTc2MjNf/725_Spyglass%20Crystal_B_S_175G_184C_69A_130I_14P.mp4"
+            },
+            {
+                "category": "CA",
+                "score": {
+                    "parts": {
+                        "CYCLES": 80.0,
+                        "AREA": 93.0,
+                        "COST": 730.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjEwMTcyMDRf/725_Spyglass%20Crystal_B_CA_2T_730G_80C_93A_328I_41P.mp4"
             }
         ],
         "pareto": [
@@ -12933,16 +12933,16 @@
             },
             {
                 "parts": {
-                    "COST": 740.0,
-                    "CYCLES": 80.0,
-                    "AREA": 94.0
+                    "COST": 175.0,
+                    "CYCLES": 184.0,
+                    "AREA": 69.0
                 }
             },
             {
                 "parts": {
-                    "COST": 175.0,
-                    "CYCLES": 184.0,
-                    "AREA": 69.0
+                    "COST": 730.0,
+                    "CYCLES": 80.0,
+                    "AREA": 93.0
                 }
             }
         ]
