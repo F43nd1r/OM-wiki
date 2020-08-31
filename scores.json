@@ -12972,17 +12972,6 @@
                 "link": "https://i.imgur.com/TjLvTrJ.gifv"
             },
             {
-                "category": "GX",
-                "score": {
-                    "parts": {
-                        "COST": 60.0,
-                        "CYCLES": 814.0,
-                        "AREA": 19.0
-                    }
-                },
-                "link": "https://i.imgur.com/TjLvTrJ.gifv"
-            },
-            {
                 "category": "AG",
                 "score": {
                     "parts": {
@@ -13080,6 +13069,17 @@
                     }
                 },
                 "link": "https://i.imgur.com/aospG7C.gif"
+            },
+            {
+                "category": "GX",
+                "score": {
+                    "parts": {
+                        "COST": 60.0,
+                        "CYCLES": 754.0,
+                        "AREA": 20.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjEwMDk4OTBf/731_Ravari%27s%20Wheel_B_GX_60G_754C_20A_126I_11P.mp4"
             }
         ],
         "pareto": [
@@ -13144,6 +13144,13 @@
                     "COST": 230.0,
                     "CYCLES": 98.0,
                     "AREA": 26.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 754.0,
+                    "AREA": 20.0
                 }
             }
         ]
