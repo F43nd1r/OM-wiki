@@ -7288,17 +7288,6 @@
                 "link": "https://i.imgur.com/pvQTYJc.gif"
             },
             {
-                "category": "CG",
-                "score": {
-                    "parts": {
-                        "CYCLES": 49.0,
-                        "COST": 210.0,
-                        "AREA": 149.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8xOTc3MDUzMzBf/503_Voltaic%20Coil_B_CG_6T_210G_49C_149A_274I_15P.mp4"
-            },
-            {
                 "category": "CX",
                 "score": {
                     "parts": {
@@ -7341,6 +7330,17 @@
                     }
                 },
                 "link": "https://i.imgur.com/pvQTYJc.gif"
+            },
+            {
+                "category": "CG",
+                "score": {
+                    "parts": {
+                        "CYCLES": 49.0,
+                        "COST": 210.0,
+                        "AREA": 140.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjExNDYzMTFf/503_Voltaic%20Coil_B_CG_6T_210G_49C_140A_274I_16P.mp4"
             }
         ],
         "pareto": [
@@ -7402,13 +7402,6 @@
             },
             {
                 "parts": {
-                    "COST": 210.0,
-                    "CYCLES": 49.0,
-                    "AREA": 149.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 230.0,
                     "CYCLES": 49.0,
                     "AREA": 123.0
@@ -7440,6 +7433,13 @@
                     "COST": 280.0,
                     "CYCLES": 58.0,
                     "AREA": 83.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 210.0,
+                    "CYCLES": 49.0,
+                    "AREA": 140.0
                 }
             }
         ]
