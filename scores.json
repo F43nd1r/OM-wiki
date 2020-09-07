@@ -15801,28 +15801,6 @@
                 "link": "https://od.lk/s/MV8yMTkxMTYyMThf/754_Blood-Stanching%20Powder_B_GAX_40G_1054C_87A_176I_6P.mp4"
             },
             {
-                "category": "AG",
-                "score": {
-                    "parts": {
-                        "AREA": 38.0,
-                        "COST": 85.0,
-                        "CYCLES": 1125.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8yMTYyNzk5OTJf/754_Blood-Stanching%20Powder_B_AGX_85G_1125C_38A_188I_18P.mp4"
-            },
-            {
-                "category": "AX",
-                "score": {
-                    "parts": {
-                        "AREA": 38.0,
-                        "COST": 85.0,
-                        "CYCLES": 1125.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8yMTYyNzk5OTJf/754_Blood-Stanching%20Powder_B_AGX_85G_1125C_38A_188I_18P.mp4"
-            },
-            {
                 "category": "SG",
                 "score": {
                     "parts": {
@@ -15898,6 +15876,28 @@
                     }
                 },
                 "link": "https://i.imgur.com/Mx2KaL7.gifv"
+            },
+            {
+                "category": "AG",
+                "score": {
+                    "parts": {
+                        "AREA": 38.0,
+                        "COST": 70.0,
+                        "CYCLES": 1215.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjEyNDI0NDlf/754_Blood-Stanching%20Powder_B_AGX_70G_1215C_38A_203I_17P.mp4"
+            },
+            {
+                "category": "AX",
+                "score": {
+                    "parts": {
+                        "AREA": 38.0,
+                        "COST": 70.0,
+                        "CYCLES": 1215.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjEyNDI0NDlf/754_Blood-Stanching%20Powder_B_AGX_70G_1215C_38A_203I_17P.mp4"
             }
         ],
         "pareto": [
@@ -15976,6 +15976,13 @@
                     "COST": 730.0,
                     "CYCLES": 74.0,
                     "AREA": 106.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 70.0,
+                    "CYCLES": 1215.0,
+                    "AREA": 38.0
                 }
             }
         ]
