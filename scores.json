@@ -7930,17 +7930,6 @@
                 "link": "https://od.lk/s/MV8xNzkxMzA3MDdf/506_Universal%20Solvent_B_GC_140G_718C_62A_130I_20P.mp4"
             },
             {
-                "category": "GA",
-                "score": {
-                    "parts": {
-                        "COST": 140.0,
-                        "AREA": 39.0,
-                        "CYCLES": 1227.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8xNzQ5NDkzNzNf/506_Universal%20Solvent_B_GA_140G_1227C_39A_215I_13P.mp4"
-            },
-            {
                 "category": "AG",
                 "score": {
                     "parts": {
@@ -8049,6 +8038,17 @@
                     }
                 },
                 "link": "https://od.lk/s/MV8yMjExMTI4MjBf/506_Universal%20Solvent_B_GX_140G_1042C_41A_184I_15P.mp4"
+            },
+            {
+                "category": "GA",
+                "score": {
+                    "parts": {
+                        "COST": 140.0,
+                        "AREA": 39.0,
+                        "CYCLES": 1221.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjExMTI4MTFf/506_Universal%20Solvent_B_GA_140G_1221C_39A_214I_13P.mp4"
             }
         ],
         "pareto": [
@@ -8057,13 +8057,6 @@
                     "COST": 140.0,
                     "CYCLES": 718.0,
                     "AREA": 62.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 140.0,
-                    "CYCLES": 1227.0,
-                    "AREA": 39.0
                 }
             },
             {
@@ -8190,6 +8183,13 @@
                     "COST": 140.0,
                     "CYCLES": 1042.0,
                     "AREA": 41.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 140.0,
+                    "CYCLES": 1221.0,
+                    "AREA": 39.0
                 }
             }
         ]
