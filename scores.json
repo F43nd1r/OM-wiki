@@ -1638,17 +1638,6 @@
     "STAMINA_POTION": {
         "records": [
             {
-                "category": "GC",
-                "score": {
-                    "parts": {
-                        "COST": 60.0,
-                        "CYCLES": 196.0,
-                        "AREA": 37.0
-                    }
-                },
-                "link": "https://i.imgur.com/ASAUdXH.gif"
-            },
-            {
                 "category": "AG",
                 "score": {
                     "parts": {
@@ -1726,28 +1715,6 @@
                 "link": "https://i.imgur.com/gCuulrN.gif"
             },
             {
-                "category": "GA",
-                "score": {
-                    "parts": {
-                        "COST": 60.0,
-                        "AREA": 28.0,
-                        "CYCLES": 203.0
-                    }
-                },
-                "link": "https://imgur.com/a/FddRqGg"
-            },
-            {
-                "category": "GX",
-                "score": {
-                    "parts": {
-                        "COST": 60.0,
-                        "CYCLES": 203.0,
-                        "AREA": 28.0
-                    }
-                },
-                "link": "https://imgur.com/a/FddRqGg"
-            },
-            {
                 "category": "SC",
                 "score": {
                     "parts": {
@@ -1768,23 +1735,42 @@
                     }
                 },
                 "link": "https://od.lk/s/MV8yMDUwMTc3MThf/108_Stamina%20Potion_B_S_8T_90G_43C_41A_143I_8P.mp4"
+            },
+            {
+                "category": "GC",
+                "score": {
+                    "parts": {
+                        "COST": 60.0,
+                        "CYCLES": 193.0,
+                        "AREA": 28.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjE2ODgzNDVf/108_Stamina%20Potion_B_GG_6T_60G_193C_28A_194I_8P_ex.mp4"
+            },
+            {
+                "category": "GA",
+                "score": {
+                    "parts": {
+                        "COST": 60.0,
+                        "AREA": 28.0,
+                        "CYCLES": 193.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjE2ODgzNDVf/108_Stamina%20Potion_B_GG_6T_60G_193C_28A_194I_8P_ex.mp4"
+            },
+            {
+                "category": "GX",
+                "score": {
+                    "parts": {
+                        "COST": 60.0,
+                        "CYCLES": 193.0,
+                        "AREA": 28.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjE2ODgzNDVf/108_Stamina%20Potion_B_GG_6T_60G_193C_28A_194I_8P_ex.mp4"
             }
         ],
         "pareto": [
-            {
-                "parts": {
-                    "COST": 60.0,
-                    "CYCLES": 196.0,
-                    "AREA": 37.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 60.0,
-                    "CYCLES": 203.0,
-                    "AREA": 28.0
-                }
-            },
             {
                 "parts": {
                     "COST": 70.0,
@@ -1867,6 +1853,13 @@
                     "COST": 295.0,
                     "CYCLES": 27.0,
                     "AREA": 32.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 193.0,
+                    "AREA": 28.0
                 }
             }
         ]
