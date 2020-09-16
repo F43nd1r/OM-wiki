@@ -11182,17 +11182,6 @@
                 "link": "https://od.lk/s/MV8xODg1NTczNzJf/714_Silver%20Caustic_B_AA_90G_548C_18A_92I_10P.mp4"
             },
             {
-                "category": "SG",
-                "score": {
-                    "parts": {
-                        "COST": 160.0,
-                        "CYCLES": 98.0,
-                        "AREA": 48.0
-                    }
-                },
-                "link": "https://i.imgur.com/sypZgds.gif"
-            },
-            {
                 "category": "CG",
                 "score": {
                     "parts": {
@@ -11226,15 +11215,26 @@
                 "link": "https://od.lk/s/MV8yMTkyNDIyNzRf/714_Silver%20Caustic_B_CA_340G_74C_35A_70I_22P.mp4"
             },
             {
+                "category": "SG",
+                "score": {
+                    "parts": {
+                        "COST": 160.0,
+                        "CYCLES": 98.0,
+                        "AREA": 45.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjE3NDk3NzJf/714_Silver%20Caustic_B_X_S_160G_98C_45A_64I_15P.mp4"
+            },
+            {
                 "category": "SC",
                 "score": {
                     "parts": {
                         "COST": 160.0,
                         "CYCLES": 98.0,
-                        "AREA": 48.0
+                        "AREA": 45.0
                     }
                 },
-                "link": "https://i.imgur.com/sypZgds.gif"
+                "link": "https://od.lk/s/MV8yMjE3NDk3NzJf/714_Silver%20Caustic_B_X_S_160G_98C_45A_64I_15P.mp4"
             },
             {
                 "category": "SA",
@@ -11242,10 +11242,10 @@
                     "parts": {
                         "COST": 160.0,
                         "CYCLES": 98.0,
-                        "AREA": 48.0
+                        "AREA": 45.0
                     }
                 },
-                "link": "https://i.imgur.com/sypZgds.gif"
+                "link": "https://od.lk/s/MV8yMjE3NDk3NzJf/714_Silver%20Caustic_B_X_S_160G_98C_45A_64I_15P.mp4"
             }
         ],
         "pareto": [
@@ -11307,13 +11307,6 @@
             },
             {
                 "parts": {
-                    "COST": 160.0,
-                    "CYCLES": 98.0,
-                    "AREA": 48.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 205.0,
                     "CYCLES": 74.0,
                     "AREA": 48.0
@@ -11352,6 +11345,13 @@
                     "COST": 340.0,
                     "CYCLES": 74.0,
                     "AREA": 35.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 160.0,
+                    "CYCLES": 98.0,
+                    "AREA": 45.0
                 }
             }
         ]
