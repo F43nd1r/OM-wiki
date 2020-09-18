@@ -14472,17 +14472,6 @@
                 "link": "https://od.lk/s/MV8yMTQzNjA4OTFf/742_Wheel%20Representation_B_CGX_6T_960G_28C_172A_431I_49P.mp4"
             },
             {
-                "category": "CA",
-                "score": {
-                    "parts": {
-                        "CYCLES": 28.0,
-                        "AREA": 167.0,
-                        "COST": 1020.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8yMTU1MzUzODdf/742_Wheel%20Representation_B_CA_6T_1020G_28C_167A_437I_75P.mp4"
-            },
-            {
                 "category": "SC",
                 "score": {
                     "parts": {
@@ -14503,6 +14492,17 @@
                     }
                 },
                 "link": "https://imgur.com/BXyUGip.gif"
+            },
+            {
+                "category": "CA",
+                "score": {
+                    "parts": {
+                        "CYCLES": 28.0,
+                        "AREA": 167.0,
+                        "COST": 1015.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjE4MDA4ODRf/742_Wheel%20Representation_B_CA_6T_1015G_28C_167A_441I_76P.mp4"
             }
         ],
         "pareto": [
@@ -14627,7 +14627,7 @@
             },
             {
                 "parts": {
-                    "COST": 1020.0,
+                    "COST": 1015.0,
                     "CYCLES": 28.0,
                     "AREA": 167.0
                 }
