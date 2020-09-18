@@ -10249,39 +10249,6 @@
     "RECONSTRUCTED_SOLVENT": {
         "records": [
             {
-                "category": "GCP",
-                "score": {
-                    "parts": {
-                        "COST": 115.0,
-                        "CYCLES": 723.0,
-                        "INSTRUCTIONS": 127.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8xNzk4MjE2NTJf/611_Reconstructed%20Solvent_B_GG_115G_723C_60A_127I_9P.mp4"
-            },
-            {
-                "category": "GI",
-                "score": {
-                    "parts": {
-                        "COST": 115.0,
-                        "INSTRUCTIONS": 127.0,
-                        "CYCLES": 723.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8xNzk4MjE2NTJf/611_Reconstructed%20Solvent_B_GG_115G_723C_60A_127I_9P.mp4"
-            },
-            {
-                "category": "GXP",
-                "score": {
-                    "parts": {
-                        "COST": 115.0,
-                        "CYCLES": 723.0,
-                        "INSTRUCTIONS": 127.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8xNzk4MjE2NTJf/611_Reconstructed%20Solvent_B_GG_115G_723C_60A_127I_9P.mp4"
-            },
-            {
                 "category": "SGP",
                 "score": {
                     "parts": {
@@ -10379,16 +10346,42 @@
                     }
                 },
                 "link": "https://od.lk/s/MV8xNzEwMjIzMzFf/611%20Reconstructed%20Solvent%20B%20X%20S%20210G%20116C%2057A%2059I%20_13P.gif"
+            },
+            {
+                "category": "GCP",
+                "score": {
+                    "parts": {
+                        "COST": 115.0,
+                        "CYCLES": 668.0,
+                        "INSTRUCTIONS": 122.0
+                    }
+                },
+                "link": "https://i.imgur.com/aNemyt7.mp4"
+            },
+            {
+                "category": "GI",
+                "score": {
+                    "parts": {
+                        "COST": 115.0,
+                        "INSTRUCTIONS": 122.0,
+                        "CYCLES": 668.0
+                    }
+                },
+                "link": "https://i.imgur.com/aNemyt7.mp4"
+            },
+            {
+                "category": "GXP",
+                "score": {
+                    "parts": {
+                        "COST": 115.0,
+                        "CYCLES": 668.0,
+                        "INSTRUCTIONS": 122.0
+                    }
+                },
+                "link": "https://i.imgur.com/aNemyt7.mp4"
             }
         ],
         "pareto": [
-            {
-                "parts": {
-                    "COST": 115.0,
-                    "CYCLES": 723.0,
-                    "INSTRUCTIONS": 127.0
-                }
-            },
             {
                 "parts": {
                     "COST": 120.0,
@@ -10450,6 +10443,13 @@
                     "COST": 330.0,
                     "CYCLES": 83.0,
                     "INSTRUCTIONS": 58.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 115.0,
+                    "CYCLES": 668.0,
+                    "INSTRUCTIONS": 122.0
                 }
             }
         ]
