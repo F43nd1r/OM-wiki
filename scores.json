@@ -14461,17 +14461,6 @@
                 "link": "https://od.lk/s/MV8yMTQzNjA4OTFf/742_Wheel%20Representation_B_CGX_6T_960G_28C_172A_431I_49P.mp4"
             },
             {
-                "category": "CX",
-                "score": {
-                    "parts": {
-                        "CYCLES": 28.0,
-                        "COST": 960.0,
-                        "AREA": 172.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8yMTQzNjA4OTFf/742_Wheel%20Representation_B_CGX_6T_960G_28C_172A_431I_49P.mp4"
-            },
-            {
                 "category": "SC",
                 "score": {
                     "parts": {
@@ -14503,6 +14492,17 @@
                     }
                 },
                 "link": "https://od.lk/s/MV8yMjE4MDA4ODRf/742_Wheel%20Representation_B_CA_6T_1015G_28C_167A_441I_76P.mp4"
+            },
+            {
+                "category": "CX",
+                "score": {
+                    "parts": {
+                        "CYCLES": 28.0,
+                        "COST": 965.0,
+                        "AREA": 171.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjE4MDA4NjRf/742_Wheel%20Representation_B_CX_6T_965G_28C_171A_435I_50P.mp4"
             }
         ],
         "pareto": [
@@ -14613,13 +14613,6 @@
             },
             {
                 "parts": {
-                    "COST": 970.0,
-                    "CYCLES": 28.0,
-                    "AREA": 171.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 985.0,
                     "CYCLES": 29.0,
                     "AREA": 128.0
@@ -14630,6 +14623,13 @@
                     "COST": 1015.0,
                     "CYCLES": 28.0,
                     "AREA": 167.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 965.0,
+                    "CYCLES": 28.0,
+                    "AREA": 171.0
                 }
             }
         ]
