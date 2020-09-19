@@ -5404,34 +5404,34 @@
                 "category": "SG",
                 "score": {
                     "parts": {
-                        "COST": 200.0,
-                        "CYCLES": 78.0,
-                        "AREA": 48.0
+                        "COST": 130.0,
+                        "CYCLES": 128.0,
+                        "AREA": 45.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjA4Njc3ODJf/402_Stain%20Remover_B_S_6T_200G_78C_48A_434I_15P.mp4"
+                "link": "https://i.imgur.com/54mS0rJ.gif"
             },
             {
                 "category": "SC",
                 "score": {
                     "parts": {
-                        "COST": 200.0,
-                        "CYCLES": 78.0,
-                        "AREA": 48.0
+                        "COST": 130.0,
+                        "CYCLES": 128.0,
+                        "AREA": 45.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjA4Njc3ODJf/402_Stain%20Remover_B_S_6T_200G_78C_48A_434I_15P.mp4"
+                "link": "https://i.imgur.com/54mS0rJ.gif"
             },
             {
                 "category": "SA",
                 "score": {
                     "parts": {
-                        "COST": 200.0,
-                        "CYCLES": 78.0,
-                        "AREA": 48.0
+                        "COST": 130.0,
+                        "CYCLES": 128.0,
+                        "AREA": 45.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjA4Njc3ODJf/402_Stain%20Remover_B_S_6T_200G_78C_48A_434I_15P.mp4"
+                "link": "https://i.imgur.com/54mS0rJ.gif"
             }
         ],
         "pareto": [
@@ -5454,13 +5454,6 @@
                     "COST": 110.0,
                     "CYCLES": 674.0,
                     "AREA": 22.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 185.0,
-                    "CYCLES": 206.0,
-                    "AREA": 58.0
                 }
             },
             {
@@ -5503,6 +5496,13 @@
                     "COST": 200.0,
                     "CYCLES": 78.0,
                     "AREA": 48.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 128.0,
+                    "AREA": 45.0
                 }
             }
         ]
