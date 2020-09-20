@@ -14964,17 +14964,6 @@
                 "link": "https://od.lk/s/MV8yMDE0MTc0MjJf/744_Universal%20Compound_B_X_S_6T_300G_235C_63A_1062I_16P.mp4"
             },
             {
-                "category": "CX",
-                "score": {
-                    "parts": {
-                        "CYCLES": 194.0,
-                        "COST": 470.0,
-                        "AREA": 69.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8yMTkwNTAzNjdf/744_Universal%20Compound_B_CX_470G_194C_69A_166I_26P.mp4"
-            },
-            {
                 "category": "CA",
                 "score": {
                     "parts": {
@@ -14984,17 +14973,6 @@
                     }
                 },
                 "link": "https://od.lk/s/MV8yMTkyOTYzODFf/744_Universal%20Compound_B_CA_6T_540G_194C_62A_1048I_27P.mp4"
-            },
-            {
-                "category": "CG",
-                "score": {
-                    "parts": {
-                        "CYCLES": 194.0,
-                        "COST": 450.0,
-                        "AREA": 88.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8yMTkwNDQzNDlf/744_Universal%20Compound_B_CG_450G_194C_88A_163I_23P.mp4"
             },
             {
                 "category": "SC",
@@ -15017,6 +14995,28 @@
                     }
                 },
                 "link": "https://od.lk/s/MV8yMDE0MTc0MjJf/744_Universal%20Compound_B_X_S_6T_300G_235C_63A_1062I_16P.mp4"
+            },
+            {
+                "category": "CG",
+                "score": {
+                    "parts": {
+                        "CYCLES": 194.0,
+                        "COST": 425.0,
+                        "AREA": 69.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjExMTI4NTNf/744_Universal%20Compound_B_CGX_425G_194C_69A_164I_25P.mp4"
+            },
+            {
+                "category": "CX",
+                "score": {
+                    "parts": {
+                        "CYCLES": 194.0,
+                        "COST": 425.0,
+                        "AREA": 69.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjExMTI4NTNf/744_Universal%20Compound_B_CGX_425G_194C_69A_164I_25P.mp4"
             }
         ],
         "pareto": [
@@ -15064,23 +15064,16 @@
             },
             {
                 "parts": {
-                    "COST": 450.0,
-                    "CYCLES": 194.0,
-                    "AREA": 88.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 470.0,
-                    "CYCLES": 194.0,
-                    "AREA": 69.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 540.0,
                     "CYCLES": 194.0,
                     "AREA": 62.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 425.0,
+                    "CYCLES": 194.0,
+                    "AREA": 69.0
                 }
             }
         ]
