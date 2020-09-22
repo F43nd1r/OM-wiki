@@ -15180,28 +15180,6 @@
                 "link": "https://od.lk/s/MV8xNzQ5NDE5MzRf/751_General%20Anaesthetic_B_CA_6T_1680G_39C_190A_792I_89P.gif"
             },
             {
-                "category": "SG",
-                "score": {
-                    "parts": {
-                        "COST": 280.0,
-                        "CYCLES": 113.0,
-                        "AREA": 75.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8yMjIxODEyMjFf/751_General%20Anaesthetic_B_S_1_280G_113C_75A_114I_19P.mp4"
-            },
-            {
-                "category": "SC",
-                "score": {
-                    "parts": {
-                        "COST": 280.0,
-                        "CYCLES": 113.0,
-                        "AREA": 75.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8yMjIxODEyMjFf/751_General%20Anaesthetic_B_S_1_280G_113C_75A_114I_19P.mp4"
-            },
-            {
                 "category": "SA",
                 "score": {
                     "parts": {
@@ -15211,6 +15189,28 @@
                     }
                 },
                 "link": "https://od.lk/s/MV8yMjIxODEyMjFf/751_General%20Anaesthetic_B_S_1_280G_113C_75A_114I_19P.mp4"
+            },
+            {
+                "category": "SG",
+                "score": {
+                    "parts": {
+                        "COST": 280.0,
+                        "CYCLES": 108.0,
+                        "AREA": 80.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjIxODEyMjRf/751_General%20Anaesthetic_B_S_2_280G_108C_80A_114I_20P.mp4"
+            },
+            {
+                "category": "SC",
+                "score": {
+                    "parts": {
+                        "COST": 280.0,
+                        "CYCLES": 108.0,
+                        "AREA": 80.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjIxODEyMjRf/751_General%20Anaesthetic_B_S_2_280G_108C_80A_114I_20P.mp4"
             }
         ],
         "pareto": [
@@ -15296,6 +15296,13 @@
                     "COST": 280.0,
                     "CYCLES": 113.0,
                     "AREA": 75.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 280.0,
+                    "CYCLES": 108.0,
+                    "AREA": 80.0
                 }
             }
         ]
