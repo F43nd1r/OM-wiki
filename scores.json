@@ -15147,17 +15147,6 @@
                 "link": "https://od.lk/s/MV8yMTYyNzk4NTVf/751_General%20Anaesthetic_B_AC_100G_1093C_27A_183I_9P.mp4"
             },
             {
-                "category": "SG",
-                "score": {
-                    "parts": {
-                        "COST": 280.0,
-                        "CYCLES": 114.0,
-                        "AREA": 75.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8xNzQ3Mjk3NTVf/751_General%20Anaesthetic_B_S_280G_114C_75A_112I_19P.gif"
-            },
-            {
                 "category": "CG",
                 "score": {
                     "parts": {
@@ -15191,26 +15180,37 @@
                 "link": "https://od.lk/s/MV8xNzQ5NDE5MzRf/751_General%20Anaesthetic_B_CA_6T_1680G_39C_190A_792I_89P.gif"
             },
             {
+                "category": "SG",
+                "score": {
+                    "parts": {
+                        "COST": 280.0,
+                        "CYCLES": 113.0,
+                        "AREA": 75.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjIxODEyMjFf/751_General%20Anaesthetic_B_S_1_280G_113C_75A_114I_19P.mp4"
+            },
+            {
                 "category": "SC",
                 "score": {
                     "parts": {
                         "COST": 280.0,
-                        "CYCLES": 114.0,
+                        "CYCLES": 113.0,
                         "AREA": 75.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzQ3Mjk3NTVf/751_General%20Anaesthetic_B_S_280G_114C_75A_112I_19P.gif"
+                "link": "https://od.lk/s/MV8yMjIxODEyMjFf/751_General%20Anaesthetic_B_S_1_280G_113C_75A_114I_19P.mp4"
             },
             {
                 "category": "SA",
                 "score": {
                     "parts": {
                         "COST": 280.0,
-                        "CYCLES": 114.0,
+                        "CYCLES": 113.0,
                         "AREA": 75.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzQ3Mjk3NTVf/751_General%20Anaesthetic_B_S_280G_114C_75A_112I_19P.gif"
+                "link": "https://od.lk/s/MV8yMjIxODEyMjFf/751_General%20Anaesthetic_B_S_1_280G_113C_75A_114I_19P.mp4"
             }
         ],
         "pareto": [
@@ -15265,13 +15265,6 @@
             },
             {
                 "parts": {
-                    "COST": 280.0,
-                    "CYCLES": 114.0,
-                    "AREA": 75.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 285.0,
                     "CYCLES": 104.0,
                     "AREA": 85.0
@@ -15296,6 +15289,13 @@
                     "COST": 1680.0,
                     "CYCLES": 39.0,
                     "AREA": 190.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 280.0,
+                    "CYCLES": 113.0,
+                    "AREA": 75.0
                 }
             }
         ]
