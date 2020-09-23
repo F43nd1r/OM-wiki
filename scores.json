@@ -9646,17 +9646,6 @@
     "EYEDROPS_OF_REVELATION": {
         "records": [
             {
-                "category": "GI",
-                "score": {
-                    "parts": {
-                        "COST": 100.0,
-                        "INSTRUCTIONS": 94.0,
-                        "CYCLES": 1194.0
-                    }
-                },
-                "link": "https://i.imgur.com/uqlQ4c5.gif"
-            },
-            {
                 "category": "IG",
                 "score": {
                     "parts": {
@@ -9760,32 +9749,36 @@
                 "score": {
                     "parts": {
                         "COST": 100.0,
-                        "CYCLES": 626.0,
-                        "INSTRUCTIONS": 105.0
+                        "CYCLES": 519.0,
+                        "INSTRUCTIONS": 87.0
                     }
                 },
-                "link": "https://i.postimg.cc/WbVg3CwF/Opus-Magnum-Eyedrops-of-Revelation-100-G-626-105-2020-09-23-00-48-40.gif"
+                "link": "https://i.postimg.cc/dVQmVpjQ/Opus-Magnum-Eyedrops-of-Revelation-100-G-519-87-2020-09-23-01-29-51.gif"
+            },
+            {
+                "category": "GI",
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "INSTRUCTIONS": 87.0,
+                        "CYCLES": 519.0
+                    }
+                },
+                "link": "https://i.postimg.cc/dVQmVpjQ/Opus-Magnum-Eyedrops-of-Revelation-100-G-519-87-2020-09-23-01-29-51.gif"
             },
             {
                 "category": "GXP",
                 "score": {
                     "parts": {
                         "COST": 100.0,
-                        "CYCLES": 626.0,
-                        "INSTRUCTIONS": 105.0
+                        "CYCLES": 519.0,
+                        "INSTRUCTIONS": 87.0
                     }
                 },
-                "link": "https://i.postimg.cc/WbVg3CwF/Opus-Magnum-Eyedrops-of-Revelation-100-G-626-105-2020-09-23-00-48-40.gif"
+                "link": "https://i.postimg.cc/dVQmVpjQ/Opus-Magnum-Eyedrops-of-Revelation-100-G-519-87-2020-09-23-01-29-51.gif"
             }
         ],
         "pareto": [
-            {
-                "parts": {
-                    "COST": 100.0,
-                    "CYCLES": 1194.0,
-                    "INSTRUCTIONS": 94.0
-                }
-            },
             {
                 "parts": {
                     "COST": 130.0,
@@ -9838,8 +9831,8 @@
             {
                 "parts": {
                     "COST": 100.0,
-                    "CYCLES": 626.0,
-                    "INSTRUCTIONS": 105.0
+                    "CYCLES": 519.0,
+                    "INSTRUCTIONS": 87.0
                 }
             }
         ]
