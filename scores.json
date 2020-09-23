@@ -15103,17 +15103,6 @@
                 "link": "https://i.imgur.com/0E27vNo.gifv"
             },
             {
-                "category": "GA",
-                "score": {
-                    "parts": {
-                        "COST": 70.0,
-                        "AREA": 39.0,
-                        "CYCLES": 1383.0
-                    }
-                },
-                "link": "https://od.lk/s/MV8yMDUzODA3OTdf/751_General%20Anaesthetic_B_GA_70G_1383C_39A_231I_22P.mp4"
-            },
-            {
                 "category": "AG",
                 "score": {
                     "parts": {
@@ -15211,6 +15200,17 @@
                     }
                 },
                 "link": "https://od.lk/s/MV8yMjIxODQ4NDBf/751_General%20Anaesthetic_B_S_275G_102C_80A_109I_19P.mp4"
+            },
+            {
+                "category": "GA",
+                "score": {
+                    "parts": {
+                        "COST": 70.0,
+                        "AREA": 38.0,
+                        "CYCLES": 1827.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yMjIxODEyMjBf/751_General%20Anaesthetic_B_GA_70G_1827C_38A_305I_21P.mp4"
             }
         ],
         "pareto": [
@@ -15296,6 +15296,13 @@
                     "COST": 275.0,
                     "CYCLES": 102.0,
                     "AREA": 80.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 70.0,
+                    "CYCLES": 1827.0,
+                    "AREA": 38.0
                 }
             }
         ]
