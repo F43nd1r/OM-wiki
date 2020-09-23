@@ -9646,28 +9646,6 @@
     "EYEDROPS_OF_REVELATION": {
         "records": [
             {
-                "category": "GCP",
-                "score": {
-                    "parts": {
-                        "COST": 100.0,
-                        "CYCLES": 664.0,
-                        "INSTRUCTIONS": 111.0
-                    }
-                },
-                "link": "https://i.imgur.com/CkfTcxv.gif"
-            },
-            {
-                "category": "GXP",
-                "score": {
-                    "parts": {
-                        "COST": 100.0,
-                        "CYCLES": 664.0,
-                        "INSTRUCTIONS": 111.0
-                    }
-                },
-                "link": "https://i.imgur.com/CkfTcxv.gif"
-            },
-            {
                 "category": "GI",
                 "score": {
                     "parts": {
@@ -9776,16 +9754,31 @@
                     }
                 },
                 "link": "https://i.imgur.com/mPx7ZrD.gifv"
+            },
+            {
+                "category": "GCP",
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 626.0,
+                        "INSTRUCTIONS": 105.0
+                    }
+                },
+                "link": "https://i.postimg.cc/WbVg3CwF/Opus-Magnum-Eyedrops-of-Revelation-100-G-626-105-2020-09-23-00-48-40.gif"
+            },
+            {
+                "category": "GXP",
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 626.0,
+                        "INSTRUCTIONS": 105.0
+                    }
+                },
+                "link": "https://i.postimg.cc/WbVg3CwF/Opus-Magnum-Eyedrops-of-Revelation-100-G-626-105-2020-09-23-00-48-40.gif"
             }
         ],
         "pareto": [
-            {
-                "parts": {
-                    "COST": 100.0,
-                    "CYCLES": 664.0,
-                    "INSTRUCTIONS": 111.0
-                }
-            },
             {
                 "parts": {
                     "COST": 100.0,
@@ -9840,6 +9833,13 @@
                     "COST": 390.0,
                     "CYCLES": 100.0,
                     "INSTRUCTIONS": 582.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 626.0,
+                    "INSTRUCTIONS": 105.0
                 }
             }
         ]
