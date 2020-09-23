@@ -9749,33 +9749,33 @@
                 "score": {
                     "parts": {
                         "COST": 100.0,
-                        "CYCLES": 519.0,
-                        "INSTRUCTIONS": 87.0
+                        "CYCLES": 513.0,
+                        "INSTRUCTIONS": 86.0
                     }
                 },
-                "link": "https://i.postimg.cc/dVQmVpjQ/Opus-Magnum-Eyedrops-of-Revelation-100-G-519-87-2020-09-23-01-29-51.gif"
+                "link": "https://od.lk/s/MV8yMjIyNzY5MzNf/608_Eyedrops%20of%20Revelation_B_GG_100G_513C_69A_86I_13P.gif"
             },
             {
                 "category": "GI",
                 "score": {
                     "parts": {
                         "COST": 100.0,
-                        "INSTRUCTIONS": 87.0,
-                        "CYCLES": 519.0
+                        "INSTRUCTIONS": 86.0,
+                        "CYCLES": 513.0
                     }
                 },
-                "link": "https://i.postimg.cc/dVQmVpjQ/Opus-Magnum-Eyedrops-of-Revelation-100-G-519-87-2020-09-23-01-29-51.gif"
+                "link": "https://od.lk/s/MV8yMjIyNzY5MzNf/608_Eyedrops%20of%20Revelation_B_GG_100G_513C_69A_86I_13P.gif"
             },
             {
                 "category": "GXP",
                 "score": {
                     "parts": {
                         "COST": 100.0,
-                        "CYCLES": 519.0,
-                        "INSTRUCTIONS": 87.0
+                        "CYCLES": 513.0,
+                        "INSTRUCTIONS": 86.0
                     }
                 },
-                "link": "https://i.postimg.cc/dVQmVpjQ/Opus-Magnum-Eyedrops-of-Revelation-100-G-519-87-2020-09-23-01-29-51.gif"
+                "link": "https://od.lk/s/MV8yMjIyNzY5MzNf/608_Eyedrops%20of%20Revelation_B_GG_100G_513C_69A_86I_13P.gif"
             }
         ],
         "pareto": [
@@ -9831,8 +9831,8 @@
             {
                 "parts": {
                     "COST": 100.0,
-                    "CYCLES": 519.0,
-                    "INSTRUCTIONS": 87.0
+                    "CYCLES": 513.0,
+                    "INSTRUCTIONS": 86.0
                 }
             }
         ]
