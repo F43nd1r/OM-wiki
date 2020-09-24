@@ -9233,11 +9233,11 @@
                 "score": {
                     "parts": {
                         "COST": 100.0,
-                        "INSTRUCTIONS": 86.0,
-                        "CYCLES": 513.0
+                        "INSTRUCTIONS": 80.0,
+                        "CYCLES": 1030.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjIyNzY5MzNf/608_Eyedrops%20of%20Revelation_B_GG_100G_513C_69A_86I_13P.gif"
+                "link": "https://i.postimg.cc/KYdtBPHR/Opus-Magnum-Eyedrops-of-Revelation-100-G-1030-80-2020-09-23-17-48-35.gif"
             },
             "GXP": {
                 "score": {
@@ -9305,6 +9305,13 @@
                     "COST": 100.0,
                     "CYCLES": 513.0,
                     "INSTRUCTIONS": 86.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 1030.0,
+                    "INSTRUCTIONS": 80.0
                 }
             }
         ]
