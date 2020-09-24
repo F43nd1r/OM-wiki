@@ -9132,32 +9132,32 @@
             "IG": {
                 "score": {
                     "parts": {
-                        "INSTRUCTIONS": 46.0,
-                        "COST": 285.0,
-                        "CYCLES": 889.0
+                        "INSTRUCTIONS": 17.0,
+                        "COST": 70.0,
+                        "CYCLES": 483.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzQxMTkyMTRf/608_Eyedrops%20of%20Revelation_B_II_285G_889C_82A_46I_21P.gif"
+                "link": "https://od.lk/s/MV8yMjIzNDYxNjFf/608_Eyedrops%20of%20Revelation_B_GI_1-2T_100G_900C_69A_70I_13P.mp4"
             },
             "IC": {
                 "score": {
                     "parts": {
-                        "INSTRUCTIONS": 46.0,
-                        "CYCLES": 889.0,
-                        "COST": 285.0
+                        "INSTRUCTIONS": 17.0,
+                        "CYCLES": 483.0,
+                        "COST": 70.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzQxMTkyMTRf/608_Eyedrops%20of%20Revelation_B_II_285G_889C_82A_46I_21P.gif"
+                "link": "https://od.lk/s/MV8yMjIzNDYxNjFf/608_Eyedrops%20of%20Revelation_B_GI_1-2T_100G_900C_69A_70I_13P.mp4"
             },
             "IX": {
                 "score": {
                     "parts": {
-                        "INSTRUCTIONS": 46.0,
-                        "COST": 285.0,
-                        "CYCLES": 889.0
+                        "INSTRUCTIONS": 17.0,
+                        "COST": 70.0,
+                        "CYCLES": 483.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzQxMTkyMTRf/608_Eyedrops%20of%20Revelation_B_II_285G_889C_82A_46I_21P.gif"
+                "link": "https://od.lk/s/MV8yMjIzNDYxNjFf/608_Eyedrops%20of%20Revelation_B_GI_1-2T_100G_900C_69A_70I_13P.mp4"
             },
             "SGP": {
                 "score": {
@@ -9222,32 +9222,32 @@
             "GCP": {
                 "score": {
                     "parts": {
-                        "COST": 100.0,
-                        "CYCLES": 513.0,
-                        "INSTRUCTIONS": 86.0
+                        "COST": 70.0,
+                        "CYCLES": 483.0,
+                        "INSTRUCTIONS": 17.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjIyNzY5MzNf/608_Eyedrops%20of%20Revelation_B_GG_100G_513C_69A_86I_13P.gif"
+                "link": "https://od.lk/s/MV8yMjIzNDYxNjFf/608_Eyedrops%20of%20Revelation_B_GI_1-2T_100G_900C_69A_70I_13P.mp4"
             },
             "GI": {
                 "score": {
                     "parts": {
-                        "COST": 100.0,
-                        "INSTRUCTIONS": 74.0,
-                        "CYCLES": 952.0
+                        "COST": 70.0,
+                        "INSTRUCTIONS": 17.0,
+                        "CYCLES": 483.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjIzMTEyNTJf/608_Eyedrops%20of%20Revelation_B_GI_1-2T_100G_952C_69A_74I_13P.mp4"
+                "link": "https://od.lk/s/MV8yMjIzNDYxNjFf/608_Eyedrops%20of%20Revelation_B_GI_1-2T_100G_900C_69A_70I_13P.mp4"
             },
             "GXP": {
                 "score": {
                     "parts": {
-                        "COST": 100.0,
-                        "CYCLES": 513.0,
-                        "INSTRUCTIONS": 86.0
+                        "COST": 70.0,
+                        "CYCLES": 483.0,
+                        "INSTRUCTIONS": 17.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjIyNzY5MzNf/608_Eyedrops%20of%20Revelation_B_GG_100G_513C_69A_86I_13P.gif"
+                "link": "https://od.lk/s/MV8yMjIzNDYxNjFf/608_Eyedrops%20of%20Revelation_B_GI_1-2T_100G_900C_69A_70I_13P.mp4"
             }
         },
         "pareto": [
@@ -9256,13 +9256,6 @@
                     "COST": 130.0,
                     "CYCLES": 364.0,
                     "INSTRUCTIONS": 104.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 285.0,
-                    "CYCLES": 889.0,
-                    "INSTRUCTIONS": 46.0
                 }
             },
             {
@@ -9302,16 +9295,9 @@
             },
             {
                 "parts": {
-                    "COST": 100.0,
-                    "CYCLES": 513.0,
-                    "INSTRUCTIONS": 86.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 100.0,
-                    "CYCLES": 952.0,
-                    "INSTRUCTIONS": 74.0
+                    "COST": 70.0,
+                    "CYCLES": 483.0,
+                    "INSTRUCTIONS": 17.0
                 }
             }
         ]
