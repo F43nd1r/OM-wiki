@@ -14362,11 +14362,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 39.0,
-                        "AREA": 190.0,
-                        "COST": 1680.0
+                        "AREA": 188.0,
+                        "COST": 1690.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzQ5NDE5MzRf/751_General%20Anaesthetic_B_CA_6T_1680G_39C_190A_792I_89P.gif"
+                "link": "https://od.lk/s/MV8yMjIxODEyMTZf/751_General%20Anaesthetic_B_CA_6T_1690G_39C_188A_792I_91P.mp4"
             },
             "SG": {
                 "score": {
@@ -14499,6 +14499,13 @@
                     "COST": 280.0,
                     "CYCLES": 103.0,
                     "AREA": 68.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 1690.0,
+                    "CYCLES": 39.0,
+                    "AREA": 188.0
                 }
             }
         ]
