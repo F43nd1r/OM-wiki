@@ -14371,32 +14371,32 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 275.0,
-                        "CYCLES": 102.0,
-                        "AREA": 80.0
+                        "COST": 280.0,
+                        "CYCLES": 103.0,
+                        "AREA": 68.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjIxODQ4NDBf/751_General%20Anaesthetic_B_S_275G_102C_80A_109I_19P.mp4"
+                "link": "https://od.lk/s/MV8yMjIzNjY5MzZf/751_General%20Anaesthetic_B_X_S_280G_103C_68A_107I_19P.mp4"
             },
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 275.0,
-                        "CYCLES": 102.0,
-                        "AREA": 80.0
+                        "COST": 280.0,
+                        "CYCLES": 103.0,
+                        "AREA": 68.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjIxODQ4NDBf/751_General%20Anaesthetic_B_S_275G_102C_80A_109I_19P.mp4"
+                "link": "https://od.lk/s/MV8yMjIzNjY5MzZf/751_General%20Anaesthetic_B_X_S_280G_103C_68A_107I_19P.mp4"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 275.0,
-                        "CYCLES": 102.0,
-                        "AREA": 80.0
+                        "COST": 280.0,
+                        "CYCLES": 103.0,
+                        "AREA": 68.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjIxODQ4NDBf/751_General%20Anaesthetic_B_S_275G_102C_80A_109I_19P.mp4"
+                "link": "https://od.lk/s/MV8yMjIzNjY5MzZf/751_General%20Anaesthetic_B_X_S_280G_103C_68A_107I_19P.mp4"
             },
             "GA": {
                 "score": {
@@ -14482,13 +14482,6 @@
             },
             {
                 "parts": {
-                    "COST": 280.0,
-                    "CYCLES": 113.0,
-                    "AREA": 75.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 275.0,
                     "CYCLES": 102.0,
                     "AREA": 80.0
@@ -14499,6 +14492,13 @@
                     "COST": 70.0,
                     "CYCLES": 1827.0,
                     "AREA": 38.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 280.0,
+                    "CYCLES": 103.0,
+                    "AREA": 68.0
                 }
             }
         ]
