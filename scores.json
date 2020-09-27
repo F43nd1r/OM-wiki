@@ -14792,10 +14792,10 @@
                     "parts": {
                         "AREA": 44.0,
                         "COST": 60.0,
-                        "CYCLES": 378.0
+                        "CYCLES": 377.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDUzODA2OTlf/753_Suture%20Thread_B_AG_6T_60G_378C_44A_383I_7P.mp4"
+                "link": "https://od.lk/s/MV8yMjIxODEyMTBf/753_Suture%20Thread_B_AG_6T_60G_377C_44A_382I_7P_ex.mp4"
             },
             "AC": {
                 "score": {
@@ -14909,13 +14909,6 @@
             },
             {
                 "parts": {
-                    "COST": 60.0,
-                    "CYCLES": 378.0,
-                    "AREA": 44.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 100.0,
                     "CYCLES": 106.0,
                     "AREA": 53.0
@@ -14946,6 +14939,13 @@
                 "parts": {
                     "COST": 65.0,
                     "CYCLES": 340.0,
+                    "AREA": 44.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 377.0,
                     "AREA": 44.0
                 }
             }
