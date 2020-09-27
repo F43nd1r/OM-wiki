@@ -14801,21 +14801,21 @@
                 "score": {
                     "parts": {
                         "AREA": 44.0,
-                        "CYCLES": 341.0,
+                        "CYCLES": 340.0,
                         "COST": 65.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDUzODA2NThf/753_Suture%20Thread_B_ACX_6T_65G_341C_44A_346I_6P.mp4"
+                "link": "https://od.lk/s/MV8yMjIxODEyMDhf/753_Suture%20Thread_B_ACX_6T_65G_340C_44A_345I_6P_ex.mp4"
             },
             "AX": {
                 "score": {
                     "parts": {
                         "AREA": 44.0,
                         "COST": 65.0,
-                        "CYCLES": 341.0
+                        "CYCLES": 340.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDUzODA2NThf/753_Suture%20Thread_B_ACX_6T_65G_341C_44A_346I_6P.mp4"
+                "link": "https://od.lk/s/MV8yMjIxODEyMDhf/753_Suture%20Thread_B_ACX_6T_65G_340C_44A_345I_6P_ex.mp4"
             },
             "SG": {
                 "score": {
@@ -14916,13 +14916,6 @@
             },
             {
                 "parts": {
-                    "COST": 65.0,
-                    "CYCLES": 341.0,
-                    "AREA": 44.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 100.0,
                     "CYCLES": 106.0,
                     "AREA": 53.0
@@ -14947,6 +14940,13 @@
                     "COST": 225.0,
                     "CYCLES": 49.0,
                     "AREA": 57.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 65.0,
+                    "CYCLES": 340.0,
+                    "AREA": 44.0
                 }
             }
         ]
