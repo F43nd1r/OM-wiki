@@ -20256,31 +20256,31 @@
                 "score": {
                     "parts": {
                         "COST": 60.0,
-                        "CYCLES": 2357.0,
+                        "CYCLES": 2350.0,
                         "AREA": 1869.0
                     }
                 },
-                "link": "https://streamable.com/195l9.gif"
+                "link": "https://youtu.be/C4D9VJpOsGU"
             },
             "GA": {
                 "score": {
                     "parts": {
                         "COST": 60.0,
                         "AREA": 1869.0,
-                        "CYCLES": 2357.0
+                        "CYCLES": 2350.0
                     }
                 },
-                "link": "https://streamable.com/195l9.gif"
+                "link": "https://youtu.be/C4D9VJpOsGU"
             },
             "GX": {
                 "score": {
                     "parts": {
                         "COST": 60.0,
-                        "CYCLES": 2357.0,
+                        "CYCLES": 2350.0,
                         "AREA": 1869.0
                     }
                 },
-                "link": "https://streamable.com/195l9.gif"
+                "link": "https://youtu.be/C4D9VJpOsGU"
             },
             "AG": {
                 "score": {
@@ -20376,13 +20376,6 @@
         "pareto": [
             {
                 "parts": {
-                    "COST": 60.0,
-                    "CYCLES": 2357.0,
-                    "AREA": 1869.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 90.0,
                     "CYCLES": 1084.0,
                     "AREA": 61.0
@@ -20407,6 +20400,13 @@
                     "COST": 935.0,
                     "CYCLES": 39.0,
                     "AREA": 332.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 2350.0,
+                    "AREA": 1869.0
                 }
             }
         ]
