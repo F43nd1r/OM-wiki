@@ -14582,12 +14582,12 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 235.0,
-                        "CYCLES": 130.0,
-                        "AREA": 72.0
+                        "COST": 215.0,
+                        "CYCLES": 109.0,
+                        "AREA": 85.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzg1MTI1NjZf/752_Wakefulness%20Potion_B_X_S_6T_235G_130C_72A_415I_29P.mp4"
+                "link": "https://i.imgur.com/G8alKj1.gif"
             },
             "CG": {
                 "score": {
@@ -14622,22 +14622,22 @@
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 235.0,
-                        "CYCLES": 130.0,
-                        "AREA": 72.0
+                        "COST": 215.0,
+                        "CYCLES": 109.0,
+                        "AREA": 85.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzg1MTI1NjZf/752_Wakefulness%20Potion_B_X_S_6T_235G_130C_72A_415I_29P.mp4"
+                "link": "https://i.imgur.com/G8alKj1.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 235.0,
-                        "CYCLES": 130.0,
-                        "AREA": 72.0
+                        "COST": 215.0,
+                        "CYCLES": 109.0,
+                        "AREA": 85.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzg1MTI1NjZf/752_Wakefulness%20Potion_B_X_S_6T_235G_130C_72A_415I_29P.mp4"
+                "link": "https://i.imgur.com/G8alKj1.gif"
             }
         },
         "pareto": [
@@ -14751,6 +14751,13 @@
                     "COST": 770.0,
                     "CYCLES": 34.0,
                     "AREA": 144.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 215.0,
+                    "CYCLES": 109.0,
+                    "AREA": 85.0
                 }
             }
         ]
