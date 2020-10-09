@@ -10809,22 +10809,22 @@
             "CG": {
                 "score": {
                     "parts": {
-                        "CYCLES": 98.0,
-                        "COST": 360.0,
-                        "AREA": 71.0
+                        "CYCLES": 48.0,
+                        "COST": 610.0,
+                        "AREA": 64.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xOTc3MDYzMzdf/715_Lambent%20II-IX_B_CG_360G_98C_71A_120I_24P.mp4"
+                "link": "https://i.imgur.com/F5P9dfo.mp4"
             },
             "CA": {
                 "score": {
                     "parts": {
-                        "CYCLES": 98.0,
-                        "AREA": 50.0,
-                        "COST": 575.0
+                        "CYCLES": 48.0,
+                        "AREA": 64.0,
+                        "COST": 610.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTY1MDIyODZf/715_Lambent%20II-IX_B_CA_575G_98C_50A_115I_28P.mp4"
+                "link": "https://i.imgur.com/F5P9dfo.mp4"
             },
             "SG": {
                 "score": {
@@ -10859,12 +10859,12 @@
             "CX": {
                 "score": {
                     "parts": {
-                        "CYCLES": 98.0,
-                        "COST": 390.0,
-                        "AREA": 58.0
+                        "CYCLES": 48.0,
+                        "COST": 610.0,
+                        "AREA": 64.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjExMTI4NDZf/715_Lambent%20II-IX_B_CX_390G_98C_58A_119I_25P.mp4"
+                "link": "https://i.imgur.com/F5P9dfo.mp4"
             }
         },
         "pareto": [
@@ -10964,6 +10964,13 @@
                     "COST": 390.0,
                     "CYCLES": 98.0,
                     "AREA": 58.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 610.0,
+                    "CYCLES": 48.0,
+                    "AREA": 64.0
                 }
             }
         ]
