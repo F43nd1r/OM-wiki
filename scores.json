@@ -14975,20 +14975,20 @@
                     "parts": {
                         "COST": 40.0,
                         "AREA": 87.0,
-                        "CYCLES": 1054.0
+                        "CYCLES": 946.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTkxMTYyMThf/754_Blood-Stanching%20Powder_B_GAX_40G_1054C_87A_176I_6P.mp4"
+                "link": "https://i.imgur.com/NmiDQoh.gif"
             },
             "GX": {
                 "score": {
                     "parts": {
                         "COST": 40.0,
-                        "CYCLES": 1054.0,
+                        "CYCLES": 946.0,
                         "AREA": 87.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTkxMTYyMThf/754_Blood-Stanching%20Powder_B_GAX_40G_1054C_87A_176I_6P.mp4"
+                "link": "https://i.imgur.com/NmiDQoh.gif"
             },
             "SG": {
                 "score": {
@@ -15091,13 +15091,6 @@
             },
             {
                 "parts": {
-                    "COST": 40.0,
-                    "CYCLES": 1054.0,
-                    "AREA": 87.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 85.0,
                     "CYCLES": 1125.0,
                     "AREA": 38.0
@@ -15164,6 +15157,13 @@
                     "COST": 70.0,
                     "CYCLES": 1167.0,
                     "AREA": 38.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 40.0,
+                    "CYCLES": 946.0,
+                    "AREA": 87.0
                 }
             }
         ]
