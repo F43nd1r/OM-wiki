@@ -15004,11 +15004,11 @@
                 "score": {
                     "parts": {
                         "AREA": 38.0,
-                        "CYCLES": 705.0,
+                        "CYCLES": 695.0,
                         "COST": 175.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzUyMTI5NzBf/754_Blood-Stanching%20Powder_B_AC_6T_175G_705C_38A_1315I_15P.mp4"
+                "link": "https://i.imgur.com/zINYWdy.gif"
             },
             "CG": {
                 "score": {
@@ -15119,13 +15119,6 @@
             },
             {
                 "parts": {
-                    "COST": 175.0,
-                    "CYCLES": 705.0,
-                    "AREA": 38.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 420.0,
                     "CYCLES": 83.0,
                     "AREA": 170.0
@@ -15163,6 +15156,13 @@
                 "parts": {
                     "COST": 70.0,
                     "CYCLES": 1155.0,
+                    "AREA": 38.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 175.0,
+                    "CYCLES": 695.0,
                     "AREA": 38.0
                 }
             }
