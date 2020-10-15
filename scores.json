@@ -16455,10 +16455,10 @@
                     "parts": {
                         "CYCLES": 27.0,
                         "AREA": 115.0,
-                        "COST": 775.0
+                        "COST": 755.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTkyMDQ4NDVf/771_Van%20Berlo%27s%20Pivots_B_CA_6T_775G_27C_115A_447I_58P.mp4"
+                "link": "https://i.imgur.com/UdwliqJ.gif"
             },
             "SC": {
                 "score": {
@@ -16611,13 +16611,6 @@
             {
                 "parts": {
                     "COST": 755.0,
-                    "CYCLES": 27.0,
-                    "AREA": 116.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 775.0,
                     "CYCLES": 27.0,
                     "AREA": 115.0
                 }
