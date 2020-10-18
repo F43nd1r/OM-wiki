@@ -19482,12 +19482,12 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 285.0,
-                        "CYCLES": 223.0,
-                        "AREA": 81.0
+                        "COST": 280.0,
+                        "CYCLES": 196.0,
+                        "AREA": 80.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTg4OTYwMDlf/794_Embalming%20Fluid_B_X_S_285G_223C_81A_180I_22P.mp4"
+                "link": "https://i.imgur.com/PEFpDMe.gif"
             },
             "CG": {
                 "score": {
@@ -19522,22 +19522,22 @@
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 285.0,
-                        "CYCLES": 223.0,
-                        "AREA": 81.0
+                        "COST": 280.0,
+                        "CYCLES": 196.0,
+                        "AREA": 80.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTg4OTYwMDlf/794_Embalming%20Fluid_B_X_S_285G_223C_81A_180I_22P.mp4"
+                "link": "https://i.imgur.com/PEFpDMe.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 285.0,
-                        "CYCLES": 223.0,
-                        "AREA": 81.0
+                        "COST": 280.0,
+                        "CYCLES": 196.0,
+                        "AREA": 80.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTg4OTYwMDlf/794_Embalming%20Fluid_B_X_S_285G_223C_81A_180I_22P.mp4"
+                "link": "https://i.imgur.com/PEFpDMe.gif"
             }
         },
         "pareto": [
@@ -19595,13 +19595,6 @@
                     "COST": 275.0,
                     "CYCLES": 239.0,
                     "AREA": 85.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 285.0,
-                    "CYCLES": 223.0,
-                    "AREA": 81.0
                 }
             },
             {
@@ -19693,6 +19686,13 @@
                     "COST": 1240.0,
                     "CYCLES": 54.0,
                     "AREA": 136.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 280.0,
+                    "CYCLES": 196.0,
+                    "AREA": 80.0
                 }
             }
         ]
