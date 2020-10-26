@@ -18659,32 +18659,32 @@
             "CX": {
                 "score": {
                     "parts": {
-                        "CYCLES": 24.0,
-                        "COST": 1330.0,
-                        "AREA": 408.0
+                        "CYCLES": 16.0,
+                        "COST": 1285.0,
+                        "AREA": 186.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTg5Mjg1NjFf/785_Electrum%20Separation_B_CX_NOGIF_1330G_24C_408A_373I_90P.mp4"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/770112299872550942/Opus_Magnum_-_Electrum_Separation_1285G_16_186_2020-10-26-04-31-02.gif"
             },
             "CA": {
                 "score": {
                     "parts": {
-                        "CYCLES": 24.0,
-                        "AREA": 381.0,
-                        "COST": 1575.0
+                        "CYCLES": 16.0,
+                        "AREA": 186.0,
+                        "COST": 1285.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTg4OTYyMzFf/785_Electrum%20Separation_B_CA_NOGIF_1575G_24C_381A_396I_159P.mp4"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/770112299872550942/Opus_Magnum_-_Electrum_Separation_1285G_16_186_2020-10-26-04-31-02.gif"
             },
             "CG": {
                 "score": {
                     "parts": {
-                        "CYCLES": 24.0,
-                        "COST": 1310.0,
-                        "AREA": 429.0
+                        "CYCLES": 16.0,
+                        "COST": 1285.0,
+                        "AREA": 186.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTg5MDU1NDRf/785_Electrum%20Separation_B_CG_NOGIF_1310G_24C_429A_372I_89P.mp4"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/770112299872550942/Opus_Magnum_-_Electrum_Separation_1285G_16_186_2020-10-26-04-31-02.gif"
             },
             "SC": {
                 "score": {
@@ -18766,30 +18766,9 @@
             },
             {
                 "parts": {
-                    "COST": 1310.0,
-                    "CYCLES": 24.0,
-                    "AREA": 429.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 1330.0,
-                    "CYCLES": 24.0,
-                    "AREA": 408.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 1375.0,
-                    "CYCLES": 24.0,
-                    "AREA": 406.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 1575.0,
-                    "CYCLES": 24.0,
-                    "AREA": 381.0
+                    "COST": 1285.0,
+                    "CYCLES": 16.0,
+                    "AREA": 186.0
                 }
             }
         ]
