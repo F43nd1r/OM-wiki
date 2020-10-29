@@ -7106,12 +7106,12 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 160.0,
-                        "CYCLES": 118.0,
-                        "AREA": 50.0
+                        "COST": 125.0,
+                        "CYCLES": 150.0,
+                        "AREA": 39.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDMxMjU2OTJf/504_Unstable%20Compound_B_S_6T_160G_118C_50A_462I_13P.mp4"
+                "link": "https://i.imgur.com/4hBoVXt.gif"
             },
             "CG": {
                 "score": {
@@ -7146,22 +7146,22 @@
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 160.0,
-                        "CYCLES": 118.0,
-                        "AREA": 50.0
+                        "COST": 125.0,
+                        "CYCLES": 150.0,
+                        "AREA": 39.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDMxMjU2OTJf/504_Unstable%20Compound_B_S_6T_160G_118C_50A_462I_13P.mp4"
+                "link": "https://i.imgur.com/4hBoVXt.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 160.0,
-                        "CYCLES": 118.0,
-                        "AREA": 50.0
+                        "COST": 125.0,
+                        "CYCLES": 150.0,
+                        "AREA": 39.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDMxMjU2OTJf/504_Unstable%20Compound_B_S_6T_160G_118C_50A_462I_13P.mp4"
+                "link": "https://i.imgur.com/4hBoVXt.gif"
             }
         },
         "pareto": [
@@ -7268,6 +7268,13 @@
                     "COST": 555.0,
                     "CYCLES": 63.0,
                     "AREA": 56.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 125.0,
+                    "CYCLES": 150.0,
+                    "AREA": 39.0
                 }
             }
         ]
