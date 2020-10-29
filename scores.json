@@ -11859,11 +11859,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 61.0,
-                        "AREA": 280.0,
-                        "COST": 430.0
+                        "AREA": 279.0,
+                        "COST": 470.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTkzMjM2MDBf/724_Buoyant%20Cable_B_CA_6T_430G_61C_280A_432I_31P.mp4"
+                "link": "https://i.imgur.com/NCHuKm9.gif"
             },
             "CX": {
                 "score": {
@@ -12014,6 +12014,13 @@
                     "COST": 430.0,
                     "CYCLES": 61.0,
                     "AREA": 280.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 470.0,
+                    "CYCLES": 61.0,
+                    "AREA": 279.0
                 }
             }
         ]
