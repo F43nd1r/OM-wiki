@@ -11849,11 +11849,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 61.0,
-                        "COST": 345.0,
-                        "AREA": 714.0
+                        "COST": 330.0,
+                        "AREA": 309.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTYwOTU0OThf/724_Buoyant%20Cable_B_CG_6T_345G_61C_714A_394I_20P.mp4"
+                "link": "https://i.imgur.com/BFik4YQ.gif"
             },
             "CA": {
                 "score": {
@@ -11869,11 +11869,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 61.0,
-                        "COST": 360.0,
-                        "AREA": 290.0
+                        "COST": 330.0,
+                        "AREA": 309.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTkzMjM2MDFf/724_Buoyant%20Cable_B_CX_6T_360G_61C_290A_402I_20P.mp4"
+                "link": "https://i.imgur.com/BFik4YQ.gif"
             },
             "SC": {
                 "score": {
@@ -11976,20 +11976,6 @@
             },
             {
                 "parts": {
-                    "COST": 345.0,
-                    "CYCLES": 61.0,
-                    "AREA": 714.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 350.0,
-                    "CYCLES": 61.0,
-                    "AREA": 713.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 360.0,
                     "CYCLES": 61.0,
                     "AREA": 290.0
@@ -12021,6 +12007,13 @@
                     "COST": 470.0,
                     "CYCLES": 61.0,
                     "AREA": 279.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 330.0,
+                    "CYCLES": 61.0,
+                    "AREA": 309.0
                 }
             }
         ]
