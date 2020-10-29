@@ -11869,11 +11869,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 61.0,
-                        "COST": 330.0,
-                        "AREA": 309.0
+                        "COST": 340.0,
+                        "AREA": 294.0
                     }
                 },
-                "link": "https://i.imgur.com/BFik4YQ.gif"
+                "link": "https://i.imgur.com/qd4BM9Y.gif"
             },
             "SC": {
                 "score": {
@@ -12014,6 +12014,13 @@
                     "COST": 330.0,
                     "CYCLES": 61.0,
                     "AREA": 309.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 340.0,
+                    "CYCLES": 61.0,
+                    "AREA": 294.0
                 }
             }
         ]
