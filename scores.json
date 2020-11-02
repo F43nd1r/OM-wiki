@@ -17926,10 +17926,10 @@
                     "parts": {
                         "COST": 80.0,
                         "CYCLES": 1328.0,
-                        "AREA": 473.0
+                        "AREA": 466.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDUzODExMThf/782_Celestial%20Thread_B_GC_NOGIF_80G_1328C_473A_1328I_11P.mp4"
+                "link": "https://od.lk/s/MV8yMjU2MzgxODJf/782_Celestial%20Thread_B_GC_NOGIF_80G_1328C_466A_1328I_13P.mp4"
             },
             "GX": {
                 "score": {
@@ -18046,13 +18046,6 @@
             {
                 "parts": {
                     "COST": 80.0,
-                    "CYCLES": 1328.0,
-                    "AREA": 473.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 80.0,
                     "CYCLES": 1446.0,
                     "AREA": 425.0
                 }
@@ -18146,6 +18139,13 @@
                     "COST": 865.0,
                     "CYCLES": 74.0,
                     "AREA": 156.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 80.0,
+                    "CYCLES": 1328.0,
+                    "AREA": 466.0
                 }
             }
         ]
