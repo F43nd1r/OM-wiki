@@ -10843,32 +10843,32 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 345.0,
-                        "CYCLES": 110.0,
-                        "AREA": 68.0
+                        "COST": 220.0,
+                        "CYCLES": 152.0,
+                        "AREA": 62.0
                     }
                 },
-                "link": "https://i.imgur.com/ipjDXGv.mp4"
+                "link": "https://i.imgur.com/ZkI2lEq.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 345.0,
-                        "CYCLES": 110.0,
-                        "AREA": 68.0
+                        "COST": 220.0,
+                        "CYCLES": 152.0,
+                        "AREA": 62.0
                     }
                 },
-                "link": "https://i.imgur.com/ipjDXGv.mp4"
+                "link": "https://i.imgur.com/ZkI2lEq.gif"
             },
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 355.0,
-                        "CYCLES": 99.0,
-                        "AREA": 69.0
+                        "COST": 220.0,
+                        "CYCLES": 152.0,
+                        "AREA": 62.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xOTc4Njc1NzVf/715_Lambent%20II-IX_B_S_1_2T_355G_99C_69A_238I_24P.mp4"
+                "link": "https://i.imgur.com/ZkI2lEq.gif"
             },
             "CX": {
                 "score": {
@@ -10978,6 +10978,13 @@
                     "COST": 390.0,
                     "CYCLES": 98.0,
                     "AREA": 58.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 220.0,
+                    "CYCLES": 152.0,
+                    "AREA": 62.0
                 }
             }
         ]
