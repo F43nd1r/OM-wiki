@@ -16963,11 +16963,11 @@
                 "score": {
                     "parts": {
                         "COST": 210.0,
-                        "CYCLES": 107.0,
+                        "CYCLES": 101.0,
                         "AREA": 139.0
                     }
                 },
-                "link": "https://i.imgur.com/j0PYQIB.gifv"
+                "link": "https://i.postimg.cc/sxVLWNHN/773-Assassin-s-Filament-X-S-6-T-210-G-101-C-139-A.gif"
             },
             "CG": {
                 "score": {
@@ -17003,21 +17003,21 @@
                 "score": {
                     "parts": {
                         "COST": 210.0,
-                        "CYCLES": 107.0,
+                        "CYCLES": 101.0,
                         "AREA": 139.0
                     }
                 },
-                "link": "https://i.imgur.com/j0PYQIB.gifv"
+                "link": "https://i.postimg.cc/sxVLWNHN/773-Assassin-s-Filament-X-S-6-T-210-G-101-C-139-A.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
                         "COST": 210.0,
-                        "CYCLES": 107.0,
+                        "CYCLES": 101.0,
                         "AREA": 139.0
                     }
                 },
-                "link": "https://i.imgur.com/j0PYQIB.gifv"
+                "link": "https://i.postimg.cc/sxVLWNHN/773-Assassin-s-Filament-X-S-6-T-210-G-101-C-139-A.gif"
             }
         },
         "pareto": [
@@ -17101,7 +17101,7 @@
             {
                 "parts": {
                     "COST": 210.0,
-                    "CYCLES": 107.0,
+                    "CYCLES": 101.0,
                     "AREA": 139.0
                 }
             }
