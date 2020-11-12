@@ -17519,11 +17519,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 36.0,
-                        "COST": 2400.0,
-                        "AREA": 265.0
+                        "COST": 2190.0,
+                        "AREA": 289.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTkyOTY2MzVf/775_Alchemical%20Slag_B_CX_13T_2400G_36C_265A_1897I_127P.mp4"
+                "link": "https://i.imgur.com/FOH1L3i.mp4"
             },
             "CA": {
                 "score": {
@@ -17539,11 +17539,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 36.0,
-                        "COST": 2195.0,
-                        "AREA": 292.0
+                        "COST": 2190.0,
+                        "AREA": 289.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTg5ODc5ODZf/775_Alchemical%20Slag_B_CG_12T_2195G_36C_292A_1625I_121P.mp4"
+                "link": "https://i.imgur.com/FOH1L3i.mp4"
             },
             "SC": {
                 "score": {
@@ -17674,13 +17674,6 @@
             },
             {
                 "parts": {
-                    "COST": 2195.0,
-                    "CYCLES": 36.0,
-                    "AREA": 292.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 2245.0,
                     "CYCLES": 38.0,
                     "AREA": 276.0
@@ -17726,6 +17719,13 @@
                     "COST": 2495.0,
                     "CYCLES": 36.0,
                     "AREA": 261.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 2190.0,
+                    "CYCLES": 36.0,
+                    "AREA": 289.0
                 }
             }
         ]
