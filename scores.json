@@ -16717,10 +16717,10 @@
                     "parts": {
                         "AREA": 13.0,
                         "COST": 100.0,
-                        "CYCLES": 784.0
+                        "CYCLES": 781.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTIyMTQ4NDlf/772_Reactive%20Gold_B_AG_6T_100G_784C_13A_816I_7P.mp4"
+                "link": "https://od.lk/s/MV8yMjc2OTA5MzNf/772_Reactive%20Gold_B_AG_6T_100G_781C_13A_813I_7P.mp4"
             },
             "AC": {
                 "score": {
@@ -16813,13 +16813,6 @@
             },
             {
                 "parts": {
-                    "COST": 100.0,
-                    "CYCLES": 784.0,
-                    "AREA": 13.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 110.0,
                     "CYCLES": 591.0,
                     "AREA": 15.0
@@ -16892,6 +16885,13 @@
                 "parts": {
                     "COST": 130.0,
                     "CYCLES": 528.0,
+                    "AREA": 13.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 781.0,
                     "AREA": 13.0
                 }
             }
