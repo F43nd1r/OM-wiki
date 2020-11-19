@@ -16726,21 +16726,21 @@
                 "score": {
                     "parts": {
                         "AREA": 13.0,
-                        "CYCLES": 551.0,
+                        "CYCLES": 528.0,
                         "COST": 130.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTIyMTQ5MzJf/772_Reactive%20Gold_B_ACX_6T_130G_551C_13A_1017I_7P.mp4"
+                "link": "https://od.lk/s/MV8yMjg3NTE0NjRf/772_Reactive%20Gold_B_ACX_6T_130G_528C_13A_991I_7P.mp4"
             },
             "AX": {
                 "score": {
                     "parts": {
                         "AREA": 13.0,
                         "COST": 130.0,
-                        "CYCLES": 551.0
+                        "CYCLES": 528.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTIyMTQ5MzJf/772_Reactive%20Gold_B_ACX_6T_130G_551C_13A_1017I_7P.mp4"
+                "link": "https://od.lk/s/MV8yMjg3NTE0NjRf/772_Reactive%20Gold_B_ACX_6T_130G_528C_13A_991I_7P.mp4"
             },
             "SG": {
                 "score": {
@@ -16834,13 +16834,6 @@
             },
             {
                 "parts": {
-                    "COST": 130.0,
-                    "CYCLES": 551.0,
-                    "AREA": 13.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 140.0,
                     "CYCLES": 143.0,
                     "AREA": 47.0
@@ -16893,6 +16886,13 @@
                     "COST": 355.0,
                     "CYCLES": 55.0,
                     "AREA": 28.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 528.0,
+                    "AREA": 13.0
                 }
             }
         ]
