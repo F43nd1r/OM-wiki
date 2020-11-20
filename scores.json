@@ -13186,11 +13186,11 @@
                 "score": {
                     "parts": {
                         "COST": 75.0,
-                        "CYCLES": 999.0,
-                        "AREA": 92.0
+                        "CYCLES": 987.0,
+                        "AREA": 89.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDAwNzUzNjRf/735_Ablative%20Crystal_B_GC_75G_999C_92A_167I_7P.mp4"
+                "link": "https://i.imgur.com/klfOaTb.gif"
             },
             "GX": {
                 "score": {
@@ -13304,13 +13304,6 @@
             }
         },
         "pareto": [
-            {
-                "parts": {
-                    "COST": 75.0,
-                    "CYCLES": 999.0,
-                    "AREA": 92.0
-                }
-            },
             {
                 "parts": {
                     "COST": 75.0,
@@ -13428,6 +13421,13 @@
                     "COST": 1150.0,
                     "CYCLES": 37.0,
                     "AREA": 257.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 75.0,
+                    "CYCLES": 987.0,
+                    "AREA": 89.0
                 }
             }
         ]
