@@ -20375,11 +20375,11 @@
                 "score": {
                     "parts": {
                         "COST": 60.0,
-                        "CYCLES": 2257.0,
-                        "AREA": 1714.0
+                        "CYCLES": 2117.0,
+                        "AREA": 1985.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjk1MzY4OTZf/912_Wire_week2_B_GG_SHADOWCLUSTER_60G_2257C_1714A_2257I_9P.mp4"
+                "link": "https://od.lk/s/MV8yMjk2ODU3NzBf/912_Wire_week2_B_GC_6T_60G_2117C_1985A_2117I_9P.mp4"
             },
             "GA": {
                 "score": {
@@ -20526,6 +20526,13 @@
                     "COST": 60.0,
                     "CYCLES": 2257.0,
                     "AREA": 1714.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 2117.0,
+                    "AREA": 1985.0
                 }
             }
         ]
