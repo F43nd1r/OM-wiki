@@ -20385,21 +20385,21 @@
                 "score": {
                     "parts": {
                         "COST": 60.0,
-                        "AREA": 1635.0,
-                        "CYCLES": 2126.0
+                        "AREA": 1597.0,
+                        "CYCLES": 2112.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjk2ODU3MzZf/912_Wire_week2_B_GAX_6T_60G_2126C_1635A_2126I_9P.mp4"
+                "link": "https://od.lk/s/MV8yMjk3NzI3MzNf/912_Wire_B_GAX_6T_60G_2112C_1597A_2112I_11P.mp4"
             },
             "GX": {
                 "score": {
                     "parts": {
                         "COST": 60.0,
-                        "CYCLES": 2126.0,
-                        "AREA": 1635.0
+                        "CYCLES": 2112.0,
+                        "AREA": 1597.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjk2ODU3MzZf/912_Wire_week2_B_GAX_6T_60G_2126C_1635A_2126I_9P.mp4"
+                "link": "https://od.lk/s/MV8yMjk3NzI3MzNf/912_Wire_B_GAX_6T_60G_2112C_1597A_2112I_11P.mp4"
             },
             "AG": {
                 "score": {
@@ -20524,15 +20524,15 @@
             {
                 "parts": {
                     "COST": 60.0,
-                    "CYCLES": 2126.0,
-                    "AREA": 1635.0
+                    "CYCLES": 2103.0,
+                    "AREA": 1958.0
                 }
             },
             {
                 "parts": {
                     "COST": 60.0,
-                    "CYCLES": 2103.0,
-                    "AREA": 1958.0
+                    "CYCLES": 2112.0,
+                    "AREA": 1597.0
                 }
             }
         ]
