@@ -13238,12 +13238,12 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 240.0,
-                        "CYCLES": 161.0,
-                        "AREA": 81.0
+                        "COST": 205.0,
+                        "CYCLES": 146.0,
+                        "AREA": 87.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/513022757060214796/Opus_Magnum_-_Ablative_Crystal_240G_161_81_2018-11-16-17-07-41.gif"
+                "link": "https://i.imgur.com/w3A1X3S.gif"
             },
             "CX": {
                 "score": {
@@ -13278,22 +13278,22 @@
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 240.0,
-                        "CYCLES": 161.0,
-                        "AREA": 81.0
+                        "COST": 205.0,
+                        "CYCLES": 146.0,
+                        "AREA": 87.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/513022757060214796/Opus_Magnum_-_Ablative_Crystal_240G_161_81_2018-11-16-17-07-41.gif"
+                "link": "https://i.imgur.com/w3A1X3S.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 240.0,
-                        "CYCLES": 161.0,
-                        "AREA": 81.0
+                        "COST": 205.0,
+                        "CYCLES": 146.0,
+                        "AREA": 87.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/513022757060214796/Opus_Magnum_-_Ablative_Crystal_240G_161_81_2018-11-16-17-07-41.gif"
+                "link": "https://i.imgur.com/w3A1X3S.gif"
             }
         },
         "pareto": [
@@ -13421,6 +13421,13 @@
                     "COST": 75.0,
                     "CYCLES": 987.0,
                     "AREA": 89.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 205.0,
+                    "CYCLES": 146.0,
+                    "AREA": 87.0
                 }
             }
         ]
