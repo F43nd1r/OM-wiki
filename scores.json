@@ -14406,32 +14406,32 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 280.0,
-                        "CYCLES": 103.0,
-                        "AREA": 68.0
+                        "COST": 250.0,
+                        "CYCLES": 127.0,
+                        "AREA": 61.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjIzNjY5MzZf/751_General%20Anaesthetic_B_X_S_280G_103C_68A_107I_19P.mp4"
+                "link": "https://i.imgur.com/r3rt8Bm.gif"
             },
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 280.0,
-                        "CYCLES": 103.0,
-                        "AREA": 68.0
+                        "COST": 250.0,
+                        "CYCLES": 127.0,
+                        "AREA": 61.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjIzNjY5MzZf/751_General%20Anaesthetic_B_X_S_280G_103C_68A_107I_19P.mp4"
+                "link": "https://i.imgur.com/r3rt8Bm.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 280.0,
-                        "CYCLES": 103.0,
-                        "AREA": 68.0
+                        "COST": 250.0,
+                        "CYCLES": 127.0,
+                        "AREA": 61.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMjIzNjY5MzZf/751_General%20Anaesthetic_B_X_S_280G_103C_68A_107I_19P.mp4"
+                "link": "https://i.imgur.com/r3rt8Bm.gif"
             },
             "GA": {
                 "score": {
@@ -14548,6 +14548,13 @@
                     "COST": 1360.0,
                     "CYCLES": 39.0,
                     "AREA": 198.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 250.0,
+                    "CYCLES": 127.0,
+                    "AREA": 61.0
                 }
             }
         ]
