@@ -3028,11 +3028,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 17.0,
-                        "AREA": 76.0,
-                        "COST": 480.0
+                        "AREA": 75.0,
+                        "COST": 555.0
                     }
                 },
-                "link": "https://i.imgur.com/jy0LiXf.mp4"
+                "link": "https://i.redd.it/t4kirktb2k761.gif"
             },
             "SC": {
                 "score": {
@@ -3152,6 +3152,13 @@
                     "COST": 480.0,
                     "CYCLES": 17.0,
                     "AREA": 76.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 555.0,
+                    "CYCLES": 17.0,
+                    "AREA": 75.0
                 }
             }
         ]
