@@ -18565,12 +18565,12 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 360.0,
-                        "CYCLES": 80.0,
-                        "AREA": 95.0
+                        "COST": 235.0,
+                        "CYCLES": 135.0,
+                        "AREA": 84.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzk4NDA5ODBf/784_Animismus%20Buffer_B_S_6T_360G_80C_95A_576I_40P.mp4"
+                "link": "https://i.imgur.com/DrgeSpI.gif"
             },
             "CG": {
                 "score": {
@@ -18605,22 +18605,22 @@
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 360.0,
-                        "CYCLES": 80.0,
-                        "AREA": 95.0
+                        "COST": 235.0,
+                        "CYCLES": 135.0,
+                        "AREA": 84.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzk4NDA5ODBf/784_Animismus%20Buffer_B_S_6T_360G_80C_95A_576I_40P.mp4"
+                "link": "https://i.imgur.com/DrgeSpI.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 360.0,
-                        "CYCLES": 80.0,
-                        "AREA": 95.0
+                        "COST": 235.0,
+                        "CYCLES": 135.0,
+                        "AREA": 84.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzk4NDA5ODBf/784_Animismus%20Buffer_B_S_6T_360G_80C_95A_576I_40P.mp4"
+                "link": "https://i.imgur.com/DrgeSpI.gif"
             }
         },
         "pareto": [
@@ -18706,6 +18706,13 @@
                     "COST": 905.0,
                     "CYCLES": 43.0,
                     "AREA": 184.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 235.0,
+                    "CYCLES": 135.0,
+                    "AREA": 84.0
                 }
             }
         ]
