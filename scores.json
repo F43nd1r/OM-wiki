@@ -8181,11 +8181,11 @@
                 "score": {
                     "parts": {
                         "COST": 60.0,
-                        "CYCLES": 522.0,
+                        "CYCLES": 521.0,
                         "INSTRUCTIONS": 918.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzUyODk3OTJf/603_Fragrant%20Powders_B_GC_NOGIF_60G_522C_55A_918I_11P.mp4"
+                "link": "https://i.imgur.com/LaX8VJw.gif"
             },
             "GXP": {
                 "score": {
@@ -8302,13 +8302,6 @@
             {
                 "parts": {
                     "COST": 60.0,
-                    "CYCLES": 522.0,
-                    "INSTRUCTIONS": 918.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 60.0,
                     "CYCLES": 523.0,
                     "INSTRUCTIONS": 910.0
                 }
@@ -8367,6 +8360,13 @@
                     "COST": 280.0,
                     "CYCLES": 128.0,
                     "INSTRUCTIONS": 612.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 521.0,
+                    "INSTRUCTIONS": 918.0
                 }
             }
         ]
