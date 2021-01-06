@@ -12507,11 +12507,11 @@
                 "score": {
                     "parts": {
                         "COST": 40.0,
-                        "CYCLES": 632.0,
-                        "AREA": 1409.0
+                        "CYCLES": 626.0,
+                        "AREA": 1390.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzQ2MjQxMzFf/732_Lubricating%20Filament_B_GC_6T_40G_632C_1409A_634I_9P.mp4"
+                "link": "https://i.imgur.com/IYzfSKZ.gif"
             },
             "GX": {
                 "score": {
@@ -12628,13 +12628,6 @@
             {
                 "parts": {
                     "COST": 40.0,
-                    "CYCLES": 632.0,
-                    "AREA": 1409.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 40.0,
                     "CYCLES": 655.0,
                     "AREA": 1091.0
                 }
@@ -12742,6 +12735,13 @@
                     "COST": 330.0,
                     "CYCLES": 61.0,
                     "AREA": 337.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 40.0,
+                    "CYCLES": 626.0,
+                    "AREA": 1390.0
                 }
             }
         ]
