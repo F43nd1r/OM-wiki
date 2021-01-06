@@ -11814,11 +11814,11 @@
                 "score": {
                     "parts": {
                         "COST": 40.0,
-                        "CYCLES": 632.0,
+                        "CYCLES": 627.0,
                         "AREA": 1409.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzQ2MjM4Nzhf/724_Buoyant%20Cable_B_GC_6T_40G_632C_1409A_634I_9P.mp4"
+                "link": "https://i.imgur.com/PqIOy5U.gif"
             },
             "GX": {
                 "score": {
@@ -11932,13 +11932,6 @@
             }
         },
         "pareto": [
-            {
-                "parts": {
-                    "COST": 40.0,
-                    "CYCLES": 632.0,
-                    "AREA": 1409.0
-                }
-            },
             {
                 "parts": {
                     "COST": 40.0,
@@ -12056,6 +12049,13 @@
                     "COST": 340.0,
                     "CYCLES": 61.0,
                     "AREA": 294.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 40.0,
+                    "CYCLES": 627.0,
+                    "AREA": 1409.0
                 }
             }
         ]
