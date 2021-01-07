@@ -4021,10 +4021,10 @@
                     "parts": {
                         "COST": 100.0,
                         "CYCLES": 104.0,
-                        "AREA": 59.0
+                        "AREA": 57.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzg1NDk5ODJf/304_Climbing%20Rope%20Fiber_B_S_6T_100G_104C_59A_280I_9P.mp4"
+                "link": "https://i.imgur.com/azobS9Q.gif"
             },
             "CA": {
                 "score": {
@@ -4051,20 +4051,20 @@
                     "parts": {
                         "COST": 100.0,
                         "CYCLES": 104.0,
-                        "AREA": 59.0
+                        "AREA": 57.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzg1NDk5ODJf/304_Climbing%20Rope%20Fiber_B_S_6T_100G_104C_59A_280I_9P.mp4"
+                "link": "https://i.imgur.com/azobS9Q.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
                         "COST": 100.0,
                         "CYCLES": 104.0,
-                        "AREA": 59.0
+                        "AREA": 57.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzg1NDk5ODJf/304_Climbing%20Rope%20Fiber_B_S_6T_100G_104C_59A_280I_9P.mp4"
+                "link": "https://i.imgur.com/azobS9Q.gif"
             },
             "CG": {
                 "score": {
@@ -4123,13 +4123,6 @@
             {
                 "parts": {
                     "COST": 100.0,
-                    "CYCLES": 104.0,
-                    "AREA": 59.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 100.0,
                     "CYCLES": 206.0,
                     "AREA": 53.0
                 }
@@ -4160,6 +4153,13 @@
                     "COST": 165.0,
                     "CYCLES": 74.0,
                     "AREA": 50.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 104.0,
+                    "AREA": 57.0
                 }
             }
         ]
