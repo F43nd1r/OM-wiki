@@ -5911,21 +5911,21 @@
                 "score": {
                     "parts": {
                         "AREA": 25.0,
-                        "CYCLES": 981.0,
+                        "CYCLES": 975.0,
                         "COST": 95.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDMzNzI5MDdf/406_Alchemical%20Jewel_B_ACX_95G_981C_25A_164I_10P.mp4"
+                "link": "https://i.imgur.com/1K6NP5R.mp4"
             },
             "AX": {
                 "score": {
                     "parts": {
                         "AREA": 25.0,
                         "COST": 95.0,
-                        "CYCLES": 981.0
+                        "CYCLES": 975.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDMzNzI5MDdf/406_Alchemical%20Jewel_B_ACX_95G_981C_25A_164I_10P.mp4"
+                "link": "https://i.imgur.com/1K6NP5R.mp4"
             },
             "SG": {
                 "score": {
@@ -6026,13 +6026,6 @@
             },
             {
                 "parts": {
-                    "COST": 95.0,
-                    "CYCLES": 981.0,
-                    "AREA": 25.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 150.0,
                     "CYCLES": 97.0,
                     "AREA": 52.0
@@ -6106,6 +6099,13 @@
                     "COST": 615.0,
                     "CYCLES": 75.0,
                     "AREA": 86.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 95.0,
+                    "CYCLES": 975.0,
+                    "AREA": 25.0
                 }
             }
         ]
