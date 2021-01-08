@@ -5713,10 +5713,10 @@
                     "parts": {
                         "AREA": 9.0,
                         "COST": 60.0,
-                        "CYCLES": 4172.0
+                        "CYCLES": 4088.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzk1MDg2ODBf/405_Purified%20Gold_B_AG_60G_4172C_9A_696I_5P.mp4"
+                "link": "https://od.lk/s/MV8yMzI5NDgwNzVf/405_Purified%20Gold_B_AG_60G_4088C_9A_682I_5P.mp4"
             },
             "AC": {
                 "score": {
@@ -5823,13 +5823,6 @@
             },
             {
                 "parts": {
-                    "COST": 60.0,
-                    "CYCLES": 4172.0,
-                    "AREA": 9.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 70.0,
                     "CYCLES": 970.0,
                     "AREA": 9.0
@@ -5861,6 +5854,13 @@
                     "COST": 530.0,
                     "CYCLES": 112.0,
                     "AREA": 44.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 4088.0,
+                    "AREA": 9.0
                 }
             }
         ]
