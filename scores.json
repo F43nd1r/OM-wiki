@@ -5038,11 +5038,11 @@
                 "score": {
                     "parts": {
                         "COST": 75.0,
-                        "CYCLES": 513.0,
-                        "AREA": 31.0
+                        "CYCLES": 507.0,
+                        "AREA": 33.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDE0MTY5NTBf/402_Stain%20Remover_B_GC_75G_513C_31A_86I_18P.mp4"
+                "link": "https://i.imgur.com/dWd2BSt.gif"
             },
             "GA": {
                 "score": {
@@ -5224,6 +5224,13 @@
                     "COST": 130.0,
                     "CYCLES": 128.0,
                     "AREA": 45.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 75.0,
+                    "CYCLES": 507.0,
+                    "AREA": 33.0
                 }
             }
         ]
