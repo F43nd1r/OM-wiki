@@ -10148,11 +10148,11 @@
                 "score": {
                     "parts": {
                         "COST": 80.0,
-                        "CYCLES": 473.0,
-                        "AREA": 746.0
+                        "CYCLES": 472.0,
+                        "AREA": 725.0
                     }
                 },
-                "link": "https://web.opendrive.com/api/v1/download/file.json/MV8xNzE0NDU2NTlf?inline=1.gif"
+                "link": "https://i.imgur.com/1AewvSH.gif"
             },
             "GX": {
                 "score": {
@@ -10269,13 +10269,6 @@
             {
                 "parts": {
                     "COST": 80.0,
-                    "CYCLES": 473.0,
-                    "AREA": 746.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 80.0,
                     "CYCLES": 495.0,
                     "AREA": 510.0
                 }
@@ -10348,6 +10341,13 @@
                     "COST": 450.0,
                     "CYCLES": 50.0,
                     "AREA": 127.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 80.0,
+                    "CYCLES": 472.0,
+                    "AREA": 725.0
                 }
             }
         ]
