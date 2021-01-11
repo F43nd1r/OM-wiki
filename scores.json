@@ -12528,11 +12528,11 @@
                 "score": {
                     "parts": {
                         "COST": 40.0,
-                        "CYCLES": 626.0,
-                        "AREA": 1390.0
+                        "CYCLES": 624.0,
+                        "AREA": 1389.0
                     }
                 },
-                "link": "https://i.imgur.com/IYzfSKZ.gif"
+                "link": "https://i.imgur.com/bRfTT1o.gif"
             },
             "GX": {
                 "score": {
@@ -12761,8 +12761,8 @@
             {
                 "parts": {
                     "COST": 40.0,
-                    "CYCLES": 626.0,
-                    "AREA": 1390.0
+                    "CYCLES": 624.0,
+                    "AREA": 1389.0
                 }
             }
         ]
