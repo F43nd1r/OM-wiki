@@ -11278,20 +11278,20 @@
                     "parts": {
                         "AREA": 14.0,
                         "COST": 70.0,
-                        "CYCLES": 482.0
+                        "CYCLES": 464.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xOTc3MDU3NDlf/722_Preservative%20Salt_B_AGX_70G_482C_14A_81I_7P.mp4"
+                "link": "https://i.imgur.com/JoD85qo.gif"
             },
             "AX": {
                 "score": {
                     "parts": {
                         "AREA": 14.0,
                         "COST": 70.0,
-                        "CYCLES": 482.0
+                        "CYCLES": 464.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xOTc3MDU3NDlf/722_Preservative%20Salt_B_AGX_70G_482C_14A_81I_7P.mp4"
+                "link": "https://i.imgur.com/JoD85qo.gif"
             },
             "SG": {
                 "score": {
@@ -11395,13 +11395,6 @@
             },
             {
                 "parts": {
-                    "COST": 70.0,
-                    "CYCLES": 482.0,
-                    "AREA": 14.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 80.0,
                     "CYCLES": 106.0,
                     "AREA": 29.0
@@ -11489,6 +11482,13 @@
                     "COST": 675.0,
                     "CYCLES": 23.0,
                     "AREA": 115.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 70.0,
+                    "CYCLES": 464.0,
+                    "AREA": 14.0
                 }
             }
         ]
