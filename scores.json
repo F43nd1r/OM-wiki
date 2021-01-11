@@ -7344,30 +7344,30 @@
                     "parts": {
                         "AREA": 38.0,
                         "COST": 130.0,
-                        "CYCLES": 1616.0
+                        "CYCLES": 1604.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzMxMDMyMTJf/505_Curious%20Lipstick_B_AA_130G_1616C_38A_272I_13P.mp4"
+                "link": "https://i.imgur.com/Xn059lx.mp4"
             },
             "AC": {
                 "score": {
                     "parts": {
                         "AREA": 38.0,
-                        "CYCLES": 1616.0,
+                        "CYCLES": 1604.0,
                         "COST": 130.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzMxMDMyMTJf/505_Curious%20Lipstick_B_AA_130G_1616C_38A_272I_13P.mp4"
+                "link": "https://i.imgur.com/Xn059lx.mp4"
             },
             "AX": {
                 "score": {
                     "parts": {
                         "AREA": 38.0,
                         "COST": 130.0,
-                        "CYCLES": 1616.0
+                        "CYCLES": 1604.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzMxMDMyMTJf/505_Curious%20Lipstick_B_AA_130G_1616C_38A_272I_13P.mp4"
+                "link": "https://i.imgur.com/Xn059lx.mp4"
             },
             "SG": {
                 "score": {
@@ -7468,13 +7468,6 @@
             },
             {
                 "parts": {
-                    "COST": 130.0,
-                    "CYCLES": 1616.0,
-                    "AREA": 38.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 285.0,
                     "CYCLES": 151.0,
                     "AREA": 75.0
@@ -7520,6 +7513,13 @@
                     "COST": 880.0,
                     "CYCLES": 111.0,
                     "AREA": 82.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 1604.0,
+                    "AREA": 38.0
                 }
             }
         ]
