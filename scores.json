@@ -16462,11 +16462,11 @@
                 "score": {
                     "parts": {
                         "COST": 40.0,
-                        "CYCLES": 886.0,
+                        "CYCLES": 884.0,
                         "AREA": 48.0
                     }
                 },
-                "link": "https://i.imgur.com/nI4ldaF.mp4"
+                "link": "https://i.imgur.com/ZnjvDE6.mp4"
             },
             "GX": {
                 "score": {
@@ -16709,7 +16709,7 @@
             {
                 "parts": {
                     "COST": 40.0,
-                    "CYCLES": 886.0,
+                    "CYCLES": 884.0,
                     "AREA": 48.0
                 }
             }
