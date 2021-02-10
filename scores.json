@@ -3170,10 +3170,10 @@
                     "parts": {
                         "COST": 90.0,
                         "CYCLES": 167.0,
-                        "AREA": 39.0
+                        "AREA": 31.0
                     }
                 },
-                "link": "https://i.imgur.com/TklBFvJ.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/808875875528998952/Opus_Magnum_-_Alcohol_Separation_90G_167_31_2021-02-09-17-39-32.gif"
             },
             "GA": {
                 "score": {
@@ -3290,13 +3290,6 @@
             {
                 "parts": {
                     "COST": 90.0,
-                    "CYCLES": 173.0,
-                    "AREA": 32.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 90.0,
                     "CYCLES": 191.0,
                     "AREA": 25.0
                 }
@@ -3389,7 +3382,7 @@
                 "parts": {
                     "COST": 90.0,
                     "CYCLES": 167.0,
-                    "AREA": 39.0
+                    "AREA": 31.0
                 }
             }
         ]
