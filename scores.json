@@ -15685,31 +15685,31 @@
                 "score": {
                     "parts": {
                         "COST": 150.0,
-                        "CYCLES": 833.0,
-                        "INSTRUCTIONS": 190.0
+                        "CYCLES": 605.0,
+                        "INSTRUCTIONS": 151.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzUwMzgzMDNf/762_Lustre_B_GC_150G_833C_82A_190I_12P.gif"
+                "link": "https://i.imgur.com/rHoBYZw.gif"
             },
             "GXP": {
                 "score": {
                     "parts": {
                         "COST": 150.0,
-                        "CYCLES": 833.0,
-                        "INSTRUCTIONS": 190.0
+                        "CYCLES": 605.0,
+                        "INSTRUCTIONS": 151.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzUwMzgzMDNf/762_Lustre_B_GC_150G_833C_82A_190I_12P.gif"
+                "link": "https://i.imgur.com/rHoBYZw.gif"
             },
             "GI": {
                 "score": {
                     "parts": {
                         "COST": 150.0,
-                        "INSTRUCTIONS": 168.0,
-                        "CYCLES": 2498.0
+                        "INSTRUCTIONS": 151.0,
+                        "CYCLES": 605.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzUwNDgzMDVf/762_Lustre_B_GI_150G_2498C_83A_168I_12P.mp4"
+                "link": "https://i.imgur.com/rHoBYZw.gif"
             },
             "SGP": {
                 "score": {
@@ -15805,20 +15805,6 @@
         "pareto": [
             {
                 "parts": {
-                    "COST": 150.0,
-                    "CYCLES": 833.0,
-                    "INSTRUCTIONS": 190.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 150.0,
-                    "CYCLES": 2498.0,
-                    "INSTRUCTIONS": 168.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 250.0,
                     "CYCLES": 300.0,
                     "INSTRUCTIONS": 97.0
@@ -15885,6 +15871,13 @@
                     "COST": 405.0,
                     "CYCLES": 200.0,
                     "INSTRUCTIONS": 110.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 605.0,
+                    "INSTRUCTIONS": 151.0
                 }
             }
         ]
