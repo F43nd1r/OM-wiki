@@ -5524,12 +5524,12 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 140.0,
-                        "CYCLES": 115.0,
-                        "AREA": 38.0
+                        "COST": 160.0,
+                        "CYCLES": 101.0,
+                        "AREA": 30.0
                     }
                 },
-                "link": "https://i.imgur.com/ENeNGSf.gif"
+                "link": "https://i.imgur.com/6Ocujfn.gif"
             },
             "CG": {
                 "score": {
@@ -5566,20 +5566,20 @@
                     "parts": {
                         "COST": 160.0,
                         "CYCLES": 101.0,
-                        "AREA": 32.0
+                        "AREA": 30.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/825506481704140869/Opus_Magnum_-_Invisible_Ink_160G_101_32_2021-03-27-16-06-12.gif"
+                "link": "https://i.imgur.com/6Ocujfn.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
                         "COST": 160.0,
                         "CYCLES": 101.0,
-                        "AREA": 32.0
+                        "AREA": 30.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/825506481704140869/Opus_Magnum_-_Invisible_Ink_160G_101_32_2021-03-27-16-06-12.gif"
+                "link": "https://i.imgur.com/6Ocujfn.gif"
             }
         },
         "pareto": [
@@ -5692,7 +5692,7 @@
                 "parts": {
                     "COST": 160.0,
                     "CYCLES": 101.0,
-                    "AREA": 32.0
+                    "AREA": 30.0
                 }
             }
         ]
