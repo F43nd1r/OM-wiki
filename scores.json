@@ -4677,12 +4677,12 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 145.0,
-                        "CYCLES": 102.0,
-                        "AREA": 57.0
+                        "COST": 140.0,
+                        "CYCLES": 105.0,
+                        "AREA": 59.0
                     }
                 },
-                "link": "https://i.imgur.com/fgAOSu4.mp4?loop=1"
+                "link": "https://i.imgur.com/jErWQWD.gifv"
             },
             "CG": {
                 "score": {
@@ -4839,6 +4839,13 @@
                     "COST": 370.0,
                     "CYCLES": 49.0,
                     "AREA": 58.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 140.0,
+                    "CYCLES": 105.0,
+                    "AREA": 59.0
                 }
             }
         ]
