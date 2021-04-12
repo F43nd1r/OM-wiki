@@ -18653,10 +18653,10 @@
                     "parts": {
                         "CYCLES": 43.0,
                         "AREA": 184.0,
-                        "COST": 905.0
+                        "COST": 890.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTgxMjkwMThf/784_Animismus%20Buffer_B_CA_6T_905G_43C_184A_401I_81P.mp4"
+                "link": "https://i.imgur.com/utSZRJq.gif"
             },
             "SC": {
                 "score": {
@@ -18759,16 +18759,16 @@
             },
             {
                 "parts": {
-                    "COST": 905.0,
-                    "CYCLES": 43.0,
-                    "AREA": 184.0
+                    "COST": 235.0,
+                    "CYCLES": 135.0,
+                    "AREA": 84.0
                 }
             },
             {
                 "parts": {
-                    "COST": 235.0,
-                    "CYCLES": 135.0,
-                    "AREA": 84.0
+                    "COST": 890.0,
+                    "CYCLES": 43.0,
+                    "AREA": 184.0
                 }
             }
         ]
