@@ -18327,10 +18327,10 @@
                     "parts": {
                         "AREA": 26.0,
                         "COST": 100.0,
-                        "CYCLES": 1221.0
+                        "CYCLES": 1179.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzEzODk5MjZf/783_Visillary%20Anaesthetic_B_AG_100G_1221C_26A_204I_10P.mp4"
+                "link": "https://i.imgur.com/BbZ7FsD.gif"
             },
             "AC": {
                 "score": {
@@ -18451,13 +18451,6 @@
             },
             {
                 "parts": {
-                    "COST": 100.0,
-                    "CYCLES": 1221.0,
-                    "AREA": 26.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 130.0,
                     "CYCLES": 641.0,
                     "AREA": 26.0
@@ -18552,6 +18545,13 @@
                     "COST": 230.0,
                     "CYCLES": 110.0,
                     "AREA": 62.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 1179.0,
+                    "AREA": 26.0
                 }
             }
         ]
