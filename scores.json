@@ -18632,21 +18632,21 @@
                 "score": {
                     "parts": {
                         "CYCLES": 43.0,
-                        "COST": 825.0,
-                        "AREA": 190.0
+                        "COST": 820.0,
+                        "AREA": 189.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTQ2NzAyOTZf/784_Animismus%20Buffer_B_CGX_6T_825G_43C_190A_401I_52P.mp4"
+                "link": "https://i.imgur.com/sHB4i9t.gif"
             },
             "CX": {
                 "score": {
                     "parts": {
                         "CYCLES": 43.0,
-                        "COST": 825.0,
-                        "AREA": 190.0
+                        "COST": 820.0,
+                        "AREA": 189.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTQ2NzAyOTZf/784_Animismus%20Buffer_B_CGX_6T_825G_43C_190A_401I_52P.mp4"
+                "link": "https://i.imgur.com/sHB4i9t.gif"
             },
             "CA": {
                 "score": {
@@ -18752,13 +18752,6 @@
             },
             {
                 "parts": {
-                    "COST": 825.0,
-                    "CYCLES": 43.0,
-                    "AREA": 190.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 235.0,
                     "CYCLES": 135.0,
                     "AREA": 84.0
@@ -18769,6 +18762,13 @@
                     "COST": 890.0,
                     "CYCLES": 43.0,
                     "AREA": 184.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 820.0,
+                    "CYCLES": 43.0,
+                    "AREA": 189.0
                 }
             }
         ]
