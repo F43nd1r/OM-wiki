@@ -18849,11 +18849,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 24.0,
-                        "COST": 1330.0,
-                        "AREA": 408.0
+                        "COST": 1340.0,
+                        "AREA": 404.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTg5Mjg1NjFf/785_Electrum%20Separation_B_CX_NOGIF_1330G_24C_408A_373I_90P.mp4"
+                "link": "https://i.imgur.com/Bn0rSDM.gif"
             },
             "CA": {
                 "score": {
@@ -18969,16 +18969,16 @@
             },
             {
                 "parts": {
-                    "COST": 1375.0,
+                    "COST": 1575.0,
                     "CYCLES": 24.0,
-                    "AREA": 406.0
+                    "AREA": 381.0
                 }
             },
             {
                 "parts": {
-                    "COST": 1575.0,
+                    "COST": 1340.0,
                     "CYCLES": 24.0,
-                    "AREA": 381.0
+                    "AREA": 404.0
                 }
             }
         ]
