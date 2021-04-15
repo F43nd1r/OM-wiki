@@ -10923,11 +10923,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 98.0,
-                        "COST": 390.0,
-                        "AREA": 58.0
+                        "COST": 380.0,
+                        "AREA": 59.0
                     }
                 },
-                "link": "https://i.imgur.com/yvbOGnc.mp4"
+                "link": "https://i.imgur.com/1zglgsa.gif"
             }
         },
         "pareto": [
@@ -11034,6 +11034,13 @@
                     "COST": 220.0,
                     "CYCLES": 152.0,
                     "AREA": 62.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 380.0,
+                    "CYCLES": 98.0,
+                    "AREA": 59.0
                 }
             }
         ]
