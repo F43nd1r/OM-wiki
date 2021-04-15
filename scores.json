@@ -17254,11 +17254,11 @@
                 "score": {
                     "parts": {
                         "AREA": 34.0,
-                        "CYCLES": 771.0,
+                        "CYCLES": 761.0,
                         "COST": 170.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xOTM3MDcxMDhf/774_Vaporous%20Solvent_B_AC_170G_771C_34A_180I_11P.mp4"
+                "link": "https://i.imgur.com/BhI2t8d.gif"
             },
             "SG": {
                 "score": {
@@ -17361,13 +17361,6 @@
                 "parts": {
                     "COST": 140.0,
                     "CYCLES": 898.0,
-                    "AREA": 34.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 170.0,
-                    "CYCLES": 771.0,
                     "AREA": 34.0
                 }
             },
@@ -17537,6 +17530,13 @@
                     "COST": 345.0,
                     "CYCLES": 96.0,
                     "AREA": 61.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 170.0,
+                    "CYCLES": 761.0,
+                    "AREA": 34.0
                 }
             }
         ]
