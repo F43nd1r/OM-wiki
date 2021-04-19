@@ -13712,16 +13712,16 @@
             },
             {
                 "parts": {
-                    "COST": 150.0,
-                    "CYCLES": 84.0,
-                    "AREA": 35.0
+                    "COST": 130.0,
+                    "CYCLES": 88.0,
+                    "AREA": 30.0
                 }
             },
             {
                 "parts": {
-                    "COST": 130.0,
-                    "CYCLES": 88.0,
-                    "AREA": 30.0
+                    "COST": 150.0,
+                    "CYCLES": 81.0,
+                    "AREA": 35.0
                 }
             }
         ]
