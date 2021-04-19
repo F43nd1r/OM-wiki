@@ -13560,12 +13560,12 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 140.0,
-                        "CYCLES": 97.0,
+                        "COST": 150.0,
+                        "CYCLES": 84.0,
                         "AREA": 35.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833643520862453790/Opus_Magnum_-_Proof_of_Completeness_140G_97_35_2021-04-19-12-01-22.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833648720209903626/Opus_Magnum_-_Proof_of_Completeness_150G_84_35_2021-04-19-12-21-59.gif"
             },
             "CG": {
                 "score": {
@@ -13601,21 +13601,21 @@
                 "score": {
                     "parts": {
                         "COST": 150.0,
-                        "CYCLES": 87.0,
+                        "CYCLES": 84.0,
                         "AREA": 35.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833646042871234590/Opus_Magnum_-_Proof_of_Completeness_150G_87_35_2021-04-19-12-11-24.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833648720209903626/Opus_Magnum_-_Proof_of_Completeness_150G_84_35_2021-04-19-12-21-59.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
                         "COST": 150.0,
-                        "CYCLES": 87.0,
+                        "CYCLES": 84.0,
                         "AREA": 35.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833646042871234590/Opus_Magnum_-_Proof_of_Completeness_150G_87_35_2021-04-19-12-11-24.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833648720209903626/Opus_Magnum_-_Proof_of_Completeness_150G_84_35_2021-04-19-12-21-59.gif"
             }
         },
         "pareto": [
@@ -13720,7 +13720,7 @@
             {
                 "parts": {
                     "COST": 150.0,
-                    "CYCLES": 87.0,
+                    "CYCLES": 84.0,
                     "AREA": 35.0
                 }
             }
