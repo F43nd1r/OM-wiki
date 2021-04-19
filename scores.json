@@ -13561,11 +13561,11 @@
                 "score": {
                     "parts": {
                         "COST": 130.0,
-                        "CYCLES": 88.0,
+                        "CYCLES": 83.0,
                         "AREA": 30.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833654778533773322/Opus_Magnum_-_Proof_of_Completeness_130G_88_30_2021-04-19-03-44-32.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833658076723675166/Opus_Magnum_-_Proof_of_Completeness_130G_83_30_2021-04-19-03-57-50.gif"
             },
             "CG": {
                 "score": {
@@ -13601,21 +13601,21 @@
                 "score": {
                     "parts": {
                         "COST": 130.0,
-                        "CYCLES": 88.0,
+                        "CYCLES": 83.0,
                         "AREA": 30.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833654778533773322/Opus_Magnum_-_Proof_of_Completeness_130G_88_30_2021-04-19-03-44-32.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833658076723675166/Opus_Magnum_-_Proof_of_Completeness_130G_83_30_2021-04-19-03-57-50.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
                         "COST": 130.0,
-                        "CYCLES": 88.0,
+                        "CYCLES": 83.0,
                         "AREA": 30.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833654778533773322/Opus_Magnum_-_Proof_of_Completeness_130G_88_30_2021-04-19-03-44-32.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833658076723675166/Opus_Magnum_-_Proof_of_Completeness_130G_83_30_2021-04-19-03-57-50.gif"
             }
         },
         "pareto": [
@@ -13663,13 +13663,6 @@
             },
             {
                 "parts": {
-                    "COST": 160.0,
-                    "CYCLES": 85.0,
-                    "AREA": 33.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 180.0,
                     "CYCLES": 85.0,
                     "AREA": 29.0
@@ -13712,16 +13705,16 @@
             },
             {
                 "parts": {
-                    "COST": 130.0,
-                    "CYCLES": 88.0,
-                    "AREA": 30.0
+                    "COST": 150.0,
+                    "CYCLES": 81.0,
+                    "AREA": 35.0
                 }
             },
             {
                 "parts": {
-                    "COST": 150.0,
-                    "CYCLES": 81.0,
-                    "AREA": 35.0
+                    "COST": 130.0,
+                    "CYCLES": 83.0,
+                    "AREA": 30.0
                 }
             }
         ]
