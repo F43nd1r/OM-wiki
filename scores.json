@@ -10268,12 +10268,12 @@
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 140.0,
-                        "CYCLES": 146.0,
-                        "AREA": 95.0
+                        "COST": 155.0,
+                        "CYCLES": 129.0,
+                        "AREA": 97.0
                     }
                 },
-                "link": "https://i.imgur.com/6LTQVYU.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/833967545127665674/Opus_Magnum_-_Van_Berlos_Chain_155G_129_97_2021-04-20-17-17-17.gif"
             },
             "SA": {
                 "score": {
@@ -10338,13 +10338,6 @@
             },
             {
                 "parts": {
-                    "COST": 215.0,
-                    "CYCLES": 136.0,
-                    "AREA": 107.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 300.0,
                     "CYCLES": 50.0,
                     "AREA": 133.0
@@ -10369,6 +10362,13 @@
                     "COST": 80.0,
                     "CYCLES": 472.0,
                     "AREA": 725.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 155.0,
+                    "CYCLES": 129.0,
+                    "AREA": 97.0
                 }
             }
         ]
