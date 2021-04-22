@@ -19123,12 +19123,12 @@
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 110.0,
-                        "CYCLES": 145.0,
-                        "AREA": 36.0
+                        "COST": 120.0,
+                        "CYCLES": 131.0,
+                        "AREA": 40.0
                     }
                 },
-                "link": "https://i.imgur.com/3RH5xvj.mp4"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/834919463676674088/Hyper-volatile_Gas_120_131_40__291.gif"
             },
             "SA": {
                 "score": {
@@ -19238,6 +19238,13 @@
                     "COST": 110.0,
                     "CYCLES": 145.0,
                     "AREA": 36.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 120.0,
+                    "CYCLES": 131.0,
+                    "AREA": 40.0
                 }
             }
         ]
