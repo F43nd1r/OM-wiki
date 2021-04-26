@@ -15517,11 +15517,11 @@
                 "score": {
                     "parts": {
                         "COST": 50.0,
-                        "CYCLES": 1212.0,
-                        "INSTRUCTIONS": 470.0
+                        "CYCLES": 1202.0,
+                        "INSTRUCTIONS": 465.0
                     }
                 },
-                "link": "https://i.imgur.com/57ygGjY.mp4"
+                "link": "https://od.lk/s/MV8yNDE0MDcyNTdf/761_Hexstabilized%20Salt_B_GC_7T_50G_1202C_59A_465I_8P.mp4"
             },
             "GI": {
                 "score": {
@@ -15715,8 +15715,8 @@
             {
                 "parts": {
                     "COST": 50.0,
-                    "CYCLES": 1212.0,
-                    "INSTRUCTIONS": 470.0
+                    "CYCLES": 1202.0,
+                    "INSTRUCTIONS": 465.0
                 }
             }
         ]
