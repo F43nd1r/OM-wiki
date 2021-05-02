@@ -7840,11 +7840,11 @@
                 "score": {
                     "parts": {
                         "COST": 180.0,
-                        "CYCLES": 304.0,
+                        "CYCLES": 286.0,
                         "INSTRUCTIONS": 45.0
                     }
                 },
-                "link": "https://i.imgur.com/9RBitIy.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/838537604294639647/Opus_Magnum_-_Silver_Paint_180G_286_45_2021-05-02-17-29-57.gif"
             },
             "IG": {
                 "score": {
@@ -7910,21 +7910,21 @@
                 "score": {
                     "parts": {
                         "COST": 180.0,
-                        "CYCLES": 304.0,
+                        "CYCLES": 286.0,
                         "INSTRUCTIONS": 45.0
                     }
                 },
-                "link": "https://i.imgur.com/9RBitIy.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/838537604294639647/Opus_Magnum_-_Silver_Paint_180G_286_45_2021-05-02-17-29-57.gif"
             },
             "SI": {
                 "score": {
                     "parts": {
                         "COST": 180.0,
-                        "CYCLES": 304.0,
+                        "CYCLES": 286.0,
                         "INSTRUCTIONS": 45.0
                     }
                 },
-                "link": "https://i.imgur.com/9RBitIy.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/838537604294639647/Opus_Magnum_-_Silver_Paint_180G_286_45_2021-05-02-17-29-57.gif"
             }
         },
         "pareto": [
@@ -7972,13 +7972,6 @@
             },
             {
                 "parts": {
-                    "COST": 180.0,
-                    "CYCLES": 304.0,
-                    "INSTRUCTIONS": 45.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 200.0,
                     "CYCLES": 275.0,
                     "INSTRUCTIONS": 134.0
@@ -8010,6 +8003,13 @@
                     "COST": 265.0,
                     "CYCLES": 160.0,
                     "INSTRUCTIONS": 137.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 286.0,
+                    "INSTRUCTIONS": 45.0
                 }
             }
         ]
