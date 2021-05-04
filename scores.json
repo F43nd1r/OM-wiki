@@ -19978,11 +19978,11 @@
                 "score": {
                     "parts": {
                         "COST": 120.0,
-                        "CYCLES": 109.0,
-                        "AREA": 94.0
+                        "CYCLES": 98.0,
+                        "AREA": 95.0
                     }
                 },
-                "link": "https://i.imgur.com/7foC0mj.mp4"
+                "link": "https://i.imgur.com/NTexuCm.gif"
             },
             "AG": {
                 "score": {
@@ -20048,21 +20048,21 @@
                 "score": {
                     "parts": {
                         "COST": 120.0,
-                        "CYCLES": 109.0,
-                        "AREA": 94.0
+                        "CYCLES": 98.0,
+                        "AREA": 95.0
                     }
                 },
-                "link": "https://i.imgur.com/7foC0mj.mp4"
+                "link": "https://i.imgur.com/NTexuCm.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
                         "COST": 120.0,
-                        "CYCLES": 109.0,
-                        "AREA": 94.0
+                        "CYCLES": 98.0,
+                        "AREA": 95.0
                     }
                 },
-                "link": "https://i.imgur.com/7foC0mj.mp4"
+                "link": "https://i.imgur.com/NTexuCm.gif"
             }
         },
         "pareto": [
@@ -20323,6 +20323,13 @@
                     "COST": 1630.0,
                     "CYCLES": 24.0,
                     "AREA": 201.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 120.0,
+                    "CYCLES": 98.0,
+                    "AREA": 95.0
                 }
             }
         ]
