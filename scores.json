@@ -16572,10 +16572,10 @@
                     "parts": {
                         "COST": 130.0,
                         "CYCLES": 106.0,
-                        "AREA": 58.0
+                        "AREA": 57.0
                     }
                 },
-                "link": "https://i.imgur.com/mTiBdl2.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/840518259614679080/Opus_Magnum_-_Van_Berlos_Pivots_130G_106_57_2021-05-08-19-05-23.gif"
             },
             "CG": {
                 "score": {
@@ -16612,20 +16612,20 @@
                     "parts": {
                         "COST": 130.0,
                         "CYCLES": 106.0,
-                        "AREA": 58.0
+                        "AREA": 57.0
                     }
                 },
-                "link": "https://i.imgur.com/mTiBdl2.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/840518259614679080/Opus_Magnum_-_Van_Berlos_Pivots_130G_106_57_2021-05-08-19-05-23.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
                         "COST": 130.0,
                         "CYCLES": 106.0,
-                        "AREA": 58.0
+                        "AREA": 57.0
                     }
                 },
-                "link": "https://i.imgur.com/mTiBdl2.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/840518259614679080/Opus_Magnum_-_Van_Berlos_Pivots_130G_106_57_2021-05-08-19-05-23.gif"
             }
         },
         "pareto": [
@@ -16694,13 +16694,6 @@
             },
             {
                 "parts": {
-                    "COST": 130.0,
-                    "CYCLES": 106.0,
-                    "AREA": 58.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 290.0,
                     "CYCLES": 86.0,
                     "AREA": 82.0
@@ -16760,6 +16753,13 @@
                     "COST": 40.0,
                     "CYCLES": 884.0,
                     "AREA": 48.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 106.0,
+                    "AREA": 57.0
                 }
             }
         ]
