@@ -17277,12 +17277,12 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 180.0,
-                        "CYCLES": 132.0,
-                        "AREA": 54.0
+                        "COST": 200.0,
+                        "CYCLES": 97.0,
+                        "AREA": 56.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzUxMDYxMzJf/774_Vaporous%20Solvent_B_X_S_180G_132C_54A_68I_23P.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/840552234680582174/Vaporous_Solvent_200_97_56__353.gif"
             },
             "CG": {
                 "score": {
@@ -17317,22 +17317,22 @@
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 180.0,
-                        "CYCLES": 132.0,
-                        "AREA": 54.0
+                        "COST": 200.0,
+                        "CYCLES": 97.0,
+                        "AREA": 56.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzUxMDYxMzJf/774_Vaporous%20Solvent_B_X_S_180G_132C_54A_68I_23P.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/840552234680582174/Vaporous_Solvent_200_97_56__353.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 180.0,
-                        "CYCLES": 132.0,
-                        "AREA": 54.0
+                        "COST": 200.0,
+                        "CYCLES": 97.0,
+                        "AREA": 56.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xNzUxMDYxMzJf/774_Vaporous%20Solvent_B_X_S_180G_132C_54A_68I_23P.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/840552234680582174/Vaporous_Solvent_200_97_56__353.gif"
             }
         },
         "pareto": [
@@ -17534,13 +17534,6 @@
             },
             {
                 "parts": {
-                    "COST": 300.0,
-                    "CYCLES": 114.0,
-                    "AREA": 58.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 345.0,
                     "CYCLES": 96.0,
                     "AREA": 61.0
@@ -17551,6 +17544,13 @@
                     "COST": 170.0,
                     "CYCLES": 761.0,
                     "AREA": 34.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 200.0,
+                    "CYCLES": 97.0,
+                    "AREA": 56.0
                 }
             }
         ]
