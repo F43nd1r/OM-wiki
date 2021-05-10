@@ -473,12 +473,12 @@
                 "score": {
                     "parts": {
                         "CYCLES": 26.0,
-                        "COST": 90.0,
-                        "AREA": 13.0
+                        "COST": 95.0,
+                        "AREA": 11.0
                     },
                     "displayAsSum": false
                 },
-                "link": "https://i.imgur.com/QAfquYs.mp4"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/841326498894970900/Opus_Magnum_-_Face_Powder_95G_26_11_2021-05-10-16-50-35.gif"
             },
             "CA": {
                 "score": {
@@ -549,17 +549,17 @@
             },
             {
                 "parts": {
-                    "COST": 115.0,
+                    "COST": 130.0,
                     "CYCLES": 26.0,
-                    "AREA": 11.0
+                    "AREA": 10.0
                 },
                 "displayAsSum": false
             },
             {
                 "parts": {
-                    "COST": 130.0,
+                    "COST": 95.0,
                     "CYCLES": 26.0,
-                    "AREA": 10.0
+                    "AREA": 11.0
                 },
                 "displayAsSum": false
             }
