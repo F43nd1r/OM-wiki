@@ -5160,6 +5160,14 @@
                     "AREA": 36.0
                 },
                 "displayAsSum": false
+            },
+            {
+                "parts": {
+                    "COST": 300.0,
+                    "CYCLES": 78.0,
+                    "AREA": 82.0
+                },
+                "displayAsSum": false
             }
         ]
     },
