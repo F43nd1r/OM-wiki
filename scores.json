@@ -2921,41 +2921,17 @@
         "pareto": [
             {
                 "parts": {
-                    "COST": 90.0,
-                    "CYCLES": 191.0,
-                    "AREA": 25.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 90.0,
-                    "CYCLES": 215.0,
-                    "AREA": 21.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 100.0,
-                    "CYCLES": 226.0,
-                    "AREA": 19.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 90.0,
-                    "CYCLES": 167.0,
-                    "AREA": 31.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
                     "COST": 110.0,
                     "CYCLES": 6.0,
                     "AREA": 11.0
+                },
+                "displayAsSum": false
+            },
+            {
+                "parts": {
+                    "COST": 80.0,
+                    "CYCLES": 36.0,
+                    "AREA": 14.0
                 },
                 "displayAsSum": false
             }
