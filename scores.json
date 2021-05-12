@@ -1845,14 +1845,6 @@
             },
             {
                 "parts": {
-                    "COST": 100.0,
-                    "CYCLES": 183.0,
-                    "AREA": 11.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
                     "COST": 225.0,
                     "CYCLES": 33.0,
                     "AREA": 37.0
@@ -1888,6 +1880,14 @@
                     "COST": 40.0,
                     "CYCLES": 70.0,
                     "AREA": 16.0
+                },
+                "displayAsSum": false
+            },
+            {
+                "parts": {
+                    "COST": 80.0,
+                    "CYCLES": 46.0,
+                    "AREA": 8.0
                 },
                 "displayAsSum": false
             }
