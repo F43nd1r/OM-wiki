@@ -1845,65 +1845,9 @@
         "pareto": [
             {
                 "parts": {
-                    "COST": 40.0,
-                    "CYCLES": 214.0,
-                    "AREA": 53.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 40.0,
-                    "CYCLES": 226.0,
-                    "AREA": 22.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 40.0,
-                    "CYCLES": 244.0,
-                    "AREA": 19.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 40.0,
-                    "CYCLES": 254.0,
-                    "AREA": 18.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
                     "COST": 60.0,
                     "CYCLES": 274.0,
                     "AREA": 11.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 70.0,
-                    "CYCLES": 79.0,
-                    "AREA": 23.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 80.0,
-                    "CYCLES": 168.0,
-                    "AREA": 18.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 100.0,
-                    "CYCLES": 74.0,
-                    "AREA": 26.0
                 },
                 "displayAsSum": false
             },
@@ -1944,6 +1888,14 @@
                     "COST": 290.0,
                     "CYCLES": 33.0,
                     "AREA": 24.0
+                },
+                "displayAsSum": false
+            },
+            {
+                "parts": {
+                    "COST": 40.0,
+                    "CYCLES": 70.0,
+                    "AREA": 16.0
                 },
                 "displayAsSum": false
             }
