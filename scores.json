@@ -1561,8 +1561,8 @@
             },
             {
                 "parts": {
-                    "COST": 135.0,
-                    "CYCLES": 280.0,
+                    "COST": 115.0,
+                    "CYCLES": 263.0,
                     "AREA": 11.0
                 },
                 "displayAsSum": false
