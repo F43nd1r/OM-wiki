@@ -4543,14 +4543,6 @@
         "pareto": [
             {
                 "parts": {
-                    "COST": 30.0,
-                    "CYCLES": 371.0,
-                    "AREA": 28.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
                     "COST": 60.0,
                     "CYCLES": 347.0,
                     "AREA": 13.0
@@ -4615,14 +4607,6 @@
             },
             {
                 "parts": {
-                    "COST": 30.0,
-                    "CYCLES": 360.0,
-                    "AREA": 32.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
                     "COST": 90.0,
                     "CYCLES": 180.0,
                     "AREA": 13.0
@@ -4634,6 +4618,14 @@
                     "COST": 125.0,
                     "CYCLES": 150.0,
                     "AREA": 7.0
+                },
+                "displayAsSum": false
+            },
+            {
+                "parts": {
+                    "COST": 30.0,
+                    "CYCLES": 234.0,
+                    "AREA": 18.0
                 },
                 "displayAsSum": false
             }
