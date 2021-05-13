@@ -18883,62 +18883,6 @@
             },
             {
                 "parts": {
-                    "COST": 105.0,
-                    "CYCLES": 209.0,
-                    "AREA": 20.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 105.0,
-                    "CYCLES": 219.0,
-                    "AREA": 17.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 115.0,
-                    "CYCLES": 129.0,
-                    "AREA": 27.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 125.0,
-                    "CYCLES": 217.0,
-                    "AREA": 17.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 205.0,
-                    "CYCLES": 89.0,
-                    "AREA": 55.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 215.0,
-                    "CYCLES": 89.0,
-                    "AREA": 49.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 260.0,
-                    "CYCLES": 89.0,
-                    "AREA": 47.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
                     "COST": 70.0,
                     "CYCLES": 483.0,
                     "AREA": 17.0
@@ -18947,9 +18891,9 @@
             },
             {
                 "parts": {
-                    "COST": 225.0,
-                    "CYCLES": 107.0,
-                    "AREA": 31.0
+                    "COST": 90.0,
+                    "CYCLES": 59.0,
+                    "AREA": 8.0
                 },
                 "displayAsSum": false
             }
