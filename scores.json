@@ -14561,62 +14561,6 @@
             },
             {
                 "parts": {
-                    "COST": 150.0,
-                    "CYCLES": 71.0,
-                    "AREA": 35.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 160.0,
-                    "CYCLES": 87.0,
-                    "AREA": 32.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 180.0,
-                    "CYCLES": 316.0,
-                    "AREA": 20.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 185.0,
-                    "CYCLES": 274.0,
-                    "AREA": 21.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 205.0,
-                    "CYCLES": 65.0,
-                    "AREA": 37.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 215.0,
-                    "CYCLES": 86.0,
-                    "AREA": 34.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 220.0,
-                    "CYCLES": 256.0,
-                    "AREA": 21.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
                     "COST": 860.0,
                     "CYCLES": 21.0,
                     "AREA": 141.0
@@ -14660,6 +14604,14 @@
                     "COST": 115.0,
                     "CYCLES": 600.0,
                     "AREA": 27.0
+                },
+                "displayAsSum": false
+            },
+            {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 29.0,
+                    "AREA": 14.0
                 },
                 "displayAsSum": false
             }
