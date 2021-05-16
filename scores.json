@@ -5229,30 +5229,6 @@
         "pareto": [
             {
                 "parts": {
-                    "COST": 80.0,
-                    "CYCLES": 400.0,
-                    "AREA": 45.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 80.0,
-                    "CYCLES": 429.0,
-                    "AREA": 29.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 80.0,
-                    "CYCLES": 453.0,
-                    "AREA": 26.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
                     "COST": 120.0,
                     "CYCLES": 229.0,
                     "AREA": 18.0
@@ -5333,22 +5309,6 @@
             },
             {
                 "parts": {
-                    "COST": 90.0,
-                    "CYCLES": 514.0,
-                    "AREA": 18.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
-                    "COST": 80.0,
-                    "CYCLES": 985.0,
-                    "AREA": 20.0
-                },
-                "displayAsSum": false
-            },
-            {
-                "parts": {
                     "COST": 160.0,
                     "CYCLES": 101.0,
                     "AREA": 30.0
@@ -5360,6 +5320,14 @@
                     "COST": 230.0,
                     "CYCLES": 167.0,
                     "AREA": 12.0
+                },
+                "displayAsSum": false
+            },
+            {
+                "parts": {
+                    "COST": 70.0,
+                    "CYCLES": 251.0,
+                    "AREA": 14.0
                 },
                 "displayAsSum": false
             }
