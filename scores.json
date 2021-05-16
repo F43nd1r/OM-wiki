@@ -4039,13 +4039,13 @@
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 170.0,
-                        "CYCLES": 99.0,
+                        "COST": 190.0,
+                        "CYCLES": 79.0,
                         "AREA": 36.0
                     },
                     "displayAsSum": false
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/837758728244690985/Opus_Magnum_-_Life-Sensing_Potion_170G_99_36_2021-05-01-04-14-58.gif"
+                "link": "https://i.imgur.com/Q039nwR.gif"
             }
         },
         "pareto": [
