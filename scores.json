@@ -10389,13 +10389,13 @@
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 140.0,
-                        "CYCLES": 146.0,
+                        "COST": 135.0,
+                        "CYCLES": 151.0,
                         "AREA": 95.0
                     },
                     "displayAsSum": false
                 },
-                "link": "https://i.imgur.com/zoe4fkI.gif"
+                "link": "https://i.imgur.com/biO7W7W.gif"
             }
         },
         "pareto": [
