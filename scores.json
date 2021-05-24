@@ -3709,36 +3709,15 @@
             },
             {
                 "parts": {
-                    "COST": 160.0,
-                    "CYCLES": 109.0,
-                    "AREA": 39.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 190.0,
-                    "CYCLES": 79.0,
-                    "AREA": 36.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 170.0,
-                    "CYCLES": 99.0,
-                    "AREA": 36.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 300.0,
-                    "CYCLES": 78.0,
-                    "AREA": 82.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 90.0,
                     "CYCLES": 132.0,
+                    "AREA": 7.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 110.0,
+                    "CYCLES": 58.0,
                     "AREA": 7.0
                 }
             }
