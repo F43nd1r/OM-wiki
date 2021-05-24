@@ -13180,15 +13180,15 @@
             },
             {
                 "parts": {
-                    "COST": 160.0,
-                    "CYCLES": 65.0,
+                    "COST": 165.0,
+                    "CYCLES": 53.0,
                     "AREA": 13.0
                 }
             },
             {
                 "parts": {
-                    "COST": 165.0,
-                    "CYCLES": 53.0,
+                    "COST": 150.0,
+                    "CYCLES": 63.0,
                     "AREA": 13.0
                 }
             }
