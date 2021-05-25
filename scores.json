@@ -15686,55 +15686,6 @@
             },
             {
                 "parts": {
-                    "COST": 580.0,
-                    "CYCLES": 27.0,
-                    "AREA": 159.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 590.0,
-                    "CYCLES": 27.0,
-                    "AREA": 153.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 595.0,
-                    "CYCLES": 27.0,
-                    "AREA": 143.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 640.0,
-                    "CYCLES": 27.0,
-                    "AREA": 123.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 695.0,
-                    "CYCLES": 27.0,
-                    "AREA": 118.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 755.0,
-                    "CYCLES": 27.0,
-                    "AREA": 115.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 775.0,
-                    "CYCLES": 27.0,
-                    "AREA": 114.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 40.0,
                     "CYCLES": 884.0,
                     "AREA": 48.0
@@ -15745,6 +15696,13 @@
                     "COST": 130.0,
                     "CYCLES": 106.0,
                     "AREA": 57.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 380.0,
+                    "CYCLES": 12.0,
+                    "AREA": 20.0
                 }
             }
         ]
