@@ -21050,32 +21050,32 @@
             "AG": {
                 "score": {
                     "parts": {
-                        "AREA": 30.0,
-                        "COST": 220.0,
-                        "CYCLES": 829.0
+                        "AREA": 18.0,
+                        "COST": 130.0,
+                        "CYCLES": 1162.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847932039230521365/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_220G_829_30_2021-05-28-22-08-15.gif"
+                "link": "https://i.imgur.com/oCw4yPa.gif"
             },
             "AC": {
                 "score": {
                     "parts": {
-                        "AREA": 30.0,
-                        "CYCLES": 829.0,
-                        "COST": 220.0
+                        "AREA": 18.0,
+                        "CYCLES": 1162.0,
+                        "COST": 130.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847932039230521365/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_220G_829_30_2021-05-28-22-08-15.gif"
+                "link": "https://i.imgur.com/oCw4yPa.gif"
             },
             "AX": {
                 "score": {
                     "parts": {
-                        "AREA": 30.0,
-                        "COST": 220.0,
-                        "CYCLES": 829.0
+                        "AREA": 18.0,
+                        "COST": 130.0,
+                        "CYCLES": 1162.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847932039230521365/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_220G_829_30_2021-05-28-22-08-15.gif"
+                "link": "https://i.imgur.com/oCw4yPa.gif"
             },
             "SG": {
                 "score": {
@@ -21156,6 +21156,13 @@
                     "COST": 125.0,
                     "CYCLES": 1059.0,
                     "AREA": 520.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 1162.0,
+                    "AREA": 18.0
                 }
             }
         ]
