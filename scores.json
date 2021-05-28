@@ -20992,30 +20992,30 @@
                     "parts": {
                         "COST": 70.0,
                         "CYCLES": 204.0,
-                        "AREA": 13909.0
+                        "AREA": 13645.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847924150647390238/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_70G_204_13909_2021-05-29-05-36-40.gif"
+                "link": "https://i.imgur.com/DwRtz80.gif"
             },
             "GA": {
                 "score": {
                     "parts": {
                         "COST": 70.0,
-                        "AREA": 13909.0,
+                        "AREA": 13645.0,
                         "CYCLES": 204.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847924150647390238/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_70G_204_13909_2021-05-29-05-36-40.gif"
+                "link": "https://i.imgur.com/DwRtz80.gif"
             },
             "GX": {
                 "score": {
                     "parts": {
                         "COST": 70.0,
                         "CYCLES": 204.0,
-                        "AREA": 13909.0
+                        "AREA": 13645.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847924150647390238/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_70G_204_13909_2021-05-29-05-36-40.gif"
+                "link": "https://i.imgur.com/DwRtz80.gif"
             },
             "CG": {
                 "score": {
@@ -21125,13 +21125,6 @@
             },
             {
                 "parts": {
-                    "COST": 70.0,
-                    "CYCLES": 204.0,
-                    "AREA": 13909.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 220.0,
                     "CYCLES": 829.0,
                     "AREA": 30.0
@@ -21142,6 +21135,13 @@
                     "COST": 100.0,
                     "CYCLES": 103.0,
                     "AREA": 10805.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 70.0,
+                    "CYCLES": 204.0,
+                    "AREA": 13645.0
                 }
             }
         ]
