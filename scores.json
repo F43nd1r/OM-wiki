@@ -21320,5 +21320,138 @@
                 }
             }
         ]
+    },
+    "MIST_OF_DOUSING": {
+        "records": {
+            "GC": {
+                "score": {
+                    "parts": {
+                        "COST": 315.0,
+                        "CYCLES": 396.0,
+                        "AREA": 82.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "GA": {
+                "score": {
+                    "parts": {
+                        "COST": 315.0,
+                        "AREA": 82.0,
+                        "CYCLES": 396.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "GX": {
+                "score": {
+                    "parts": {
+                        "COST": 315.0,
+                        "CYCLES": 396.0,
+                        "AREA": 82.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "CG": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 396.0,
+                        "COST": 315.0,
+                        "AREA": 82.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "CA": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 396.0,
+                        "AREA": 82.0,
+                        "COST": 315.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "CX": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 396.0,
+                        "COST": 315.0,
+                        "AREA": 82.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "AG": {
+                "score": {
+                    "parts": {
+                        "AREA": 82.0,
+                        "COST": 315.0,
+                        "CYCLES": 396.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "AC": {
+                "score": {
+                    "parts": {
+                        "AREA": 82.0,
+                        "CYCLES": 396.0,
+                        "COST": 315.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "AX": {
+                "score": {
+                    "parts": {
+                        "AREA": 82.0,
+                        "COST": 315.0,
+                        "CYCLES": 396.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "SG": {
+                "score": {
+                    "parts": {
+                        "COST": 315.0,
+                        "CYCLES": 396.0,
+                        "AREA": 82.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "SC": {
+                "score": {
+                    "parts": {
+                        "COST": 315.0,
+                        "CYCLES": 396.0,
+                        "AREA": 82.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            },
+            "SA": {
+                "score": {
+                    "parts": {
+                        "COST": 315.0,
+                        "CYCLES": 396.0,
+                        "AREA": 82.0
+                    }
+                },
+                "link": "https://i.imgur.com/txfRcNS.gif"
+            }
+        },
+        "pareto": [
+            {
+                "parts": {
+                    "COST": 315.0,
+                    "CYCLES": 396.0,
+                    "AREA": 82.0
+                }
+            }
+        ]
     }
 }
