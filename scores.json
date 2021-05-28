@@ -21020,32 +21020,32 @@
             "CG": {
                 "score": {
                     "parts": {
-                        "CYCLES": 204.0,
-                        "COST": 70.0,
-                        "AREA": 13909.0
+                        "CYCLES": 103.0,
+                        "COST": 100.0,
+                        "AREA": 10805.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847924150647390238/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_70G_204_13909_2021-05-29-05-36-40.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847947887568617542/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_103_10805_2021-05-28-14-18-59.gif"
             },
             "CA": {
                 "score": {
                     "parts": {
-                        "CYCLES": 204.0,
-                        "AREA": 13909.0,
-                        "COST": 70.0
+                        "CYCLES": 103.0,
+                        "AREA": 10805.0,
+                        "COST": 100.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847924150647390238/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_70G_204_13909_2021-05-29-05-36-40.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847947887568617542/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_103_10805_2021-05-28-14-18-59.gif"
             },
             "CX": {
                 "score": {
                     "parts": {
-                        "CYCLES": 204.0,
-                        "COST": 70.0,
-                        "AREA": 13909.0
+                        "CYCLES": 103.0,
+                        "COST": 100.0,
+                        "AREA": 10805.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847924150647390238/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_70G_204_13909_2021-05-29-05-36-40.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847947887568617542/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_103_10805_2021-05-28-14-18-59.gif"
             },
             "AG": {
                 "score": {
@@ -21135,6 +21135,13 @@
                     "COST": 220.0,
                     "CYCLES": 829.0,
                     "AREA": 30.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 103.0,
+                    "AREA": 10805.0
                 }
             }
         ]
