@@ -20984,5 +20984,138 @@
                 }
             }
         ]
+    },
+    "A_WELCOME_TO_HOUSE_COLVAN": {
+        "records": {
+            "GC": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 245.0,
+                        "AREA": 6054.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "GA": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "AREA": 6054.0,
+                        "CYCLES": 245.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "GX": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 245.0,
+                        "AREA": 6054.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "CG": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 245.0,
+                        "COST": 100.0,
+                        "AREA": 6054.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "CA": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 245.0,
+                        "AREA": 6054.0,
+                        "COST": 100.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "CX": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 245.0,
+                        "COST": 100.0,
+                        "AREA": 6054.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "AG": {
+                "score": {
+                    "parts": {
+                        "AREA": 6054.0,
+                        "COST": 100.0,
+                        "CYCLES": 245.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "AC": {
+                "score": {
+                    "parts": {
+                        "AREA": 6054.0,
+                        "CYCLES": 245.0,
+                        "COST": 100.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "AX": {
+                "score": {
+                    "parts": {
+                        "AREA": 6054.0,
+                        "COST": 100.0,
+                        "CYCLES": 245.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "SG": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 245.0,
+                        "AREA": 6054.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "SC": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 245.0,
+                        "AREA": 6054.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            },
+            "SA": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 245.0,
+                        "AREA": 6054.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+            }
+        },
+        "pareto": [
+            {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 245.0,
+                    "AREA": 6054.0
+                }
+            }
+        ]
     }
 }
