@@ -21151,32 +21151,32 @@
             "GC": {
                 "score": {
                     "parts": {
-                        "COST": 385.0,
-                        "CYCLES": 106.0,
-                        "AREA": 60.0
+                        "COST": 280.0,
+                        "CYCLES": 381.0,
+                        "AREA": 127.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847978296599380008/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_280G_381_127_2021-05-28-19-22-30.gif"
             },
             "GA": {
                 "score": {
                     "parts": {
-                        "COST": 385.0,
-                        "AREA": 60.0,
-                        "CYCLES": 106.0
+                        "COST": 280.0,
+                        "AREA": 127.0,
+                        "CYCLES": 381.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847978296599380008/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_280G_381_127_2021-05-28-19-22-30.gif"
             },
             "GX": {
                 "score": {
                     "parts": {
-                        "COST": 385.0,
-                        "CYCLES": 106.0,
-                        "AREA": 60.0
+                        "COST": 280.0,
+                        "CYCLES": 381.0,
+                        "AREA": 127.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847978296599380008/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_280G_381_127_2021-05-28-19-22-30.gif"
             },
             "CG": {
                 "score": {
@@ -21289,6 +21289,13 @@
                     "COST": 460.0,
                     "CYCLES": 85.0,
                     "AREA": 66.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 280.0,
+                    "CYCLES": 381.0,
+                    "AREA": 127.0
                 }
             }
         ]
