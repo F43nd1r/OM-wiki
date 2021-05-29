@@ -21481,5 +21481,138 @@
                 }
             }
         ]
+    },
+    "POTENT_PORTABLES": {
+        "records": {
+            "GC": {
+                "score": {
+                    "parts": {
+                        "COST": 285.0,
+                        "CYCLES": 160.0,
+                        "AREA": 47.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "GA": {
+                "score": {
+                    "parts": {
+                        "COST": 285.0,
+                        "AREA": 47.0,
+                        "CYCLES": 160.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "GX": {
+                "score": {
+                    "parts": {
+                        "COST": 285.0,
+                        "CYCLES": 160.0,
+                        "AREA": 47.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "CG": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 160.0,
+                        "COST": 285.0,
+                        "AREA": 47.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "CA": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 160.0,
+                        "AREA": 47.0,
+                        "COST": 285.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "CX": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 160.0,
+                        "COST": 285.0,
+                        "AREA": 47.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "AG": {
+                "score": {
+                    "parts": {
+                        "AREA": 47.0,
+                        "COST": 285.0,
+                        "CYCLES": 160.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "AC": {
+                "score": {
+                    "parts": {
+                        "AREA": 47.0,
+                        "CYCLES": 160.0,
+                        "COST": 285.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "AX": {
+                "score": {
+                    "parts": {
+                        "AREA": 47.0,
+                        "COST": 285.0,
+                        "CYCLES": 160.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "SG": {
+                "score": {
+                    "parts": {
+                        "COST": 285.0,
+                        "CYCLES": 160.0,
+                        "AREA": 47.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "SC": {
+                "score": {
+                    "parts": {
+                        "COST": 285.0,
+                        "CYCLES": 160.0,
+                        "AREA": 47.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            },
+            "SA": {
+                "score": {
+                    "parts": {
+                        "COST": 285.0,
+                        "CYCLES": 160.0,
+                        "AREA": 47.0
+                    }
+                },
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+            }
+        },
+        "pareto": [
+            {
+                "parts": {
+                    "COST": 285.0,
+                    "CYCLES": 160.0,
+                    "AREA": 47.0
+                }
+            }
+        ]
     }
 }
