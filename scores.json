@@ -21370,32 +21370,32 @@
             "CG": {
                 "score": {
                     "parts": {
-                        "CYCLES": 54.0,
+                        "CYCLES": 50.0,
                         "COST": 440.0,
-                        "AREA": 246.0
+                        "AREA": 230.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848098622758846464/Opus_Magnum_-_MIST_OF_DOUSING_440G_54_246_2021-05-29-03-20-56.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848102418087936010/Opus_Magnum_-_MIST_OF_DOUSING_440G_50_230_2021-05-29-00-35-16.gif"
             },
             "CA": {
                 "score": {
                     "parts": {
-                        "CYCLES": 54.0,
-                        "AREA": 246.0,
+                        "CYCLES": 50.0,
+                        "AREA": 230.0,
                         "COST": 440.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848098622758846464/Opus_Magnum_-_MIST_OF_DOUSING_440G_54_246_2021-05-29-03-20-56.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848102418087936010/Opus_Magnum_-_MIST_OF_DOUSING_440G_50_230_2021-05-29-00-35-16.gif"
             },
             "CX": {
                 "score": {
                     "parts": {
-                        "CYCLES": 54.0,
+                        "CYCLES": 50.0,
                         "COST": 440.0,
-                        "AREA": 246.0
+                        "AREA": 230.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848098622758846464/Opus_Magnum_-_MIST_OF_DOUSING_440G_54_246_2021-05-29-03-20-56.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848102418087936010/Opus_Magnum_-_MIST_OF_DOUSING_440G_50_230_2021-05-29-00-35-16.gif"
             },
             "AG": {
                 "score": {
@@ -21476,8 +21476,8 @@
             {
                 "parts": {
                     "COST": 440.0,
-                    "CYCLES": 54.0,
-                    "AREA": 246.0
+                    "CYCLES": 50.0,
+                    "AREA": 230.0
                 }
             }
         ]
