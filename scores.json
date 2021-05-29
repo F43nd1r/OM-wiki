@@ -21372,30 +21372,30 @@
                     "parts": {
                         "CYCLES": 99.0,
                         "COST": 450.0,
-                        "AREA": 203.0
+                        "AREA": 161.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084863709347910/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_161_2021-05-29-02-26-10.gif"
             },
             "CA": {
                 "score": {
                     "parts": {
                         "CYCLES": 99.0,
-                        "AREA": 203.0,
+                        "AREA": 161.0,
                         "COST": 450.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084863709347910/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_161_2021-05-29-02-26-10.gif"
             },
             "CX": {
                 "score": {
                     "parts": {
                         "CYCLES": 99.0,
                         "COST": 450.0,
-                        "AREA": 203.0
+                        "AREA": 161.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084863709347910/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_161_2021-05-29-02-26-10.gif"
             },
             "AG": {
                 "score": {
@@ -21432,30 +21432,30 @@
                     "parts": {
                         "COST": 450.0,
                         "CYCLES": 99.0,
-                        "AREA": 203.0
+                        "AREA": 161.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084863709347910/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_161_2021-05-29-02-26-10.gif"
             },
             "SC": {
                 "score": {
                     "parts": {
                         "COST": 450.0,
                         "CYCLES": 99.0,
-                        "AREA": 203.0
+                        "AREA": 161.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084863709347910/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_161_2021-05-29-02-26-10.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
                         "COST": 450.0,
                         "CYCLES": 99.0,
-                        "AREA": 203.0
+                        "AREA": 161.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084863709347910/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_161_2021-05-29-02-26-10.gif"
             }
         },
         "pareto": [
@@ -21470,7 +21470,7 @@
                 "parts": {
                     "COST": 450.0,
                     "CYCLES": 99.0,
-                    "AREA": 203.0
+                    "AREA": 161.0
                 }
             }
         ]
