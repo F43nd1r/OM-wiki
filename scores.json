@@ -21370,32 +21370,32 @@
             "CG": {
                 "score": {
                     "parts": {
-                        "CYCLES": 396.0,
-                        "COST": 315.0,
-                        "AREA": 82.0
+                        "CYCLES": 99.0,
+                        "COST": 450.0,
+                        "AREA": 203.0
                     }
                 },
-                "link": "https://i.imgur.com/txfRcNS.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
             },
             "CA": {
                 "score": {
                     "parts": {
-                        "CYCLES": 396.0,
-                        "AREA": 82.0,
-                        "COST": 315.0
+                        "CYCLES": 99.0,
+                        "AREA": 203.0,
+                        "COST": 450.0
                     }
                 },
-                "link": "https://i.imgur.com/txfRcNS.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
             },
             "CX": {
                 "score": {
                     "parts": {
-                        "CYCLES": 396.0,
-                        "COST": 315.0,
-                        "AREA": 82.0
+                        "CYCLES": 99.0,
+                        "COST": 450.0,
+                        "AREA": 203.0
                     }
                 },
-                "link": "https://i.imgur.com/txfRcNS.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
             },
             "AG": {
                 "score": {
@@ -21430,32 +21430,32 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 315.0,
-                        "CYCLES": 396.0,
-                        "AREA": 82.0
+                        "COST": 450.0,
+                        "CYCLES": 99.0,
+                        "AREA": 203.0
                     }
                 },
-                "link": "https://i.imgur.com/txfRcNS.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
             },
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 315.0,
-                        "CYCLES": 396.0,
-                        "AREA": 82.0
+                        "COST": 450.0,
+                        "CYCLES": 99.0,
+                        "AREA": 203.0
                     }
                 },
-                "link": "https://i.imgur.com/txfRcNS.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 315.0,
-                        "CYCLES": 396.0,
-                        "AREA": 82.0
+                        "COST": 450.0,
+                        "CYCLES": 99.0,
+                        "AREA": 203.0
                     }
                 },
-                "link": "https://i.imgur.com/txfRcNS.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848084097900740668/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_203_2021-05-29-02-23-09.gif"
             }
         },
         "pareto": [
@@ -21464,6 +21464,13 @@
                     "COST": 315.0,
                     "CYCLES": 396.0,
                     "AREA": 82.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 450.0,
+                    "CYCLES": 99.0,
+                    "AREA": 203.0
                 }
             }
         ]
