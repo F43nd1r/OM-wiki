@@ -21371,31 +21371,31 @@
                 "score": {
                     "parts": {
                         "CYCLES": 50.0,
-                        "COST": 440.0,
-                        "AREA": 230.0
+                        "COST": 380.0,
+                        "AREA": 184.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848102418087936010/Opus_Magnum_-_MIST_OF_DOUSING_440G_50_230_2021-05-29-00-35-16.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
             },
             "CA": {
                 "score": {
                     "parts": {
                         "CYCLES": 50.0,
-                        "AREA": 230.0,
-                        "COST": 440.0
+                        "AREA": 184.0,
+                        "COST": 380.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848102418087936010/Opus_Magnum_-_MIST_OF_DOUSING_440G_50_230_2021-05-29-00-35-16.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
             },
             "CX": {
                 "score": {
                     "parts": {
                         "CYCLES": 50.0,
-                        "COST": 440.0,
-                        "AREA": 230.0
+                        "COST": 380.0,
+                        "AREA": 184.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848102418087936010/Opus_Magnum_-_MIST_OF_DOUSING_440G_50_230_2021-05-29-00-35-16.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
             },
             "AG": {
                 "score": {
@@ -21430,32 +21430,32 @@
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 450.0,
-                        "CYCLES": 99.0,
-                        "AREA": 161.0
+                        "COST": 380.0,
+                        "CYCLES": 50.0,
+                        "AREA": 184.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848087054977990666/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_161_2021-05-29-02-34-21.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
             },
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 450.0,
-                        "CYCLES": 99.0,
-                        "AREA": 161.0
+                        "COST": 380.0,
+                        "CYCLES": 50.0,
+                        "AREA": 184.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848087054977990666/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_161_2021-05-29-02-34-21.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 450.0,
-                        "CYCLES": 99.0,
-                        "AREA": 161.0
+                        "COST": 380.0,
+                        "CYCLES": 50.0,
+                        "AREA": 184.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848087054977990666/Opus_Magnum_-_MIST_OF_DOUSING_450G_99_161_2021-05-29-02-34-21.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
             }
         },
         "pareto": [
@@ -21475,9 +21475,9 @@
             },
             {
                 "parts": {
-                    "COST": 440.0,
+                    "COST": 380.0,
                     "CYCLES": 50.0,
-                    "AREA": 230.0
+                    "AREA": 184.0
                 }
             }
         ]
