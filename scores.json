@@ -21517,32 +21517,32 @@
             "CG": {
                 "score": {
                     "parts": {
-                        "CYCLES": 160.0,
-                        "COST": 285.0,
-                        "AREA": 47.0
+                        "CYCLES": 29.0,
+                        "COST": 440.0,
+                        "AREA": 126.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848369023204982804/Opus_Magnum_-_I_POTENT_POTABLES_440G_29_126_2020-12-04-22-37-02.gif"
             },
             "CA": {
                 "score": {
                     "parts": {
-                        "CYCLES": 160.0,
-                        "AREA": 47.0,
-                        "COST": 285.0
+                        "CYCLES": 29.0,
+                        "AREA": 126.0,
+                        "COST": 440.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848369023204982804/Opus_Magnum_-_I_POTENT_POTABLES_440G_29_126_2020-12-04-22-37-02.gif"
             },
             "CX": {
                 "score": {
                     "parts": {
-                        "CYCLES": 160.0,
-                        "COST": 285.0,
-                        "AREA": 47.0
+                        "CYCLES": 29.0,
+                        "COST": 440.0,
+                        "AREA": 126.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848369023204982804/Opus_Magnum_-_I_POTENT_POTABLES_440G_29_126_2020-12-04-22-37-02.gif"
             },
             "AG": {
                 "score": {
@@ -21611,6 +21611,13 @@
                     "COST": 285.0,
                     "CYCLES": 160.0,
                     "AREA": 47.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 440.0,
+                    "CYCLES": 29.0,
+                    "AREA": 126.0
                 }
             }
         ]
