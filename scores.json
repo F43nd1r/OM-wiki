@@ -21997,32 +21997,32 @@
             "GC": {
                 "score": {
                     "parts": {
-                        "COST": 370.0,
-                        "CYCLES": 118.0,
-                        "AREA": 59.0
+                        "COST": 90.0,
+                        "CYCLES": 739.0,
+                        "AREA": 39.0
                     }
                 },
-                "link": "https://i.imgur.com/Q5wFgqF.gif"
+                "link": "https://od.lk/s/MV8yNDQ3MzM0NTJf/975_21W5_Calm-Before-the-Storm_B_AA_ROLAMNI_90G_739C_39A_739I_8P.mp4"
             },
             "GA": {
                 "score": {
                     "parts": {
-                        "COST": 370.0,
-                        "AREA": 59.0,
-                        "CYCLES": 118.0
+                        "COST": 90.0,
+                        "AREA": 39.0,
+                        "CYCLES": 739.0
                     }
                 },
-                "link": "https://i.imgur.com/Q5wFgqF.gif"
+                "link": "https://od.lk/s/MV8yNDQ3MzM0NTJf/975_21W5_Calm-Before-the-Storm_B_AA_ROLAMNI_90G_739C_39A_739I_8P.mp4"
             },
             "GX": {
                 "score": {
                     "parts": {
-                        "COST": 370.0,
-                        "CYCLES": 118.0,
-                        "AREA": 59.0
+                        "COST": 90.0,
+                        "CYCLES": 739.0,
+                        "AREA": 39.0
                     }
                 },
-                "link": "https://i.imgur.com/Q5wFgqF.gif"
+                "link": "https://od.lk/s/MV8yNDQ3MzM0NTJf/975_21W5_Calm-Before-the-Storm_B_AA_ROLAMNI_90G_739C_39A_739I_8P.mp4"
             },
             "CG": {
                 "score": {
@@ -22057,32 +22057,32 @@
             "AG": {
                 "score": {
                     "parts": {
-                        "AREA": 59.0,
-                        "COST": 370.0,
-                        "CYCLES": 118.0
+                        "AREA": 39.0,
+                        "COST": 90.0,
+                        "CYCLES": 739.0
                     }
                 },
-                "link": "https://i.imgur.com/Q5wFgqF.gif"
+                "link": "https://od.lk/s/MV8yNDQ3MzM0NTJf/975_21W5_Calm-Before-the-Storm_B_AA_ROLAMNI_90G_739C_39A_739I_8P.mp4"
             },
             "AC": {
                 "score": {
                     "parts": {
-                        "AREA": 59.0,
-                        "CYCLES": 118.0,
-                        "COST": 370.0
+                        "AREA": 39.0,
+                        "CYCLES": 739.0,
+                        "COST": 90.0
                     }
                 },
-                "link": "https://i.imgur.com/Q5wFgqF.gif"
+                "link": "https://od.lk/s/MV8yNDQ3MzM0NTJf/975_21W5_Calm-Before-the-Storm_B_AA_ROLAMNI_90G_739C_39A_739I_8P.mp4"
             },
             "AX": {
                 "score": {
                     "parts": {
-                        "AREA": 59.0,
-                        "COST": 370.0,
-                        "CYCLES": 118.0
+                        "AREA": 39.0,
+                        "COST": 90.0,
+                        "CYCLES": 739.0
                     }
                 },
-                "link": "https://i.imgur.com/Q5wFgqF.gif"
+                "link": "https://od.lk/s/MV8yNDQ3MzM0NTJf/975_21W5_Calm-Before-the-Storm_B_AA_ROLAMNI_90G_739C_39A_739I_8P.mp4"
             },
             "SG": {
                 "score": {
@@ -22121,6 +22121,13 @@
                     "COST": 370.0,
                     "CYCLES": 118.0,
                     "AREA": 59.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 90.0,
+                    "CYCLES": 739.0,
+                    "AREA": 39.0
                 }
             }
         ]
