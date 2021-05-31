@@ -21193,32 +21193,32 @@
             "GC": {
                 "score": {
                     "parts": {
-                        "COST": 100.0,
-                        "CYCLES": 551.0,
-                        "AREA": 17.0
+                        "COST": 60.0,
+                        "CYCLES": 397.0,
+                        "AREA": 1720.0
                     }
                 },
-                "link": "https://i.imgur.com/T8mH7TH.mp4"
+                "link": "https://od.lk/s/MV8yNDQ3MjQ4MjRf/971_21W1_impro-explo-phial_B_GC_CANT_ROTATE_60G_397C_1720A_397I_9P.mp4"
             },
             "GA": {
                 "score": {
                     "parts": {
-                        "COST": 100.0,
-                        "AREA": 17.0,
-                        "CYCLES": 551.0
+                        "COST": 60.0,
+                        "AREA": 1720.0,
+                        "CYCLES": 397.0
                     }
                 },
-                "link": "https://i.imgur.com/T8mH7TH.mp4"
+                "link": "https://od.lk/s/MV8yNDQ3MjQ4MjRf/971_21W1_impro-explo-phial_B_GC_CANT_ROTATE_60G_397C_1720A_397I_9P.mp4"
             },
             "GX": {
                 "score": {
                     "parts": {
-                        "COST": 100.0,
-                        "CYCLES": 551.0,
-                        "AREA": 17.0
+                        "COST": 60.0,
+                        "CYCLES": 397.0,
+                        "AREA": 1720.0
                     }
                 },
-                "link": "https://i.imgur.com/T8mH7TH.mp4"
+                "link": "https://od.lk/s/MV8yNDQ3MjQ4MjRf/971_21W1_impro-explo-phial_B_GC_CANT_ROTATE_60G_397C_1720A_397I_9P.mp4"
             },
             "CG": {
                 "score": {
@@ -21345,6 +21345,13 @@
                     "COST": 100.0,
                     "CYCLES": 551.0,
                     "AREA": 17.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 397.0,
+                    "AREA": 1720.0
                 }
             }
         ]
