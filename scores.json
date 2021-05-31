@@ -21398,32 +21398,32 @@
             "CG": {
                 "score": {
                     "parts": {
-                        "CYCLES": 50.0,
-                        "COST": 380.0,
-                        "AREA": 184.0
+                        "CYCLES": 20.0,
+                        "COST": 830.0,
+                        "AREA": 103.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
+                "link": "https://i.imgur.com/dlTg5GF.gif"
             },
             "CA": {
                 "score": {
                     "parts": {
-                        "CYCLES": 50.0,
-                        "AREA": 184.0,
-                        "COST": 380.0
+                        "CYCLES": 20.0,
+                        "AREA": 103.0,
+                        "COST": 830.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
+                "link": "https://i.imgur.com/dlTg5GF.gif"
             },
             "CX": {
                 "score": {
                     "parts": {
-                        "CYCLES": 50.0,
-                        "COST": 380.0,
-                        "AREA": 184.0
+                        "CYCLES": 20.0,
+                        "COST": 830.0,
+                        "AREA": 103.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
+                "link": "https://i.imgur.com/dlTg5GF.gif"
             },
             "AG": {
                 "score": {
@@ -21506,6 +21506,13 @@
                     "COST": 380.0,
                     "CYCLES": 50.0,
                     "AREA": 184.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 830.0,
+                    "CYCLES": 20.0,
+                    "AREA": 103.0
                 }
             }
         ]
