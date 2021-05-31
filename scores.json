@@ -21890,11 +21890,11 @@
                 "score": {
                     "parts": {
                         "INSTRUCTIONS": 55.0,
-                        "COST": 365.0,
-                        "CYCLES": 626.0
+                        "COST": 345.0,
+                        "CYCLES": 769.0
                     }
                 },
-                "link": "https://i.imgur.com/IQrlxpA.gif"
+                "link": "https://i.imgur.com/QBHVDC6.gif"
             },
             "IC": {
                 "score": {
@@ -21973,6 +21973,13 @@
                 "parts": {
                     "COST": 365.0,
                     "CYCLES": 626.0,
+                    "INSTRUCTIONS": 55.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 345.0,
+                    "CYCLES": 769.0,
                     "INSTRUCTIONS": 55.0
                 }
             }
