@@ -21193,32 +21193,32 @@
             "GC": {
                 "score": {
                     "parts": {
-                        "COST": 140.0,
-                        "CYCLES": 269.0,
+                        "COST": 100.0,
+                        "CYCLES": 551.0,
                         "AREA": 17.0
                     }
                 },
-                "link": "https://i.imgur.com/PBdS6hh.gif"
+                "link": "https://i.imgur.com/T8mH7TH.mp4"
             },
             "GA": {
                 "score": {
                     "parts": {
-                        "COST": 140.0,
+                        "COST": 100.0,
                         "AREA": 17.0,
-                        "CYCLES": 269.0
+                        "CYCLES": 551.0
                     }
                 },
-                "link": "https://i.imgur.com/PBdS6hh.gif"
+                "link": "https://i.imgur.com/T8mH7TH.mp4"
             },
             "GX": {
                 "score": {
                     "parts": {
-                        "COST": 140.0,
-                        "CYCLES": 269.0,
+                        "COST": 100.0,
+                        "CYCLES": 551.0,
                         "AREA": 17.0
                     }
                 },
-                "link": "https://i.imgur.com/PBdS6hh.gif"
+                "link": "https://i.imgur.com/T8mH7TH.mp4"
             },
             "CG": {
                 "score": {
@@ -21254,11 +21254,11 @@
                 "score": {
                     "parts": {
                         "AREA": 17.0,
-                        "COST": 140.0,
-                        "CYCLES": 269.0
+                        "COST": 100.0,
+                        "CYCLES": 551.0
                     }
                 },
-                "link": "https://i.imgur.com/PBdS6hh.gif"
+                "link": "https://i.imgur.com/T8mH7TH.mp4"
             },
             "AC": {
                 "score": {
@@ -21337,6 +21337,13 @@
                 "parts": {
                     "COST": 140.0,
                     "CYCLES": 269.0,
+                    "AREA": 17.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 551.0,
                     "AREA": 17.0
                 }
             }
