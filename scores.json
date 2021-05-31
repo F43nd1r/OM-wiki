@@ -21193,32 +21193,32 @@
             "GC": {
                 "score": {
                     "parts": {
-                        "COST": 270.0,
-                        "CYCLES": 348.0,
-                        "AREA": 103.0
+                        "COST": 140.0,
+                        "CYCLES": 269.0,
+                        "AREA": 17.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848024741133811752/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_270G_348_103_2021-05-28-19-25-29.gif"
+                "link": "https://i.imgur.com/PBdS6hh.gif"
             },
             "GA": {
                 "score": {
                     "parts": {
-                        "COST": 270.0,
-                        "AREA": 103.0,
-                        "CYCLES": 348.0
+                        "COST": 140.0,
+                        "AREA": 17.0,
+                        "CYCLES": 269.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848024741133811752/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_270G_348_103_2021-05-28-19-25-29.gif"
+                "link": "https://i.imgur.com/PBdS6hh.gif"
             },
             "GX": {
                 "score": {
                     "parts": {
-                        "COST": 270.0,
-                        "CYCLES": 348.0,
-                        "AREA": 103.0
+                        "COST": 140.0,
+                        "CYCLES": 269.0,
+                        "AREA": 17.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848024741133811752/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_270G_348_103_2021-05-28-19-25-29.gif"
+                "link": "https://i.imgur.com/PBdS6hh.gif"
             },
             "CG": {
                 "score": {
@@ -21253,62 +21253,62 @@
             "AG": {
                 "score": {
                     "parts": {
-                        "AREA": 60.0,
-                        "COST": 385.0,
-                        "CYCLES": 106.0
+                        "AREA": 17.0,
+                        "COST": 140.0,
+                        "CYCLES": 269.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+                "link": "https://i.imgur.com/PBdS6hh.gif"
             },
             "AC": {
                 "score": {
                     "parts": {
-                        "AREA": 60.0,
-                        "CYCLES": 106.0,
-                        "COST": 385.0
+                        "AREA": 17.0,
+                        "CYCLES": 269.0,
+                        "COST": 140.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+                "link": "https://i.imgur.com/PBdS6hh.gif"
             },
             "AX": {
                 "score": {
                     "parts": {
-                        "AREA": 60.0,
-                        "COST": 385.0,
-                        "CYCLES": 106.0
+                        "AREA": 17.0,
+                        "COST": 140.0,
+                        "CYCLES": 269.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+                "link": "https://i.imgur.com/PBdS6hh.gif"
             },
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 385.0,
-                        "CYCLES": 106.0,
-                        "AREA": 60.0
+                        "COST": 140.0,
+                        "CYCLES": 269.0,
+                        "AREA": 17.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+                "link": "https://i.imgur.com/PBdS6hh.gif"
             },
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 385.0,
-                        "CYCLES": 106.0,
-                        "AREA": 60.0
+                        "COST": 140.0,
+                        "CYCLES": 269.0,
+                        "AREA": 17.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+                "link": "https://i.imgur.com/PBdS6hh.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 385.0,
-                        "CYCLES": 106.0,
-                        "AREA": 60.0
+                        "COST": 140.0,
+                        "CYCLES": 269.0,
+                        "AREA": 17.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+                "link": "https://i.imgur.com/PBdS6hh.gif"
             }
         },
         "pareto": [
@@ -21335,9 +21335,9 @@
             },
             {
                 "parts": {
-                    "COST": 270.0,
-                    "CYCLES": 348.0,
-                    "AREA": 103.0
+                    "COST": 140.0,
+                    "CYCLES": 269.0,
+                    "AREA": 17.0
                 }
             }
         ]
