@@ -22278,5 +22278,138 @@
                 }
             }
         ]
+    },
+    "ELEMENTAL_JEWEL_SETTING": {
+        "records": {
+            "GC": {
+                "score": {
+                    "parts": {
+                        "COST": 180.0,
+                        "CYCLES": 147.0,
+                        "AREA": 84.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "GA": {
+                "score": {
+                    "parts": {
+                        "COST": 180.0,
+                        "AREA": 84.0,
+                        "CYCLES": 147.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "GX": {
+                "score": {
+                    "parts": {
+                        "COST": 180.0,
+                        "CYCLES": 147.0,
+                        "AREA": 84.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "CG": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 147.0,
+                        "COST": 180.0,
+                        "AREA": 84.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "CA": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 147.0,
+                        "AREA": 84.0,
+                        "COST": 180.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "CX": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 147.0,
+                        "COST": 180.0,
+                        "AREA": 84.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "AG": {
+                "score": {
+                    "parts": {
+                        "AREA": 84.0,
+                        "COST": 180.0,
+                        "CYCLES": 147.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "AC": {
+                "score": {
+                    "parts": {
+                        "AREA": 84.0,
+                        "CYCLES": 147.0,
+                        "COST": 180.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "AX": {
+                "score": {
+                    "parts": {
+                        "AREA": 84.0,
+                        "COST": 180.0,
+                        "CYCLES": 147.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "SG": {
+                "score": {
+                    "parts": {
+                        "COST": 180.0,
+                        "CYCLES": 147.0,
+                        "AREA": 84.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "SC": {
+                "score": {
+                    "parts": {
+                        "COST": 180.0,
+                        "CYCLES": 147.0,
+                        "AREA": 84.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            },
+            "SA": {
+                "score": {
+                    "parts": {
+                        "COST": 180.0,
+                        "CYCLES": 147.0,
+                        "AREA": 84.0
+                    }
+                },
+                "link": "https://i.imgur.com/krddHBj.gif"
+            }
+        },
+        "pareto": [
+            {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 147.0,
+                    "AREA": 84.0
+                }
+            }
+        ]
     }
 }
