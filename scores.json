@@ -21870,11 +21870,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 105.0,
-                        "INSTRUCTIONS": 892.0,
-                        "COST": 565.0
+                        "INSTRUCTIONS": 876.0,
+                        "COST": 645.0
                     }
                 },
-                "link": "https://i.imgur.com/NyunZVw.mp4"
+                "link": "https://i.postimg.cc/zBfLdsJK/974-21-W4-Emergency-Antidote-B-CI-645-G-105-C-108-A-876-I-38-P.gif"
             },
             "CXP": {
                 "score": {
@@ -21889,32 +21889,32 @@
             "IG": {
                 "score": {
                     "parts": {
-                        "INSTRUCTIONS": 892.0,
-                        "COST": 565.0,
+                        "INSTRUCTIONS": 876.0,
+                        "COST": 645.0,
                         "CYCLES": 105.0
                     }
                 },
-                "link": "https://i.imgur.com/NyunZVw.mp4"
+                "link": "https://i.postimg.cc/zBfLdsJK/974-21-W4-Emergency-Antidote-B-CI-645-G-105-C-108-A-876-I-38-P.gif"
             },
             "IC": {
                 "score": {
                     "parts": {
-                        "INSTRUCTIONS": 892.0,
+                        "INSTRUCTIONS": 876.0,
                         "CYCLES": 105.0,
-                        "COST": 565.0
+                        "COST": 645.0
                     }
                 },
-                "link": "https://i.imgur.com/NyunZVw.mp4"
+                "link": "https://i.postimg.cc/zBfLdsJK/974-21-W4-Emergency-Antidote-B-CI-645-G-105-C-108-A-876-I-38-P.gif"
             },
             "IX": {
                 "score": {
                     "parts": {
-                        "INSTRUCTIONS": 892.0,
-                        "COST": 565.0,
+                        "INSTRUCTIONS": 876.0,
+                        "COST": 645.0,
                         "CYCLES": 105.0
                     }
                 },
-                "link": "https://i.imgur.com/NyunZVw.mp4"
+                "link": "https://i.postimg.cc/zBfLdsJK/974-21-W4-Emergency-Antidote-B-CI-645-G-105-C-108-A-876-I-38-P.gif"
             },
             "SGP": {
                 "score": {
@@ -21953,6 +21953,13 @@
                     "COST": 565.0,
                     "CYCLES": 105.0,
                     "INSTRUCTIONS": 892.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 645.0,
+                    "CYCLES": 105.0,
+                    "INSTRUCTIONS": 876.0
                 }
             }
         ]
