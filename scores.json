@@ -21842,7 +21842,7 @@
                         "INSTRUCTIONS": 232.0
                     }
                 },
-                "link": "https://i.imgur.com/ITXuCq8.gif"
+                "link": "https://i.imgur.com/53eFfRC.gif"
             },
             "GI": {
                 "score": {
@@ -21852,16 +21852,17 @@
                         "CYCLES": 1391.0
                     }
                 },
-                "link": "https://i.imgur.com/ITXuCq8.gif"
+                "link": "https://i.imgur.com/53eFfRC.gif"
             },
             "GXP": {
                 "score": {
                     "parts": {
                         "COST": 130.0,
+                        "CYCLES": 1391.0,
                         "INSTRUCTIONS": 232.0
                     }
                 },
-                "link": "https://i.imgur.com/ITXuCq8.gif"
+                "link": "https://i.imgur.com/53eFfRC.gif"
             },
             "CGP": {
                 "score": {
