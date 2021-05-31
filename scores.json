@@ -21977,5 +21977,138 @@
                 }
             }
         ]
+    },
+    "CALM_BEFORE_THE_STORM": {
+        "records": {
+            "GC": {
+                "score": {
+                    "parts": {
+                        "COST": 370.0,
+                        "CYCLES": 118.0,
+                        "AREA": 59.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "GA": {
+                "score": {
+                    "parts": {
+                        "COST": 370.0,
+                        "AREA": 59.0,
+                        "CYCLES": 118.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "GX": {
+                "score": {
+                    "parts": {
+                        "COST": 370.0,
+                        "CYCLES": 118.0,
+                        "AREA": 59.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "CG": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 118.0,
+                        "COST": 370.0,
+                        "AREA": 59.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "CA": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 118.0,
+                        "AREA": 59.0,
+                        "COST": 370.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "CX": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 118.0,
+                        "COST": 370.0,
+                        "AREA": 59.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "AG": {
+                "score": {
+                    "parts": {
+                        "AREA": 59.0,
+                        "COST": 370.0,
+                        "CYCLES": 118.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "AC": {
+                "score": {
+                    "parts": {
+                        "AREA": 59.0,
+                        "CYCLES": 118.0,
+                        "COST": 370.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "AX": {
+                "score": {
+                    "parts": {
+                        "AREA": 59.0,
+                        "COST": 370.0,
+                        "CYCLES": 118.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "SG": {
+                "score": {
+                    "parts": {
+                        "COST": 370.0,
+                        "CYCLES": 118.0,
+                        "AREA": 59.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "SC": {
+                "score": {
+                    "parts": {
+                        "COST": 370.0,
+                        "CYCLES": 118.0,
+                        "AREA": 59.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            },
+            "SA": {
+                "score": {
+                    "parts": {
+                        "COST": 370.0,
+                        "CYCLES": 118.0,
+                        "AREA": 59.0
+                    }
+                },
+                "link": "https://i.imgur.com/ftpljBP.gif"
+            }
+        },
+        "pareto": [
+            {
+                "parts": {
+                    "COST": 370.0,
+                    "CYCLES": 118.0,
+                    "AREA": 59.0
+                }
+            }
+        ]
     }
 }
