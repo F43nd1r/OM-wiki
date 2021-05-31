@@ -21824,5 +21824,137 @@
                 }
             }
         ]
+    },
+    "EMERGENCY_ANTIDOTE": {
+        "records": {
+            "GCP": {
+                "score": {
+                    "parts": {
+                        "COST": 565.0,
+                        "CYCLES": 105.0,
+                        "INSTRUCTIONS": 892.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "GI": {
+                "score": {
+                    "parts": {
+                        "COST": 565.0,
+                        "INSTRUCTIONS": 892.0,
+                        "CYCLES": 105.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "GXP": {
+                "score": {
+                    "parts": {
+                        "COST": 565.0,
+                        "INSTRUCTIONS": 892.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "CGP": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 105.0,
+                        "COST": 565.0,
+                        "INSTRUCTIONS": 892.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "CI": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 105.0,
+                        "INSTRUCTIONS": 892.0,
+                        "COST": 565.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "CXP": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 105.0,
+                        "COST": 565.0,
+                        "INSTRUCTIONS": 892.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "IG": {
+                "score": {
+                    "parts": {
+                        "INSTRUCTIONS": 892.0,
+                        "COST": 565.0,
+                        "CYCLES": 105.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "IC": {
+                "score": {
+                    "parts": {
+                        "INSTRUCTIONS": 892.0,
+                        "CYCLES": 105.0,
+                        "COST": 565.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "IX": {
+                "score": {
+                    "parts": {
+                        "INSTRUCTIONS": 892.0,
+                        "COST": 565.0,
+                        "CYCLES": 105.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "SGP": {
+                "score": {
+                    "parts": {
+                        "COST": 565.0,
+                        "CYCLES": 105.0,
+                        "INSTRUCTIONS": 892.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "SCP": {
+                "score": {
+                    "parts": {
+                        "COST": 565.0,
+                        "CYCLES": 105.0,
+                        "INSTRUCTIONS": 892.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            },
+            "SI": {
+                "score": {
+                    "parts": {
+                        "COST": 565.0,
+                        "CYCLES": 105.0,
+                        "INSTRUCTIONS": 892.0
+                    }
+                },
+                "link": "https://i.imgur.com/NyunZVw.mp4"
+            }
+        },
+        "pareto": [
+            {
+                "parts": {
+                    "COST": 565.0,
+                    "CYCLES": 105.0,
+                    "INSTRUCTIONS": 892.0
+                }
+            }
+        ]
     }
 }
