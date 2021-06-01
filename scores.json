@@ -22483,32 +22483,32 @@
             "CG": {
                 "score": {
                     "parts": {
-                        "CYCLES": 171.0,
-                        "COST": 310.0,
-                        "AREA": 74.0
+                        "CYCLES": 43.0,
+                        "COST": 2340.0,
+                        "AREA": 397.0
                     }
                 },
-                "link": "https://i.imgur.com/Ba31jcG.gif"
+                "link": "https://i.imgur.com/cfFagQt.mp4"
             },
             "CA": {
                 "score": {
                     "parts": {
-                        "CYCLES": 171.0,
-                        "AREA": 74.0,
-                        "COST": 310.0
+                        "CYCLES": 43.0,
+                        "AREA": 397.0,
+                        "COST": 2340.0
                     }
                 },
-                "link": "https://i.imgur.com/Ba31jcG.gif"
+                "link": "https://i.imgur.com/cfFagQt.mp4"
             },
             "CX": {
                 "score": {
                     "parts": {
-                        "CYCLES": 171.0,
-                        "COST": 310.0,
-                        "AREA": 74.0
+                        "CYCLES": 43.0,
+                        "COST": 2340.0,
+                        "AREA": 397.0
                     }
                 },
-                "link": "https://i.imgur.com/Ba31jcG.gif"
+                "link": "https://i.imgur.com/cfFagQt.mp4"
             },
             "AG": {
                 "score": {
@@ -22577,6 +22577,13 @@
                     "COST": 310.0,
                     "CYCLES": 171.0,
                     "AREA": 74.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 2340.0,
+                    "CYCLES": 43.0,
+                    "AREA": 397.0
                 }
             }
         ]
