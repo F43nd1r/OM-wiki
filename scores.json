@@ -23007,5 +23007,138 @@
                 }
             }
         ]
+    },
+    "VOLATILITY_AND_TRANQUILITY": {
+        "records": {
+            "GC": {
+                "score": {
+                    "parts": {
+                        "COST": 85.0,
+                        "CYCLES": 1328.0,
+                        "AREA": 85.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "GA": {
+                "score": {
+                    "parts": {
+                        "COST": 85.0,
+                        "AREA": 85.0,
+                        "CYCLES": 1328.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "GX": {
+                "score": {
+                    "parts": {
+                        "COST": 85.0,
+                        "CYCLES": 1328.0,
+                        "AREA": 85.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "CG": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 1328.0,
+                        "COST": 85.0,
+                        "AREA": 85.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "CA": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 1328.0,
+                        "AREA": 85.0,
+                        "COST": 85.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "CX": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 1328.0,
+                        "COST": 85.0,
+                        "AREA": 85.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "AG": {
+                "score": {
+                    "parts": {
+                        "AREA": 85.0,
+                        "COST": 85.0,
+                        "CYCLES": 1328.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "AC": {
+                "score": {
+                    "parts": {
+                        "AREA": 85.0,
+                        "CYCLES": 1328.0,
+                        "COST": 85.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "AX": {
+                "score": {
+                    "parts": {
+                        "AREA": 85.0,
+                        "COST": 85.0,
+                        "CYCLES": 1328.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "SG": {
+                "score": {
+                    "parts": {
+                        "COST": 85.0,
+                        "CYCLES": 1328.0,
+                        "AREA": 85.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "SC": {
+                "score": {
+                    "parts": {
+                        "COST": 85.0,
+                        "CYCLES": 1328.0,
+                        "AREA": 85.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            },
+            "SA": {
+                "score": {
+                    "parts": {
+                        "COST": 85.0,
+                        "CYCLES": 1328.0,
+                        "AREA": 85.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTJf/944_20W4_VolatilityAndTranquility_B_GC_JINYOU_6T_85G_1328C_85A_1355I_10P.mp4"
+            }
+        },
+        "pareto": [
+            {
+                "parts": {
+                    "COST": 85.0,
+                    "CYCLES": 1328.0,
+                    "AREA": 85.0
+                }
+            }
+        ]
     }
 }
