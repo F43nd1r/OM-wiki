@@ -22593,42 +22593,42 @@
             "GCP": {
                 "score": {
                     "parts": {
-                        "COST": 790.0,
+                        "COST": 720.0,
                         "CYCLES": 50.0,
-                        "INSTRUCTIONS": 463.0
+                        "INSTRUCTIONS": 473.0
                     }
                 },
-                "link": "https://i.imgur.com/mn7im2r.gif"
+                "link": "https://i.imgur.com/XbPKhei.gif"
             },
             "GI": {
                 "score": {
                     "parts": {
-                        "COST": 790.0,
-                        "INSTRUCTIONS": 463.0,
+                        "COST": 720.0,
+                        "INSTRUCTIONS": 473.0,
                         "CYCLES": 50.0
                     }
                 },
-                "link": "https://i.imgur.com/mn7im2r.gif"
+                "link": "https://i.imgur.com/XbPKhei.gif"
             },
             "GXP": {
                 "score": {
                     "parts": {
-                        "COST": 790.0,
+                        "COST": 720.0,
                         "CYCLES": 50.0,
-                        "INSTRUCTIONS": 463.0
+                        "INSTRUCTIONS": 473.0
                     }
                 },
-                "link": "https://i.imgur.com/mn7im2r.gif"
+                "link": "https://i.imgur.com/XbPKhei.gif"
             },
             "CGP": {
                 "score": {
                     "parts": {
                         "CYCLES": 50.0,
-                        "COST": 790.0,
-                        "INSTRUCTIONS": 463.0
+                        "COST": 720.0,
+                        "INSTRUCTIONS": 473.0
                     }
                 },
-                "link": "https://i.imgur.com/mn7im2r.gif"
+                "link": "https://i.imgur.com/XbPKhei.gif"
             },
             "CI": {
                 "score": {
@@ -22644,11 +22644,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 50.0,
-                        "COST": 790.0,
-                        "INSTRUCTIONS": 463.0
+                        "COST": 720.0,
+                        "INSTRUCTIONS": 473.0
                     }
                 },
-                "link": "https://i.imgur.com/mn7im2r.gif"
+                "link": "https://i.imgur.com/XbPKhei.gif"
             },
             "IG": {
                 "score": {
@@ -22683,32 +22683,32 @@
             "SGP": {
                 "score": {
                     "parts": {
-                        "COST": 790.0,
+                        "COST": 720.0,
                         "CYCLES": 50.0,
-                        "INSTRUCTIONS": 463.0
+                        "INSTRUCTIONS": 473.0
                     }
                 },
-                "link": "https://i.imgur.com/mn7im2r.gif"
+                "link": "https://i.imgur.com/XbPKhei.gif"
             },
             "SCP": {
                 "score": {
                     "parts": {
-                        "COST": 790.0,
+                        "COST": 720.0,
                         "CYCLES": 50.0,
-                        "INSTRUCTIONS": 463.0
+                        "INSTRUCTIONS": 473.0
                     }
                 },
-                "link": "https://i.imgur.com/mn7im2r.gif"
+                "link": "https://i.imgur.com/XbPKhei.gif"
             },
             "SI": {
                 "score": {
                     "parts": {
-                        "COST": 790.0,
+                        "COST": 720.0,
                         "CYCLES": 50.0,
-                        "INSTRUCTIONS": 463.0
+                        "INSTRUCTIONS": 473.0
                     }
                 },
-                "link": "https://i.imgur.com/mn7im2r.gif"
+                "link": "https://i.imgur.com/XbPKhei.gif"
             }
         },
         "pareto": [
@@ -22717,6 +22717,13 @@
                     "COST": 790.0,
                     "CYCLES": 50.0,
                     "INSTRUCTIONS": 463.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 720.0,
+                    "CYCLES": 50.0,
+                    "INSTRUCTIONS": 473.0
                 }
             }
         ]
