@@ -21536,32 +21536,32 @@
             "GC": {
                 "score": {
                     "parts": {
-                        "COST": 285.0,
-                        "CYCLES": 160.0,
-                        "AREA": 47.0
+                        "COST": 135.0,
+                        "CYCLES": 80.0,
+                        "AREA": 40.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://i.imgur.com/PD4gsjW.gif"
             },
             "GA": {
                 "score": {
                     "parts": {
-                        "COST": 285.0,
-                        "AREA": 47.0,
-                        "CYCLES": 160.0
+                        "COST": 135.0,
+                        "AREA": 40.0,
+                        "CYCLES": 80.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://i.imgur.com/PD4gsjW.gif"
             },
             "GX": {
                 "score": {
                     "parts": {
-                        "COST": 285.0,
-                        "CYCLES": 160.0,
-                        "AREA": 47.0
+                        "COST": 135.0,
+                        "CYCLES": 80.0,
+                        "AREA": 40.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://i.imgur.com/PD4gsjW.gif"
             },
             "CG": {
                 "score": {
@@ -21596,77 +21596,77 @@
             "AG": {
                 "score": {
                     "parts": {
-                        "AREA": 47.0,
-                        "COST": 285.0,
-                        "CYCLES": 160.0
+                        "AREA": 40.0,
+                        "COST": 135.0,
+                        "CYCLES": 80.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://i.imgur.com/PD4gsjW.gif"
             },
             "AC": {
                 "score": {
                     "parts": {
-                        "AREA": 47.0,
-                        "CYCLES": 160.0,
-                        "COST": 285.0
+                        "AREA": 40.0,
+                        "CYCLES": 80.0,
+                        "COST": 135.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://i.imgur.com/PD4gsjW.gif"
             },
             "AX": {
                 "score": {
                     "parts": {
-                        "AREA": 47.0,
-                        "COST": 285.0,
-                        "CYCLES": 160.0
+                        "AREA": 40.0,
+                        "COST": 135.0,
+                        "CYCLES": 80.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://i.imgur.com/PD4gsjW.gif"
             },
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 285.0,
-                        "CYCLES": 160.0,
-                        "AREA": 47.0
+                        "COST": 135.0,
+                        "CYCLES": 80.0,
+                        "AREA": 40.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://i.imgur.com/PD4gsjW.gif"
             },
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 285.0,
-                        "CYCLES": 160.0,
-                        "AREA": 47.0
+                        "COST": 135.0,
+                        "CYCLES": 80.0,
+                        "AREA": 40.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://i.imgur.com/PD4gsjW.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 285.0,
-                        "CYCLES": 160.0,
-                        "AREA": 47.0
+                        "COST": 135.0,
+                        "CYCLES": 80.0,
+                        "AREA": 40.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+                "link": "https://i.imgur.com/PD4gsjW.gif"
             }
         },
         "pareto": [
             {
                 "parts": {
-                    "COST": 285.0,
-                    "CYCLES": 160.0,
-                    "AREA": 47.0
+                    "COST": 440.0,
+                    "CYCLES": 29.0,
+                    "AREA": 126.0
                 }
             },
             {
                 "parts": {
-                    "COST": 440.0,
-                    "CYCLES": 29.0,
-                    "AREA": 126.0
+                    "COST": 135.0,
+                    "CYCLES": 80.0,
+                    "AREA": 40.0
                 }
             }
         ]
