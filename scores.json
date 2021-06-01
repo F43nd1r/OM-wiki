@@ -22874,5 +22874,138 @@
                 }
             }
         ]
+    },
+    "ACTIVE_POLYMERASE": {
+        "records": {
+            "GC": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 1583.0,
+                        "AREA": 28.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "GA": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "AREA": 28.0,
+                        "CYCLES": 1583.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "GX": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 1583.0,
+                        "AREA": 28.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "CG": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 1583.0,
+                        "COST": 100.0,
+                        "AREA": 28.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "CA": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 1583.0,
+                        "AREA": 28.0,
+                        "COST": 100.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "CX": {
+                "score": {
+                    "parts": {
+                        "CYCLES": 1583.0,
+                        "COST": 100.0,
+                        "AREA": 28.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "AG": {
+                "score": {
+                    "parts": {
+                        "AREA": 28.0,
+                        "COST": 100.0,
+                        "CYCLES": 1583.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "AC": {
+                "score": {
+                    "parts": {
+                        "AREA": 28.0,
+                        "CYCLES": 1583.0,
+                        "COST": 100.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "AX": {
+                "score": {
+                    "parts": {
+                        "AREA": 28.0,
+                        "COST": 100.0,
+                        "CYCLES": 1583.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "SG": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 1583.0,
+                        "AREA": 28.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "SC": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 1583.0,
+                        "AREA": 28.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            },
+            "SA": {
+                "score": {
+                    "parts": {
+                        "COST": 100.0,
+                        "CYCLES": 1583.0,
+                        "AREA": 28.0
+                    }
+                },
+                "link": "https://od.lk/s/MV8yNDQ3ODI3MTdf/946_20W6_ActivePolymerase_B_GA_JINYOU_2T_100G_1583C_28A_529I_10P.mp4"
+            }
+        },
+        "pareto": [
+            {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 1583.0,
+                    "AREA": 28.0
+                }
+            }
+        ]
     }
 }
