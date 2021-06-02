@@ -22600,32 +22600,32 @@
             "GCP": {
                 "score": {
                     "parts": {
-                        "COST": 290.0,
-                        "CYCLES": 1309.0,
+                        "COST": 245.0,
+                        "CYCLES": 1813.0,
                         "INSTRUCTIONS": 26.0
                     }
                 },
-                "link": "https://i.imgur.com/U5tMOTd.gif"
+                "link": "https://i.imgur.com/8zHkgSo.gif"
             },
             "GI": {
                 "score": {
                     "parts": {
-                        "COST": 290.0,
+                        "COST": 245.0,
                         "INSTRUCTIONS": 26.0,
-                        "CYCLES": 1309.0
+                        "CYCLES": 1813.0
                     }
                 },
-                "link": "https://i.imgur.com/U5tMOTd.gif"
+                "link": "https://i.imgur.com/8zHkgSo.gif"
             },
             "GXP": {
                 "score": {
                     "parts": {
-                        "COST": 290.0,
-                        "CYCLES": 1309.0,
+                        "COST": 245.0,
+                        "CYCLES": 1813.0,
                         "INSTRUCTIONS": 26.0
                     }
                 },
-                "link": "https://i.imgur.com/U5tMOTd.gif"
+                "link": "https://i.imgur.com/8zHkgSo.gif"
             },
             "CGP": {
                 "score": {
@@ -22661,11 +22661,11 @@
                 "score": {
                     "parts": {
                         "INSTRUCTIONS": 26.0,
-                        "COST": 290.0,
-                        "CYCLES": 1309.0
+                        "COST": 245.0,
+                        "CYCLES": 1813.0
                     }
                 },
-                "link": "https://i.imgur.com/U5tMOTd.gif"
+                "link": "https://i.imgur.com/8zHkgSo.gif"
             },
             "IC": {
                 "score": {
@@ -22737,6 +22737,13 @@
                 "parts": {
                     "COST": 290.0,
                     "CYCLES": 1309.0,
+                    "INSTRUCTIONS": 26.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 245.0,
+                    "CYCLES": 1813.0,
                     "INSTRUCTIONS": 26.0
                 }
             }
