@@ -11303,11 +11303,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 80.0,
-                        "COST": 625.0,
-                        "AREA": 100.0
+                        "COST": 610.0,
+                        "AREA": 101.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMTY1MDIyOTFf/725_Spyglass%20Crystal_B_CX_2T_625G_80C_100A_276I_33P.mp4"
+                "link": "https://i.imgur.com/9LLz33G.gif"
             },
             "SG": {
                 "score": {
@@ -11423,13 +11423,6 @@
             },
             {
                 "parts": {
-                    "COST": 615.0,
-                    "CYCLES": 80.0,
-                    "AREA": 104.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 625.0,
                     "CYCLES": 80.0,
                     "AREA": 100.0
@@ -11489,6 +11482,13 @@
                     "COST": 600.0,
                     "CYCLES": 80.0,
                     "AREA": 105.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 610.0,
+                    "CYCLES": 80.0,
+                    "AREA": 101.0
                 }
             }
         ]
