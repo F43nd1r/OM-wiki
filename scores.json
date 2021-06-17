@@ -8500,32 +8500,32 @@
             "IG": {
                 "score": {
                     "parts": {
-                        "INSTRUCTIONS": 30.0,
-                        "COST": 180.0,
-                        "CYCLES": 73.0
+                        "INSTRUCTIONS": 26.0,
+                        "COST": 235.0,
+                        "CYCLES": 559.0
                     }
                 },
-                "link": "https://i.imgur.com/q2FVq71.gifv"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/855041154496200724/Opus_Magnum_-_Parade-Rocket_Fuel_235G_559_26_2021-06-17-13-02-02.gif"
             },
             "IC": {
                 "score": {
                     "parts": {
-                        "INSTRUCTIONS": 30.0,
-                        "CYCLES": 73.0,
-                        "COST": 180.0
+                        "INSTRUCTIONS": 26.0,
+                        "CYCLES": 559.0,
+                        "COST": 235.0
                     }
                 },
-                "link": "https://i.imgur.com/q2FVq71.gifv"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/855041154496200724/Opus_Magnum_-_Parade-Rocket_Fuel_235G_559_26_2021-06-17-13-02-02.gif"
             },
             "IX": {
                 "score": {
                     "parts": {
-                        "INSTRUCTIONS": 30.0,
-                        "COST": 180.0,
-                        "CYCLES": 73.0
+                        "INSTRUCTIONS": 26.0,
+                        "COST": 235.0,
+                        "CYCLES": 559.0
                     }
                 },
-                "link": "https://i.imgur.com/q2FVq71.gifv"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/855041154496200724/Opus_Magnum_-_Parade-Rocket_Fuel_235G_559_26_2021-06-17-13-02-02.gif"
             },
             "CGP": {
                 "score": {
@@ -8640,6 +8640,13 @@
                     "COST": 375.0,
                     "CYCLES": 48.0,
                     "INSTRUCTIONS": 176.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 235.0,
+                    "CYCLES": 559.0,
+                    "INSTRUCTIONS": 26.0
                 }
             }
         ]
