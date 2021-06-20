@@ -15065,11 +15065,11 @@
                 "score": {
                     "parts": {
                         "COST": 50.0,
-                        "CYCLES": 468.0,
-                        "INSTRUCTIONS": 75.0
+                        "CYCLES": 404.0,
+                        "INSTRUCTIONS": 66.0
                     }
                 },
-                "link": "https://i.imgur.com/msEl2VD.gif"
+                "link": "https://i.imgur.com/5sApOrI.gif"
             },
             "GI": {
                 "score": {
@@ -15204,15 +15204,15 @@
             {
                 "parts": {
                     "COST": 50.0,
-                    "CYCLES": 468.0,
-                    "INSTRUCTIONS": 75.0
+                    "CYCLES": 276.0,
+                    "INSTRUCTIONS": 276.0
                 }
             },
             {
                 "parts": {
                     "COST": 50.0,
-                    "CYCLES": 276.0,
-                    "INSTRUCTIONS": 276.0
+                    "CYCLES": 404.0,
+                    "INSTRUCTIONS": 66.0
                 }
             }
         ]
