@@ -15055,11 +15055,11 @@
                 "score": {
                     "parts": {
                         "COST": 50.0,
-                        "CYCLES": 349.0,
-                        "INSTRUCTIONS": 349.0
+                        "CYCLES": 276.0,
+                        "INSTRUCTIONS": 276.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/763308690199543819/856004523348459540/Opus_Magnum_-_Lamplight_Gas_50G_349_349_2021-06-19-19-49-52.gif"
+                "link": "https://i.imgur.com/CEjqU6n.gif"
             },
             "GXP": {
                 "score": {
@@ -15211,8 +15211,8 @@
             {
                 "parts": {
                     "COST": 50.0,
-                    "CYCLES": 349.0,
-                    "INSTRUCTIONS": 349.0
+                    "CYCLES": 276.0,
+                    "INSTRUCTIONS": 276.0
                 }
             }
         ]
