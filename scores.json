@@ -15075,11 +15075,11 @@
                 "score": {
                     "parts": {
                         "COST": 50.0,
-                        "INSTRUCTIONS": 30.0,
-                        "CYCLES": 1748.0
+                        "INSTRUCTIONS": 26.0,
+                        "CYCLES": 1516.0
                     }
                 },
-                "link": "https://i.imgur.com/HcZmZYP.mp4"
+                "link": "https://i.imgur.com/KRNFiXr.mp4"
             },
             "SGP": {
                 "score": {
@@ -15218,8 +15218,8 @@
             {
                 "parts": {
                     "COST": 50.0,
-                    "CYCLES": 1748.0,
-                    "INSTRUCTIONS": 30.0
+                    "CYCLES": 1516.0,
+                    "INSTRUCTIONS": 26.0
                 }
             }
         ]
