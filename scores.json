@@ -15075,11 +15075,11 @@
                 "score": {
                     "parts": {
                         "COST": 50.0,
-                        "INSTRUCTIONS": 38.0,
-                        "CYCLES": 2616.0
+                        "INSTRUCTIONS": 30.0,
+                        "CYCLES": 1748.0
                     }
                 },
-                "link": "https://i.imgur.com/Scibeu1.gifv"
+                "link": "https://i.imgur.com/HcZmZYP.mp4"
             },
             "SGP": {
                 "score": {
@@ -15175,13 +15175,6 @@
         "pareto": [
             {
                 "parts": {
-                    "COST": 50.0,
-                    "CYCLES": 2616.0,
-                    "INSTRUCTIONS": 38.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 95.0,
                     "CYCLES": 75.0,
                     "INSTRUCTIONS": 22.0
@@ -15220,6 +15213,13 @@
                     "COST": 50.0,
                     "CYCLES": 284.0,
                     "INSTRUCTIONS": 92.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 50.0,
+                    "CYCLES": 1748.0,
+                    "INSTRUCTIONS": 30.0
                 }
             }
         ]
