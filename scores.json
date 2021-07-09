@@ -10631,31 +10631,31 @@
                 "score": {
                     "parts": {
                         "COST": 40.0,
-                        "CYCLES": 4135.0,
-                        "AREA": 1086.0
+                        "CYCLES": 4105.0,
+                        "AREA": 1071.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xODk0MzI2NDlf/723_Sailcloth%20Thread_B_GG_NOGIF_40G_4135C_1086A_4135I_13P.mp4"
+                "link": "https://od.lk/s/MV8yNDc2NTY0MDRf/723_Sailcloth%20Thread_B_GG_NOGIF_40G_4105C_1071A_4105I_13P.mp4"
             },
             "GA": {
                 "score": {
                     "parts": {
                         "COST": 40.0,
-                        "AREA": 1086.0,
-                        "CYCLES": 4135.0
+                        "AREA": 1071.0,
+                        "CYCLES": 4105.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xODk0MzI2NDlf/723_Sailcloth%20Thread_B_GG_NOGIF_40G_4135C_1086A_4135I_13P.mp4"
+                "link": "https://od.lk/s/MV8yNDc2NTY0MDRf/723_Sailcloth%20Thread_B_GG_NOGIF_40G_4105C_1071A_4105I_13P.mp4"
             },
             "GX": {
                 "score": {
                     "parts": {
                         "COST": 40.0,
-                        "CYCLES": 4135.0,
-                        "AREA": 1086.0
+                        "CYCLES": 4105.0,
+                        "AREA": 1071.0
                     }
                 },
-                "link": "https://od.lk/s/MV8xODk0MzI2NDlf/723_Sailcloth%20Thread_B_GG_NOGIF_40G_4135C_1086A_4135I_13P.mp4"
+                "link": "https://od.lk/s/MV8yNDc2NTY0MDRf/723_Sailcloth%20Thread_B_GG_NOGIF_40G_4105C_1071A_4105I_13P.mp4"
             },
             "AG": {
                 "score": {
@@ -10749,13 +10749,6 @@
             }
         },
         "pareto": [
-            {
-                "parts": {
-                    "COST": 40.0,
-                    "CYCLES": 4135.0,
-                    "AREA": 1086.0
-                }
-            },
             {
                 "parts": {
                     "COST": 50.0,
@@ -10971,6 +10964,13 @@
                     "COST": 1365.0,
                     "CYCLES": 12.0,
                     "AREA": 98.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 40.0,
+                    "CYCLES": 4105.0,
+                    "AREA": 1071.0
                 }
             }
         ]
