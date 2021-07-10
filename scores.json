@@ -12019,11 +12019,11 @@
                 "score": {
                     "parts": {
                         "AREA": 32.0,
-                        "COST": 70.0,
-                        "CYCLES": 1251.0
+                        "COST": 60.0,
+                        "CYCLES": 1269.0
                     }
                 },
-                "link": "https://od.lk/s/MV8yMDUzODEzMTRf/733_Resonant%20Crystal_B_AG_70G_1251C_32A_209I_12P.mp4"
+                "link": "https://i.imgur.com/EKVoiFf.gif"
             },
             "SG": {
                 "score": {
@@ -12231,6 +12231,13 @@
                     "COST": 735.0,
                     "CYCLES": 39.0,
                     "AREA": 52.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 1269.0,
+                    "AREA": 32.0
                 }
             }
         ]
