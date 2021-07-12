@@ -22084,32 +22084,32 @@
             "CG": {
                 "score": {
                     "parts": {
-                        "CYCLES": 118.0,
-                        "COST": 370.0,
-                        "AREA": 59.0
+                        "CYCLES": 34.0,
+                        "COST": 580.0,
+                        "AREA": 102.0
                     }
                 },
-                "link": "https://i.imgur.com/kxHj6KO.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/864178117144346645/calm_before_the_storm_CGA.mp4"
             },
             "CA": {
                 "score": {
                     "parts": {
-                        "CYCLES": 118.0,
-                        "AREA": 59.0,
-                        "COST": 370.0
+                        "CYCLES": 34.0,
+                        "AREA": 102.0,
+                        "COST": 580.0
                     }
                 },
-                "link": "https://i.imgur.com/kxHj6KO.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/864178117144346645/calm_before_the_storm_CGA.mp4"
             },
             "CX": {
                 "score": {
                     "parts": {
-                        "CYCLES": 118.0,
-                        "COST": 370.0,
-                        "AREA": 59.0
+                        "CYCLES": 34.0,
+                        "COST": 580.0,
+                        "AREA": 102.0
                     }
                 },
-                "link": "https://i.imgur.com/kxHj6KO.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/864178117144346645/calm_before_the_storm_CGA.mp4"
             },
             "AG": {
                 "score": {
@@ -22185,6 +22185,13 @@
                     "COST": 90.0,
                     "CYCLES": 739.0,
                     "AREA": 39.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 580.0,
+                    "CYCLES": 34.0,
+                    "AREA": 102.0
                 }
             }
         ]
