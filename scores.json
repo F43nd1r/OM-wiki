@@ -22095,11 +22095,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 34.0,
-                        "AREA": 102.0,
-                        "COST": 580.0
+                        "AREA": 101.0,
+                        "COST": 660.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/864178117144346645/calm_before_the_storm_CGA.mp4"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/864185190787711006/calm_before_the_storm_CAG.mp4"
             },
             "CX": {
                 "score": {
@@ -22192,6 +22192,13 @@
                     "COST": 580.0,
                     "CYCLES": 34.0,
                     "AREA": 102.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 660.0,
+                    "CYCLES": 34.0,
+                    "AREA": 101.0
                 }
             }
         ]
