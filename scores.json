@@ -12018,12 +12018,12 @@
             "AG": {
                 "score": {
                     "parts": {
-                        "AREA": 32.0,
-                        "COST": 60.0,
-                        "CYCLES": 1269.0
+                        "AREA": 31.0,
+                        "COST": 75.0,
+                        "CYCLES": 1178.0
                     }
                 },
-                "link": "https://i.imgur.com/EKVoiFf.gif"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/864699998818140201/Opus_Magnum_-_Resonant_Crystal_75G_1178_31_2021-07-14-10-47-54.gif"
             },
             "SG": {
                 "score": {
@@ -12038,22 +12038,22 @@
             "AC": {
                 "score": {
                     "parts": {
-                        "AREA": 32.0,
-                        "CYCLES": 534.0,
-                        "COST": 120.0
+                        "AREA": 31.0,
+                        "CYCLES": 1178.0,
+                        "COST": 75.0
                     }
                 },
-                "link": "https://i.imgur.com/fLb4sPa.mp4"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/864699998818140201/Opus_Magnum_-_Resonant_Crystal_75G_1178_31_2021-07-14-10-47-54.gif"
             },
             "AX": {
                 "score": {
                     "parts": {
-                        "AREA": 32.0,
-                        "COST": 120.0,
-                        "CYCLES": 534.0
+                        "AREA": 31.0,
+                        "COST": 75.0,
+                        "CYCLES": 1178.0
                     }
                 },
-                "link": "https://i.imgur.com/fLb4sPa.mp4"
+                "link": "https://cdn.discordapp.com/attachments/370367639073062922/864699998818140201/Opus_Magnum_-_Resonant_Crystal_75G_1178_31_2021-07-14-10-47-54.gif"
             },
             "CG": {
                 "score": {
@@ -12151,13 +12151,6 @@
             },
             {
                 "parts": {
-                    "COST": 80.0,
-                    "CYCLES": 1197.0,
-                    "AREA": 32.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 100.0,
                     "CYCLES": 667.0,
                     "AREA": 32.0
@@ -12238,6 +12231,13 @@
                     "COST": 60.0,
                     "CYCLES": 1269.0,
                     "AREA": 32.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 75.0,
+                    "CYCLES": 1178.0,
+                    "AREA": 31.0
                 }
             }
         ]
