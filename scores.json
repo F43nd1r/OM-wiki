@@ -22702,21 +22702,21 @@
                 "score": {
                     "parts": {
                         "COST": 75.0,
-                        "INSTRUCTIONS": 225.0,
-                        "CYCLES": 1294.0
+                        "INSTRUCTIONS": 191.0,
+                        "CYCLES": 1135.0
                     }
                 },
-                "link": "https://i.imgur.com/Zt6dO05.gif"
+                "link": "https://i.imgur.com/j5pWVRz.gif"
             },
             "GXP": {
                 "score": {
                     "parts": {
                         "COST": 75.0,
-                        "CYCLES": 1294.0,
-                        "INSTRUCTIONS": 225.0
+                        "CYCLES": 1135.0,
+                        "INSTRUCTIONS": 191.0
                     }
                 },
-                "link": "https://i.imgur.com/Zt6dO05.gif"
+                "link": "https://i.imgur.com/j5pWVRz.gif"
             },
             "CGP": {
                 "score": {
@@ -22841,15 +22841,15 @@
             {
                 "parts": {
                     "COST": 75.0,
-                    "CYCLES": 1294.0,
-                    "INSTRUCTIONS": 225.0
+                    "CYCLES": 922.0,
+                    "INSTRUCTIONS": 779.0
                 }
             },
             {
                 "parts": {
                     "COST": 75.0,
-                    "CYCLES": 922.0,
-                    "INSTRUCTIONS": 779.0
+                    "CYCLES": 1135.0,
+                    "INSTRUCTIONS": 191.0
                 }
             }
         ]
