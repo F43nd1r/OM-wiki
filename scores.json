@@ -22702,11 +22702,11 @@
                 "score": {
                     "parts": {
                         "COST": 75.0,
-                        "INSTRUCTIONS": 175.0,
-                        "CYCLES": 1044.0
+                        "INSTRUCTIONS": 163.0,
+                        "CYCLES": 1943.0
                     }
                 },
-                "link": "https://i.imgur.com/rGI3qNN.gif"
+                "link": "https://i.imgur.com/JICJRnd.gif"
             },
             "GXP": {
                 "score": {
@@ -22850,6 +22850,13 @@
                     "COST": 75.0,
                     "CYCLES": 1044.0,
                     "INSTRUCTIONS": 175.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 75.0,
+                    "CYCLES": 1943.0,
+                    "INSTRUCTIONS": 163.0
                 }
             }
         ]
