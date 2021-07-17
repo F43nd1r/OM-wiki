@@ -22712,11 +22712,11 @@
                 "score": {
                     "parts": {
                         "COST": 75.0,
-                        "CYCLES": 1044.0,
-                        "INSTRUCTIONS": 175.0
+                        "CYCLES": 960.0,
+                        "INSTRUCTIONS": 161.0
                     }
                 },
-                "link": "https://i.imgur.com/rGI3qNN.gif"
+                "link": "https://i.postimg.cc/KYxBNvYj/945-20-W5-Overloaded-B-GX-75-G-960-C-161-I.gif"
             },
             "CGP": {
                 "score": {
@@ -22781,32 +22781,32 @@
             "SGP": {
                 "score": {
                     "parts": {
-                        "COST": 720.0,
-                        "CYCLES": 50.0,
-                        "INSTRUCTIONS": 473.0
+                        "COST": 75.0,
+                        "CYCLES": 960.0,
+                        "INSTRUCTIONS": 161.0
                     }
                 },
-                "link": "https://i.imgur.com/XbPKhei.gif"
+                "link": "https://i.postimg.cc/KYxBNvYj/945-20-W5-Overloaded-B-GX-75-G-960-C-161-I.gif"
             },
             "SCP": {
                 "score": {
                     "parts": {
-                        "COST": 720.0,
-                        "CYCLES": 50.0,
-                        "INSTRUCTIONS": 473.0
+                        "COST": 75.0,
+                        "CYCLES": 960.0,
+                        "INSTRUCTIONS": 161.0
                     }
                 },
-                "link": "https://i.imgur.com/XbPKhei.gif"
+                "link": "https://i.postimg.cc/KYxBNvYj/945-20-W5-Overloaded-B-GX-75-G-960-C-161-I.gif"
             },
             "SI": {
                 "score": {
                     "parts": {
-                        "COST": 720.0,
-                        "CYCLES": 50.0,
-                        "INSTRUCTIONS": 473.0
+                        "COST": 75.0,
+                        "CYCLES": 960.0,
+                        "INSTRUCTIONS": 161.0
                     }
                 },
-                "link": "https://i.imgur.com/XbPKhei.gif"
+                "link": "https://i.postimg.cc/KYxBNvYj/945-20-W5-Overloaded-B-GX-75-G-960-C-161-I.gif"
             }
         },
         "pareto": [
@@ -22848,13 +22848,6 @@
             {
                 "parts": {
                     "COST": 75.0,
-                    "CYCLES": 1044.0,
-                    "INSTRUCTIONS": 175.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 75.0,
                     "CYCLES": 810.0,
                     "INSTRUCTIONS": 810.0
                 }
@@ -22864,6 +22857,13 @@
                     "COST": 75.0,
                     "CYCLES": 1631.0,
                     "INSTRUCTIONS": 137.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 75.0,
+                    "CYCLES": 960.0,
+                    "INSTRUCTIONS": 161.0
                 }
             }
         ]
