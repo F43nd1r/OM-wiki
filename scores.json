@@ -21650,11 +21650,11 @@
                 "score": {
                     "parts": {
                         "CYCLES": 29.0,
-                        "COST": 500.0,
-                        "AREA": 72.0
+                        "COST": 485.0,
+                        "AREA": 73.0
                     }
                 },
-                "link": "https://i.imgur.com/wiNwY3k.gif"
+                "link": "https://i.postimg.cc/W3B3Yvn4/941-20-W1-Potent-Potables-B-CX-2-T-485-G-29-C-73-A-112-I-29-P.gif"
             },
             "AG": {
                 "score": {
@@ -21744,6 +21744,13 @@
                     "COST": 440.0,
                     "CYCLES": 29.0,
                     "AREA": 117.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 485.0,
+                    "CYCLES": 29.0,
+                    "AREA": 73.0
                 }
             }
         ]
