@@ -21640,21 +21640,21 @@
                 "score": {
                     "parts": {
                         "CYCLES": 29.0,
-                        "AREA": 126.0,
-                        "COST": 440.0
+                        "AREA": 72.0,
+                        "COST": 500.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848369023204982804/Opus_Magnum_-_I_POTENT_POTABLES_440G_29_126_2020-12-04-22-37-02.gif"
+                "link": "https://i.imgur.com/wiNwY3k.gif"
             },
             "CX": {
                 "score": {
                     "parts": {
                         "CYCLES": 29.0,
-                        "COST": 440.0,
-                        "AREA": 126.0
+                        "COST": 500.0,
+                        "AREA": 72.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848369023204982804/Opus_Magnum_-_I_POTENT_POTABLES_440G_29_126_2020-12-04-22-37-02.gif"
+                "link": "https://i.imgur.com/wiNwY3k.gif"
             },
             "AG": {
                 "score": {
@@ -21737,6 +21737,13 @@
                     "COST": 40.0,
                     "CYCLES": 892.0,
                     "AREA": 27.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 500.0,
+                    "CYCLES": 29.0,
+                    "AREA": 72.0
                 }
             }
         ]
