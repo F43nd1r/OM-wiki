@@ -21631,10 +21631,10 @@
                     "parts": {
                         "CYCLES": 29.0,
                         "COST": 440.0,
-                        "AREA": 126.0
+                        "AREA": 117.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848369023204982804/Opus_Magnum_-_I_POTENT_POTABLES_440G_29_126_2020-12-04-22-37-02.gif"
+                "link": "https://i.postimg.cc/wBB77FM9/941-20-W1-Potent-Potables-B-CG-2-T-440-G-29-C-117-A-98-I-26-P.gif"
             },
             "CA": {
                 "score": {
@@ -21720,13 +21720,6 @@
         "pareto": [
             {
                 "parts": {
-                    "COST": 440.0,
-                    "CYCLES": 29.0,
-                    "AREA": 126.0
-                }
-            },
-            {
-                "parts": {
                     "COST": 135.0,
                     "CYCLES": 80.0,
                     "AREA": 40.0
@@ -21744,6 +21737,13 @@
                     "COST": 500.0,
                     "CYCLES": 29.0,
                     "AREA": 72.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 440.0,
+                    "CYCLES": 29.0,
+                    "AREA": 117.0
                 }
             }
         ]
