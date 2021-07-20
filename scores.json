@@ -21491,79 +21491,65 @@
             "AG": {
                 "score": {
                     "parts": {
-                        "AREA": 82.0,
-                        "COST": 315.0,
-                        "CYCLES": 396.0
+                        "AREA": 64.0,
+                        "COST": 200.0,
+                        "CYCLES": 71.0
                     }
                 },
-                "link": "https://i.imgur.com/txfRcNS.gif"
+                "link": "https://i.imgur.com/LtL6YAl.gif"
             },
             "AC": {
                 "score": {
                     "parts": {
-                        "AREA": 82.0,
-                        "CYCLES": 396.0,
-                        "COST": 315.0
+                        "AREA": 64.0,
+                        "CYCLES": 71.0,
+                        "COST": 200.0
                     }
                 },
-                "link": "https://i.imgur.com/txfRcNS.gif"
+                "link": "https://i.imgur.com/LtL6YAl.gif"
             },
             "AX": {
                 "score": {
                     "parts": {
-                        "AREA": 82.0,
-                        "COST": 315.0,
-                        "CYCLES": 396.0
+                        "AREA": 64.0,
+                        "COST": 200.0,
+                        "CYCLES": 71.0
                     }
                 },
-                "link": "https://i.imgur.com/txfRcNS.gif"
+                "link": "https://i.imgur.com/LtL6YAl.gif"
             },
             "SG": {
                 "score": {
                     "parts": {
-                        "COST": 380.0,
-                        "CYCLES": 50.0,
-                        "AREA": 184.0
+                        "COST": 200.0,
+                        "CYCLES": 71.0,
+                        "AREA": 64.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
+                "link": "https://i.imgur.com/LtL6YAl.gif"
             },
             "SC": {
                 "score": {
                     "parts": {
-                        "COST": 380.0,
-                        "CYCLES": 50.0,
-                        "AREA": 184.0
+                        "COST": 200.0,
+                        "CYCLES": 71.0,
+                        "AREA": 64.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
+                "link": "https://i.imgur.com/LtL6YAl.gif"
             },
             "SA": {
                 "score": {
                     "parts": {
-                        "COST": 380.0,
-                        "CYCLES": 50.0,
-                        "AREA": 184.0
+                        "COST": 200.0,
+                        "CYCLES": 71.0,
+                        "AREA": 64.0
                     }
                 },
-                "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
+                "link": "https://i.imgur.com/LtL6YAl.gif"
             }
         },
         "pareto": [
-            {
-                "parts": {
-                    "COST": 315.0,
-                    "CYCLES": 396.0,
-                    "AREA": 82.0
-                }
-            },
-            {
-                "parts": {
-                    "COST": 450.0,
-                    "CYCLES": 99.0,
-                    "AREA": 161.0
-                }
-            },
             {
                 "parts": {
                     "COST": 380.0,
@@ -21597,6 +21583,13 @@
                     "COST": 675.0,
                     "CYCLES": 20.0,
                     "AREA": 114.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 200.0,
+                    "CYCLES": 71.0,
+                    "AREA": 64.0
                 }
             }
         ]
