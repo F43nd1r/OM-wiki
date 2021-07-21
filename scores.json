@@ -21502,21 +21502,21 @@
                 "score": {
                     "parts": {
                         "AREA": 20.0,
-                        "CYCLES": 855.0,
-                        "COST": 90.0
+                        "CYCLES": 503.0,
+                        "COST": 120.0
                     }
                 },
-                "link": "https://i.imgur.com/VYTY3uW.gif"
+                "link": "https://i.imgur.com/aAs4HnP.gif"
             },
             "AX": {
                 "score": {
                     "parts": {
                         "AREA": 20.0,
-                        "COST": 90.0,
-                        "CYCLES": 855.0
+                        "COST": 120.0,
+                        "CYCLES": 503.0
                     }
                 },
-                "link": "https://i.imgur.com/VYTY3uW.gif"
+                "link": "https://i.imgur.com/aAs4HnP.gif"
             },
             "SG": {
                 "score": {
@@ -21596,6 +21596,13 @@
                 "parts": {
                     "COST": 90.0,
                     "CYCLES": 855.0,
+                    "AREA": 20.0
+                }
+            },
+            {
+                "parts": {
+                    "COST": 120.0,
+                    "CYCLES": 503.0,
                     "AREA": 20.0
                 }
             }
